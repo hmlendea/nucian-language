@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><dictionary><PolyGlotVer>3.5.1</PolyGlotVer><DictSaveDate>2023-04-17T09:45:36.125576613Z</DictSaveDate><languageProperties><fontStyle>0</fontStyle><fontSize>20.0</fontSize><localFontSize>20.0</localFontSize><langName>Nucian</langName><alphaOrder>',A,a,ă,â,b,c,č,d,e,f,g,ğ,H,h,i,î,j,l,m,n,o,p,q,r,s,Ṣ,ș,T,t,ț,u,v,x,y,z</alphaOrder><langPropTypeMandatory>T</langPropTypeMandatory><langPropLocalMandatory>T</langPropLocalMandatory><langPropLocalUniqueness>F</langPropLocalUniqueness><langPropWordUniqueness>F</langPropWordUniqueness><langPropIgnoreCase>F</langPropIgnoreCase><langPropDisableProcRegex>F</langPropDisableProcRegex><langPropEnforceRTL>F</langPropEnforceRTL><langPropOverrideRegexFont>F</langPropOverrideRegexFont><langPropUseLocalLexicon>F</langPropUseLocalLexicon><langPropAuthorCopyright>&lt;html&gt;
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><dictionary><PolyGlotVer>3.5.1</PolyGlotVer><DictSaveDate>2023-04-17T14:03:19.956298210Z</DictSaveDate><languageProperties><fontStyle>0</fontStyle><fontSize>20.0</fontSize><localFontSize>20.0</localFontSize><langName>Nucian</langName><alphaOrder>',A,a,ă,â,b,c,č,d,e,f,g,ğ,H,h,i,î,j,l,m,n,o,p,q,r,s,Ṣ,ș,T,t,ț,u,v,x,y,z</alphaOrder><langPropTypeMandatory>T</langPropTypeMandatory><langPropLocalMandatory>T</langPropLocalMandatory><langPropLocalUniqueness>F</langPropLocalUniqueness><langPropWordUniqueness>F</langPropWordUniqueness><langPropIgnoreCase>F</langPropIgnoreCase><langPropDisableProcRegex>F</langPropDisableProcRegex><langPropEnforceRTL>F</langPropEnforceRTL><langPropOverrideRegexFont>F</langPropOverrideRegexFont><langPropUseLocalLexicon>F</langPropUseLocalLexicon><langPropAuthorCopyright>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
@@ -30,7 +30,7 @@
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>79</wordId><localWord>now</localWord><conWord>amu</conWord><wordTypeId>5</wordTypeId><pronunciation/><definition/><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>204</wordId><localWord>grocery store</localWord><conWord>aproz</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A small shop that sells groceries, usually located in a residential area.&lt;/body&gt;
 &lt;/html&gt;
@@ -46,7 +46,13 @@
   &lt;/head&gt;
   &lt;body&gt;A tool used for chopping wood, typically consisting of a metal blade with a wooden handle.&lt;/body&gt;
 &lt;/html&gt;
-</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>80</wordId><localWord>today</localWord><conWord>azie</conWord><wordTypeId>5</wordTypeId><pronunciation/><definition/><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>211</wordId><localWord>chirp</localWord><conWord>băsădi</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>80</wordId><localWord>today</localWord><conWord>azie</conWord><wordTypeId>5</wordTypeId><pronunciation/><definition/><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>97</wordId><localWord>but</localWord><conWord>ba</conWord><wordTypeId>9</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;The conjunction for indicating contrast between clauses.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>211</wordId><localWord>chirp</localWord><conWord>băsădi</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
 
   &lt;/head&gt;
@@ -178,12 +184,6 @@
   &lt;/head&gt;
   &lt;body&gt;To move downward from a higher to a lower position, typically rapidly and without control.&lt;/body&gt;
 &lt;/html&gt;
-</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>230</wordId><localWord>ciocolată</localWord><conWord>ciocă</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
-  &lt;head&gt;
-
-  &lt;/head&gt;
-  &lt;body&gt;A sweet food made from ground roasted cocoa beans.&lt;/body&gt;
-&lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>31</wordId><localWord>guitar</localWord><conWord>citarie</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
@@ -220,17 +220,17 @@
   &lt;/head&gt;
   &lt;body&gt;A large predatory reptile with a long snout, a thick skin with scales, and a powerful tail, native to Africa, Asia, the Americas, and Australia.&lt;/body&gt;
 &lt;/html&gt;
-</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>196</wordId><localWord>pumpkin</localWord><conWord>cucurbăt</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
-  &lt;head&gt;
-
-  &lt;/head&gt;
-  &lt;body&gt;A large, round or oval fruit with a hard, smooth, typically orange rind and edible flesh.&lt;/body&gt;
-&lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>121</wordId><localWord>buy</localWord><conWord>cumpra</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body&gt;To acquire something in exchange for money or its equivalent.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>196</wordId><localWord>pumpkin</localWord><conWord>curbăt</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A large, round or oval fruit with a hard, smooth, typically orange rind and edible flesh.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>195</wordId><localWord>cabbage</localWord><conWord>curiche</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -256,13 +256,13 @@
   &lt;/head&gt;
   &lt;body&gt;To cut something into smaller pieces, typically using a sharp tool such as an axe or a knife.&lt;/body&gt;
 &lt;/html&gt;
-</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>106</wordId><localWord>bye, goodbye, farewell</localWord><conWord>čus</conWord><wordTypeId>10</wordTypeId><pronunciation/><definition/><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>84</wordId><localWord>yes</localWord><conWord>da</conWord><wordTypeId>5</wordTypeId><pronunciation/><definition/><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>97</wordId><localWord>but</localWord><conWord>da'</conWord><wordTypeId>9</wordTypeId><pronunciation/><definition>&lt;html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>230</wordId><localWord>ciocolată</localWord><conWord>čiocă</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;The conjunction for indicating contrast between clauses.&lt;/body&gt;
+  &lt;body&gt;A sweet food made from ground roasted cocoa beans.&lt;/body&gt;
 &lt;/html&gt;
-</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>122</wordId><localWord>give</localWord><conWord>dara</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>106</wordId><localWord>bye, goodbye, farewell</localWord><conWord>čus</conWord><wordTypeId>10</wordTypeId><pronunciation/><definition/><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>84</wordId><localWord>yes</localWord><conWord>da</conWord><wordTypeId>5</wordTypeId><pronunciation/><definition/><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>122</wordId><localWord>give</localWord><conWord>dara</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
@@ -315,6 +315,12 @@
     
   &lt;/head&gt;
   &lt;body&gt;A person, language, or culture originating from or associated with England, a country in western Europe.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>96</wordId><localWord>and</localWord><conWord>et</conWord><wordTypeId>9</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;The conjunction for joining clauses.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>23</wordId><localWord>family</localWord><conWord>famil</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -400,7 +406,7 @@
   &lt;/head&gt;
   &lt;body&gt;A quality or combination of qualities that pleases the senses, often associated with physical appearance but also used to describe art, nature, and other things.&lt;/body&gt;
 &lt;/html&gt;
-</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>124</wordId><localWord>run</localWord><conWord>fugi</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>124</wordId><localWord>run</localWord><conWord>fuği</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
@@ -498,13 +504,13 @@
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>222</wordId><localWord>imperial</localWord><conWord>imperial</conWord><wordTypeId>4</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Relating to an empire or its ruler.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>231</wordId><localWord>tent</localWord><conWord>iurtă</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A portable shelter made of fabric or other material supported by poles and ropes.&lt;/body&gt;
 &lt;/html&gt;
@@ -772,6 +778,12 @@
   &lt;/head&gt;
   &lt;body&gt;To be able to do something, to have the capacity or ability to perform a task or activity.&lt;/body&gt;
 &lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>76</wordId><localWord>ugly</localWord><conWord>počitan</conWord><wordTypeId>4</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Unpleasant or repulsive in appearance.&lt;/body&gt;
+&lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>193</wordId><localWord>potato</localWord><conWord>potat</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
@@ -816,7 +828,7 @@
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>191</wordId><localWord>cute</localWord><conWord>pușin</conWord><wordTypeId>4</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Attractive or pretty, especially in a childish, delicate, or charming way.&lt;/body&gt;
 &lt;/html&gt;
@@ -844,7 +856,7 @@
   &lt;/head&gt;
   &lt;body&gt;A structure built by birds or other animals to hold their eggs, offspring, or themselves, often located in trees or on the ground.&lt;/body&gt;
 &lt;/html&gt;
-</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>51</wordId><localWord>sink</localWord><conWord>quvet</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>51</wordId><localWord>sink</localWord><conWord>quvetă</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
@@ -870,7 +882,7 @@
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>135</wordId><localWord>return</localWord><conWord>riturna</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;To come or go back to a previous place or condition, to give, send, or put something back to its original place or owner.&lt;/body&gt;
 &lt;/html&gt;
@@ -981,6 +993,12 @@
     
   &lt;/head&gt;
   &lt;body&gt;The non-physical part of a person that is believed to live on after the body dies, often associated with religious or philosophical beliefs.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>242</wordId><localWord>story</localWord><conWord>storie</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A narrative or tale, often fictional, that describes a series of events or experiences, typically involving a protagonist and other characters, and that is intended to entertain, inform, or convey a message or moral lesson.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>235</wordId><localWord>stove</localWord><conWord>stovă</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -1110,7 +1128,7 @@
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>148</wordId><localWord>bring</localWord><conWord>trağe</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;To cause to come with oneself or to a particular place, to transport or convey something or someone.&lt;/body&gt;
 &lt;/html&gt;
@@ -1155,12 +1173,6 @@
     
   &lt;/head&gt;
   &lt;body&gt;A small carnivorous mammal with soft fur, a short snout, and retractable claws, domesticated as a pet or for catching mice.&lt;/body&gt;
-&lt;/html&gt;
-</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>76</wordId><localWord>ugly</localWord><conWord>urât</conWord><wordTypeId>4</wordTypeId><pronunciation/><definition>&lt;html&gt;
-  &lt;head&gt;
-
-  &lt;/head&gt;
-  &lt;body&gt;Unpleasant or repulsive in appearance.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>215</wordId><localWord>move</localWord><conWord>urni</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -1251,12 +1263,6 @@
     
   &lt;/head&gt;
   &lt;body&gt;A carnivorous mammal with a pointed snout, bushy tail, and reddish fur, often associated with cunning and intelligence.&lt;/body&gt;
-&lt;/html&gt;
-</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>96</wordId><localWord>and</localWord><conWord>y</conWord><wordTypeId>9</wordTypeId><pronunciation/><definition>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;The conjunction for joining clauses.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>29</wordId><localWord>enemy</localWord><conWord>zâgan</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
