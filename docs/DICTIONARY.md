@@ -9,9 +9,12 @@
 |amor|noun|love|An intense feeling of affection and attachment towards someone or something.|
 |amu|adverb|now||
 |aproz|noun|grocery store|A small shop that sells groceries, usually located in a residential area.|
+|asap|adjectival|fast, quick|Done or happening with great speed or promptness.|
+|asap|adverb|fast, quickly|In a quick or speedy manner.|
 |avora|verb|have|To possess, own, or hold something.|
 |ax|noun|axe|A tool used for chopping wood, typically consisting of a metal blade with a wooden handle.|
 |azie|adverb|today||
+|ba|conjunction|but|The conjunction for indicating contrast between clauses.|
 |băsădi|verb|chirp|To make a short, sharp sound, like a small bird or insect.|
 |bântači|noun|ghost|The spirit of a dead person, sometimes represented as a shadowy figure or a translucent or transparent form.|
 |bârnă|noun|log|A length of a tree trunk or a large piece of timber that has been cut for use.|
@@ -26,6 +29,7 @@
 |budin|adjectival|fat|Having an excess of body weight, adipose tissue, or being overweight.|
 |budzi|noun|bathroom|A room equipped with a toilet and sink, used for personal hygiene.|
 |bungalău|noun|hut|A small, simple, and often temporary dwelling.|
+|buzni|verb|burst in, barge in|To enter a room or a place suddenly and forcefully, often without permission or without considering other people who may be present.|
 |cafă|noun|coffee|A beverage made from roasted coffee beans, usually consumed hot and containing caffeine.|
 |cal|noun|horse|A large, four-legged mammal typically used for riding, racing, or work.|
 |capta|verb|catch|To intercept and hold (something that has been thrown, propelled, or dropped).|
@@ -35,22 +39,21 @@
 |câne|noun|dog|A domesticated carnivorous mammal, often kept as a pet or used for hunting, guarding, or herding.|
 |ce|preposition|which||
 |cheza|verb|fall|To move downward from a higher to a lower position, typically rapidly and without control.|
-|ciocă|noun|ciocolată|A sweet food made from ground roasted cocoa beans.|
 |citarie|noun|guitar|A stringed musical instrument played with the fingers or a pick, typically having six strings.|
 |coăl|noun|coal|A fossil fuel formed from the remains of ancient plants, that is used as a source of energy.|
 |compa|verb|behave|To act or conduct oneself in a specified way, especially in relation to others.|
 |congres|noun|congress|A formal gathering of representatives or delegates for discussion and decision-making, typically in a political context.|
 |criș|noun|river|A large, flowing body of water that empties into a sea or ocean.|
 |crocoadă|noun|crocodile|A large predatory reptile with a long snout, a thick skin with scales, and a powerful tail, native to Africa, Asia, the Americas, and Australia.|
-|cucurbăt|noun|pumpkin|A large, round or oval fruit with a hard, smooth, typically orange rind and edible flesh.|
 |cumpra|verb|buy|To acquire something in exchange for money or its equivalent.|
+|curbăt|noun|pumpkin|A large, round or oval fruit with a hard, smooth, typically orange rind and edible flesh.|
 |curiche|noun|cabbage|A leafy green vegetable with tightly packed leaves that form a round or elongated head.|
 |čel|noun|sky|The region of the atmosphere and outer space seen from the Earth.|
 |čest|noun|chest|A large box or container with a lid, often used for storage.|
 |čhopi|verb|chop|To cut something into smaller pieces, typically using a sharp tool such as an axe or a knife.|
+|čiocă|noun|ciocolată|A sweet food made from ground roasted cocoa beans.|
 |čus|interjection|bye, goodbye, farewell||
 |da|adverb|yes||
-|da'|conjunction|but|The conjunction for indicating contrast between clauses.|
 |dara|verb|give|To freely transfer the possession or ownership of something to someone else, typically without expectation of compensation.|
 |dărt|noun|dirt|Soil or earth, often associated with being dirty or contaminated.|
 |dihan|noun|monster|An imaginary creature that is typically large, ugly, and frightening.|
@@ -59,9 +62,11 @@
 |dubaș|adjectival|weird|Suggesting something supernatural; eerie or uncanny.|
 |dula|verb|birth|To give birth, to bring forth offspring.|
 |dulăzie|noun|birthday|The anniversary of the day on which a person was born, typically celebrated by giving gifts, having a party, or enjoying a special meal.|
+|ember|noun|dude, guy, man|A man or boy; a term commonly used in informal situations.|
 |emra|verb|command, order|To give an authoritative order or direction.|
 |emră|noun|command, order|An authoritative order or instruction.|
 |englu|noun|english|A person, language, or culture originating from or associated with England, a country in western Europe.|
+|et|conjunction|and|The conjunction for joining clauses.|
 |famil|noun|family|A group of people related by blood, marriage, or adoption, often living together as a household.|
 |felič|adjectival|happy|Feeling or showing pleasure or contentment.|
 |fer|noun|iron|A strong, hard, magnetic, silvery-gray metal used in construction and manufacturing.|
@@ -76,7 +81,8 @@
 |fola|verb|follow|To come or go after or behind someone or something, to pursue.|
 |frumi|adjectival|beautiful|Pleasing the senses or mind aesthetically; having qualities that give great pleasure or satisfaction to see, hear, think about, etc.; excellent.|
 |frumie|noun|beauty|A quality or combination of qualities that pleases the senses, often associated with physical appearance but also used to describe art, nature, and other things.|
-|fugi|verb|run|To move at a speed faster than walking by taking quick steps in which each foot is lifted before the next step.|
+|fuği|verb|run|To move at a speed faster than walking by taking quick steps in which each foot is lifted before the next step.|
+|găta|verb|finish|To bring to an end or complete an activity, task, or process.|
 |ghibli|noun|goblin|A mythical creature typically depicted as small and mischievous or malevolent, often associated with folklore and fantasy literature.|
 |ghină|noun|chicken|A domesticated bird that is commonly raised for its meat and eggs, often used in various cuisines and as a source of protein.|
 |greșă|noun|mistake|An error or fault in judgement, action, or decision-making.|
@@ -85,8 +91,10 @@
 |ğiozd|noun|backpack|A bag worn on the back, typically used for carrying personal belongings or supplies.|
 |Hori|proper noun|Horace||
 |hače|verb|do|To perform or carry out an action or task.|
+|halal|noun|risipă|The act of using resources carelessly or unproductively, or the resources that were used as such.|
 |haur|noun|gold|A precious metal valued for its rarity and luster, often used as a currency or for jewelry and decoration.|
 |hazâj|adjectival|ready|In a suitable state for an action or situation; fully prepared.|
+|hălăli|verb|waste|To use or expend carelessly, extravagantly, or to no purpose.|
 |hârton|noun|cardboard|A stiff, thick paper that is typically used for packaging or for making cards or posters.|
 |hodini|verb|rest|To cease work or movement in order to relax, refresh oneself, or recover strength.|
 |hodinit|adjectival|rested|Feeling refreshed and energized after sleep or rest.|
@@ -147,13 +155,17 @@
 |pită|noun|bread|A staple food made from flour, water, and yeast or other leavening agent, often associated with baking and cooking.|
 |plaie|noun|beach|A sandy or pebbly shore by the ocean, sea, or lake, often used for swimming, sunbathing, and recreational activities.|
 |poča|verb|can|To be able to do something, to have the capacity or ability to perform a task or activity.|
+|počitan|adjectival|ugly|Unpleasant or repulsive in appearance.|
 |potat|noun|potato|A starchy root vegetable that is part of the nightshade family and is commonly used for cooking.|
+|povă|noun|story|A narrative or tale, often fictional, that describes a series of events or experiences, typically involving a protagonist and other characters, and that is intended to entertain, inform, or convey a message or moral lesson.|
 |preș|noun|carpet|A thick woven or felted fabric for covering floors.|
+|prihon|noun|bad luck, misfortune|An unfortunate circumstance or series of events that cause difficulty or hardship.|
 |proșa|verb|forgive|To stop feeling angry or resentful towards someone for an offense, flaw, or mistake.|
 |proșit|adjectival|forgiven|No longer feeling anger or resentment towards someone for a mistake or offense they committed.|
 |pucă|noun|sin|An immoral or wrongful act, often associated with religious or moral codes and principles.|
 |puči|verb|sin|To commit an act that goes against moral or religious principles, to act immorally or wrongly.|
 |pučitor|noun|sinner|A person who has done something considered wrong or immoral.|
+|puiț|noun|baby|A very young offspring, especially one that is not yet able to care for itself.|
 |pușin|adjectival|cute|Attractive or pretty, especially in a childish, delicate, or charming way.|
 |puțurel|adjectival|little|Small in size, amount, or degree.|
 |qe|adverb|what||
@@ -161,7 +173,7 @@
 |qta|verb|leave, quit|To leave a location or job; to stop doing something.|
 |qu|preposition|with||
 |qub|noun|nest|A structure built by birds or other animals to hold their eggs, offspring, or themselves, often located in trees or on the ground.|
-|quvet|noun|sink|A bowl-shaped plumbing fixture used for washing hands or dishes, often located in a bathroom or kitchen.|
+|quvetă|noun|sink|A bowl-shaped plumbing fixture used for washing hands or dishes, often located in a bathroom or kitchen.|
 |răț|noun|duck|A waterbird with a broad, flat bill and webbed feet, often associated with swimming, diving, and quacking.|
 |răza|verb|raze|To completely destroy or demolish something, to level something to the ground.|
 |regn|noun|kingdom|A country, state, or territory ruled by a king or queen, often used to describe a period of history or a geographic region.|
@@ -170,6 +182,7 @@
 |sanct|noun|saint|A person recognized by a religious authority as having an exceptional degree of holiness, often associated with miracles and intercession.|
 |sanct|adjectival|holy, hallowed, sacred|Dedicated or consecrated to God or a religious purpose.|
 |sancta|verb|bless|To ask for divine favor or protection for someone or something, to confer happiness, prosperity or good fortune upon someone.|
+|sane|adverb|sure, of course|Without doubt or hesitation.|
 |scize|verb|open|To make something unsealed, unlocked or accessible, to unfold or spread out, to begin operations or activities.|
 |scula|verb|wake|To become or make someone conscious after sleeping, to emerge from a state of sleep or unconsciousness.|
 |sculat|adjectival|awake|Being conscious or not asleep.|
@@ -210,10 +223,11 @@
 |trial|noun|trial|A test or experiment designed to evaluate the performance or effectiveness of something, especially a new product or treatment, or a legal process to determine the guilt or innocence of a person accused of a crime.|
 |tropi|verb|tresspass|To enter someone else's property without permission, to intrude or encroach on someone's rights.|
 |trotă|noun|electric scooter, kick scooter|A small two-wheeled vehicle, propelled by either an electric motor, or the rider pushing off the ground with one foot, and often used for short-distance transportation or recreation.|
+|tudi|verb|know|To have information about something or someone in one's mind; to be aware of a fact or piece of information.|
 |tufă|noun|tuff|A type of rock made of volcanic ash, compressed and hardened into stone.|
 |țânc|noun|toddler|A young child who is just learning to walk.|
 |țiță|noun|cat|A small carnivorous mammal with soft fur, a short snout, and retractable claws, domesticated as a pet or for catching mice.|
-|urât|adjectival|ugly|Unpleasant or repulsive in appearance.|
+|țuca|verb|kiss|To touch or press with the lips as a sign of affection, greeting, or respect.|
 |urni|verb|move|To change position or location; to go from one place to another.|
 |uza|verb|use|To take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result.|
 |vailing|noun|bowl|A round, deep dish used for serving or eating food, often associated with soups, salads, or cereal.|
@@ -229,7 +243,6 @@
 |vijă|noun|desire|A strong feeling of wanting or wishing for something, often associated with longing, craving, or aspiration.|
 |vostis|possessive adjective|your|The plural form for &amp;quot;your&amp;quot; (english)|
 |vulpină|noun|fox|A carnivorous mammal with a pointed snout, bushy tail, and reddish fur, often associated with cunning and intelligence.|
-|y|conjunction|and|The conjunction for joining clauses.|
 |zâgan|noun|enemy|A person or group that is actively opposed or hostile to another, often associated with conflict and war.|
 |zâgan|noun|gypsy|A member of a traditionally itinerant ethnic group, often associated with music, dance, and fortune-telling.|
 |zâgan|noun|wrongdoer|A person who has committed a wrongdoing, often used to describe a criminal or someone who has violated a moral or ethical standard.|
