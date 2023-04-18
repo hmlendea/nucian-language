@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><dictionary><PolyGlotVer>3.5.1</PolyGlotVer><DictSaveDate>2023-04-18T08:21:52.748377801Z</DictSaveDate><languageProperties><fontStyle>0</fontStyle><fontSize>20.0</fontSize><localFontSize>20.0</localFontSize><langName>Nucian</langName><alphaOrder>',A,a,ă,â,b,c,č,d,e,f,g,ğ,H,h,i,î,j,l,m,n,o,p,q,r,s,Ṣ,ș,T,t,ț,u,v,x,y,z</alphaOrder><langPropTypeMandatory>T</langPropTypeMandatory><langPropLocalMandatory>T</langPropLocalMandatory><langPropLocalUniqueness>F</langPropLocalUniqueness><langPropWordUniqueness>F</langPropWordUniqueness><langPropIgnoreCase>F</langPropIgnoreCase><langPropDisableProcRegex>F</langPropDisableProcRegex><langPropEnforceRTL>F</langPropEnforceRTL><langPropOverrideRegexFont>F</langPropOverrideRegexFont><langPropUseLocalLexicon>F</langPropUseLocalLexicon><langPropAuthorCopyright>&lt;html&gt;
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><dictionary><PolyGlotVer>3.5.1</PolyGlotVer><DictSaveDate>2023-04-18T08:54:52.874514310Z</DictSaveDate><languageProperties><fontStyle>0</fontStyle><fontSize>20.0</fontSize><localFontSize>20.0</localFontSize><langName>Nucian</langName><alphaOrder>',A,a,ă,â,b,c,č,d,e,f,g,ğ,H,h,i,î,j,l,m,n,o,p,q,r,s,Ṣ,ș,T,t,ț,u,v,x,y,z</alphaOrder><langPropTypeMandatory>T</langPropTypeMandatory><langPropLocalMandatory>T</langPropLocalMandatory><langPropLocalUniqueness>F</langPropLocalUniqueness><langPropWordUniqueness>F</langPropWordUniqueness><langPropIgnoreCase>F</langPropIgnoreCase><langPropDisableProcRegex>F</langPropDisableProcRegex><langPropEnforceRTL>F</langPropEnforceRTL><langPropOverrideRegexFont>F</langPropOverrideRegexFont><langPropUseLocalLexicon>F</langPropUseLocalLexicon><langPropAuthorCopyright>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body&gt;Hora&amp;#539;iu Mlendea&lt;/body&gt;
 &lt;/html&gt;
-</langPropAuthorCopyright><langPropLocalLangName>English</langPropLocalLangName><langPropKerningValue>0.0</langPropKerningValue><langPropUseSimplifiedConjugations>F</langPropUseSimplifiedConjugations><expandedLexListDisplay>T</expandedLexListDisplay><zompistCategories/><zompistIllegalClusters/><zompistRewriteRules/><zompistSyllables/><zompistDropoffRate>-1</zompistDropoffRate><zompistMonosyllableFrequency>-1</zompistMonosyllableFrequency><langPropCharRep/></languageProperties><wordGrammarClassCollection/><partsOfSpeech><class><classId>4</classId><className>adjectival</className><classNotes/><definitionMandatoryClass>T</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>5</classId><className>adverb</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>8</classId><className>auxilliary particle</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>9</classId><className>conjunction</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>13</classId><className>infinitive marker</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>10</classId><className>interjection</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>6</classId><className>noun</className><classNotes/><definitionMandatoryClass>T</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>7</classId><className>possessive adjective</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>12</classId><className>preposition</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>11</classId><className>proper noun</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern>^[A-ZṢ][a-z]*</classPattern><classGloss/></class><class><classId>3</classId><className>verb</className><classNotes/><definitionMandatoryClass>T</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class></partsOfSpeech><lexicon><word><wordId>109</wordId><localWord>Anna</localWord><conWord>Ana</conWord><wordTypeId>11</wordTypeId><pronunciation/><definition/><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>119</wordId><localWord>to</localWord><conWord>a</conWord><wordTypeId>13</wordTypeId><pronunciation/><definition/><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>64</wordId><localWord>water</localWord><conWord>acvă</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+</langPropAuthorCopyright><langPropLocalLangName>English</langPropLocalLangName><langPropKerningValue>0.0</langPropKerningValue><langPropUseSimplifiedConjugations>F</langPropUseSimplifiedConjugations><expandedLexListDisplay>T</expandedLexListDisplay><zompistCategories/><zompistIllegalClusters/><zompistRewriteRules/><zompistSyllables/><zompistDropoffRate>-1</zompistDropoffRate><zompistMonosyllableFrequency>-1</zompistMonosyllableFrequency><langPropCharRep/></languageProperties><wordGrammarClassCollection/><partsOfSpeech><class><classId>4</classId><className>adjectival</className><classNotes/><definitionMandatoryClass>T</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>5</classId><className>adverb</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>8</classId><className>auxilliary particle</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>14</classId><className>cardinal number</className><classNotes/><definitionMandatoryClass>T</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>9</classId><className>conjunction</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>13</classId><className>infinitive marker</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>10</classId><className>interjection</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>6</classId><className>noun</className><classNotes/><definitionMandatoryClass>T</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>7</classId><className>possessive adjective</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>12</classId><className>preposition</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class><class><classId>11</classId><className>proper noun</className><classNotes/><definitionMandatoryClass>F</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern>^[A-ZṢ][a-z]*</classPattern><classGloss/></class><class><classId>3</classId><className>verb</className><classNotes/><definitionMandatoryClass>T</definitionMandatoryClass><pronunciationMandatoryClass>F</pronunciationMandatoryClass><classPattern/><classGloss/></class></partsOfSpeech><lexicon><word><wordId>109</wordId><localWord>Anna</localWord><conWord>Ana</conWord><wordTypeId>11</wordTypeId><pronunciation/><definition/><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>119</wordId><localWord>to</localWord><conWord>a</conWord><wordTypeId>13</wordTypeId><pronunciation/><definition/><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>64</wordId><localWord>water</localWord><conWord>acvă</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
@@ -15,6 +15,12 @@
     
   &lt;/head&gt;
   &lt;body&gt;To assist or aid someone in doing something.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>270</wordId><localWord>receive</localWord><conWord>amera</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;To welcome or greet someone when they arrive at a place.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>176</wordId><localWord>reception room</localWord><conWord>amerland</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -106,17 +112,17 @@
   &lt;/head&gt;
   &lt;body&gt;Morally excellent; virtuous; righteous.&lt;/body&gt;
 &lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>11</wordId><localWord>church</localWord><conWord>bisă</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A building or institution for religious worship or ceremonies.&lt;/body&gt;
+&lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>163</wordId><localWord>angry</localWord><conWord>biscu</conWord><wordTypeId>4</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
 
   &lt;/head&gt;
   &lt;body&gt;Feeling or showing strong annoyance, displeasure or hostility.&lt;/body&gt;
-&lt;/html&gt;
-</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>11</wordId><localWord>church</localWord><conWord>bisi</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;A building or institution for religious worship or ceremonies.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>179</wordId><localWord>bicycle</localWord><conWord>biță</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -126,7 +132,7 @@
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>234</wordId><localWord>kitchen</localWord><conWord>bucterie</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A room or area where food is prepared and cooked.&lt;/body&gt;
 &lt;/html&gt;
@@ -136,7 +142,7 @@
   &lt;/head&gt;
   &lt;body&gt;Having an excess of body weight, adipose tissue, or being overweight.&lt;/body&gt;
 &lt;/html&gt;
-</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>103</wordId><localWord>bathroom</localWord><conWord>budzi</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>103</wordId><localWord>bathroom</localWord><conWord>budland</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
@@ -177,6 +183,12 @@
     
   &lt;/head&gt;
   &lt;body&gt;The conjunction for comparing clauses.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>278</wordId><localWord>four</localWord><conWord>catru</conWord><wordTypeId>14</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;Being a numerical value that is equal to the quantity of four units; the fourth cardinal number.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>255</wordId><localWord>cauldron</localWord><conWord>căldar</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -280,6 +292,12 @@
   &lt;/head&gt;
   &lt;body&gt;To cut something into smaller pieces, typically using a sharp tool such as an axe or a knife.&lt;/body&gt;
 &lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>279</wordId><localWord>five</localWord><conWord>činči</conWord><wordTypeId>14</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Being a numerical value that is equal to the quantity of five units; the fifth cardinal number.&lt;/body&gt;
+&lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>230</wordId><localWord>ciocolată</localWord><conWord>čiocă</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
@@ -297,6 +315,12 @@
     
   &lt;/head&gt;
   &lt;body&gt;Soil or earth, often associated with being dirty or contaminated.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>282</wordId><localWord>ten</localWord><conWord>deče</conWord><wordTypeId>14</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Being a numerical value that is equal to the quantity of ten units; the tenth cardinal number.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>239</wordId><localWord>monster</localWord><conWord>dihan</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -321,6 +345,12 @@
     
   &lt;/head&gt;
   &lt;body&gt;The anniversary of the day on which a person was born, typically celebrated by giving gifts, having a party, or enjoying a special meal.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>276</wordId><localWord>two</localWord><conWord>duo</conWord><wordTypeId>14</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;Being a numerical value that is equal to the quantity of two units; the second cardinal number.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>245</wordId><localWord>dude, guy, man</localWord><conWord>ember</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -466,7 +496,7 @@
   &lt;/head&gt;
   &lt;body&gt;To bring to an end or complete an activity, task, or process.&lt;/body&gt;
 &lt;/html&gt;
-</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>99</wordId><localWord>goblin</localWord><conWord>ghibli</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>99</wordId><localWord>goblin</localWord><conWord>ghiblu</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
@@ -552,7 +582,7 @@
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>221</wordId><localWord>rested</localWord><conWord>hodinit</conWord><wordTypeId>4</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Feeling refreshed and energized after sleep or rest.&lt;/body&gt;
 &lt;/html&gt;
@@ -616,6 +646,12 @@
   &lt;/head&gt;
   &lt;body&gt;A domesticated mammal of the bovine family, raised for meat, milk, or as draft animals.&lt;/body&gt;
 &lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>269</wordId><localWord>room</localWord><conWord>land</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A space used for a particular purpose or activity, or a place where someone can be accommodated.&lt;/body&gt;
+&lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>268</wordId><localWord>dawdle, idle, linger, procrastinate</localWord><conWord>lălăi</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
 
@@ -648,7 +684,7 @@
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>224</wordId><localWord>clean</localWord><conWord>limpiat</conWord><wordTypeId>4</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Free from dirt, marks, or stains.&lt;/body&gt;
 &lt;/html&gt;
@@ -663,6 +699,12 @@
     
   &lt;/head&gt;
   &lt;body&gt;A retail establishment that sells goods or services, often used to describe a physical location or an online marketplace.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>275</wordId><localWord>master</localWord><conWord>maistru</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A person who has become highly skilled or proficient in a particular craft, technique, or subject.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>67</wordId><localWord>bad</localWord><conWord>mal</conWord><wordTypeId>4</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -706,7 +748,19 @@
   &lt;/head&gt;
   &lt;body&gt;A round fruit with a red, yellow, or green skin, often associated with being a healthy and nutritious snack or ingredient in various recipes.&lt;/body&gt;
 &lt;/html&gt;
-</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>87</wordId><localWord>mine, my</localWord><conWord>mio</conWord><wordTypeId>7</wordTypeId><pronunciation/><definition/><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>49</wordId><localWord>sea</localWord><conWord>moră</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>87</wordId><localWord>mine, my</localWord><conWord>mio</conWord><wordTypeId>7</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>274</wordId><localWord>wander, roam, get lost</localWord><conWord>mișcolți</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To move about or travel aimlessly or unsystematically, especially over a wide area, usually by loosing one's way.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>49</wordId><localWord>sea</localWord><conWord>moră</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
@@ -790,11 +844,23 @@
   &lt;/head&gt;
   &lt;body&gt;A person, language, or culture originating from or associated with Nucilandia, a micronation which is an enclave within Romania.&lt;/body&gt;
 &lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>283</wordId><localWord>zero, null</localWord><conWord>nul</conWord><wordTypeId>14</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;The numerical value representing &amp;quot;nothing&amp;quot; or &amp;quot;no quantity&amp;quot;.&lt;/body&gt;
+&lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>161</wordId><localWord>testicle</localWord><conWord>oac</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body&gt;Either of the two oval-shaped reproductive organs in the male that produce sperm and testosterone, often associated with sexual development and fertility.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>281</wordId><localWord>eight</localWord><conWord>oct</conWord><wordTypeId>14</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;Being a numerical value that is equal to the quantity of eight units; the eighth cardinal number.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>105</wordId><localWord>hello</localWord><conWord>ola</conWord><wordTypeId>10</wordTypeId><pronunciation/><definition/><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>24</wordId><localWord>father</localWord><conWord>padru</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -879,6 +945,18 @@
     
   &lt;/head&gt;
   &lt;body&gt;Unpleasant or repulsive in appearance.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>271</wordId><localWord>bed</localWord><conWord>postel</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A piece of furniture for sleeping on.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>272</wordId><localWord>bedroom</localWord><conWord>posteland</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A room used for sleeping in.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>193</wordId><localWord>potato</localWord><conWord>potat</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -1180,6 +1258,12 @@
   &lt;/head&gt;
   &lt;body&gt;A cutting instrument in which two blades move past each other, used for cutting paper, fabric, or hair.&lt;/body&gt;
 &lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>280</wordId><localWord>seven</localWord><conWord>șepte</conWord><wordTypeId>14</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;Being a numerical value that is equal to the quantity of seven units; the seventh cardinal number.&lt;/body&gt;
+&lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>260</wordId><localWord>cut, shear</localWord><conWord>șeri</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
@@ -1258,6 +1342,12 @@
   &lt;/head&gt;
   &lt;body&gt;A public square or other area where goods or services are bought and sold, often used for shopping and commerce.&lt;/body&gt;
 &lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>273</wordId><localWord>television</localWord><conWord>televeu</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A device that receives signals and displays video and sound, used primarily for entertainment or communication purposes.&lt;/body&gt;
+&lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>61</wordId><localWord>time</localWord><conWord>temp</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
@@ -1281,6 +1371,12 @@
     
   &lt;/head&gt;
   &lt;body&gt;To be necessary or required to do something, to have an obligation or duty to do something.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>277</wordId><localWord>three</localWord><conWord>tri</conWord><wordTypeId>14</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;Being a numerical value that is equal to the quantity of three units; the third cardinal number.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>62</wordId><localWord>trial</localWord><conWord>trial</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -1446,7 +1542,7 @@
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>104</wordId><localWord>daily</localWord><conWord>zieci</conWord><wordTypeId>4</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Occurring or done each day; happening or done every day.&lt;/body&gt;
 &lt;/html&gt;
