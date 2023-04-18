@@ -1,7 +1,7 @@
 | Word | Class | Translation | Definition |
 |------|-------|-------------|------------|
-|Ana|proper noun|Anna||
-|a|infinitive marker|to||
+|Ana|proper noun|Anna|A female given name.|
+|a|infinitive marker|to|Introduces the infinitive form of a verb, indicating the action or state that follows.|
 |acvă|noun|water|A colorless, transparent, odorless liquid that is essential for most forms of life.|
 |ači|adverb|here|In, at, or to this place or position.|
 |aiuda|verb|help|To assist or aid someone in doing something.|
@@ -40,7 +40,7 @@
 |căra|verb|carry|To support and move something from one place to another.|
 |cându|adverb|when|At what time; on what occasion; under what circumstances.|
 |câne|noun|dog|A domesticated carnivorous mammal, often kept as a pet or used for hunting, guarding, or herding.|
-|ce|preposition|which||
+|ce|preposition|which|Introduces a choice between options or possibilities.|
 |cheza|verb|fall|To move downward from a higher to a lower position, typically rapidly and without control.|
 |citarie|noun|guitar|A stringed musical instrument played with the fingers or a pick, typically having six strings.|
 |coăl|noun|coal|A fossil fuel formed from the remains of ancient plants, that is used as a source of energy.|
@@ -56,13 +56,13 @@
 |čhopi|verb|chop|To cut something into smaller pieces, typically using a sharp tool such as an axe or a knife.|
 |činči|cardinal number|five|Being a numerical value that is equal to the quantity of five units; the fifth cardinal number.|
 |čiocă|noun|ciocolată|A sweet food made from ground roasted cocoa beans.|
-|čus|interjection|bye, goodbye, farewell||
+|čus|interjection|bye, goodbye, farewell|An expression of good wishes at parting.|
 |da|adverb|yes|Used to give an affirmative response or to express agreement.|
 |dara|verb|give|To freely transfer the possession or ownership of something to someone else, typically without expectation of compensation.|
 |dărt|noun|dirt|Soil or earth, often associated with being dirty or contaminated.|
 |deče|cardinal number|ten|Being a numerical value that is equal to the quantity of ten units; the tenth cardinal number.|
 |dihan|noun|monster|An imaginary creature that is typically large, ugly, and frightening.|
-|dî|preposition|from||
+|dî|preposition|from|Indicates the origin or starting point of something.|
 |donde|adverb|where|In or to what place or position.|
 |dubaș|adjectival|weird|Suggesting something supernatural; eerie or uncanny.|
 |dula|verb|birth|To give birth, to bring forth offspring.|
@@ -99,7 +99,7 @@
 |grio|adjectival|heavy|Of great weight; difficult to lift or move.|
 |grocă|noun|grocery|A store that sells food and household items, typically in a retail setting.|
 |ğiozd|noun|backpack|A bag worn on the back, typically used for carrying personal belongings or supplies.|
-|Hori|proper noun|Horace||
+|Hori|proper noun|Horace|A male given name.|
 |hače|verb|do|To perform or carry out an action or task.|
 |halal|noun|risipă|The act of using resources carelessly or unproductively, or the resources that were used as such.|
 |haur|noun|gold|A precious metal valued for its rarity and luster, often used as a currency or for jewelry and decoration.|
@@ -111,11 +111,11 @@
 |hodinit|adjectival|rested|Feeling refreshed and energized after sleep or rest.|
 |hovăr|noun|friend|A person with whom one has a bond of mutual affection and trust, often someone with whom one spends time and shares interests or experiences.|
 |hudră|noun|hole|An opening or cavity in a solid object, often described as a gap, a hollow, or a perforation.|
-|iei|possessive adjective|hers||
+|iei|possessive adjective|hers|Belonging to or associated with a female person or animal previously mentioned or easily identified.|
 |imper|noun|empire|A group of territories or nations under a single supreme authority, often used to describe a powerful and extensive government or organization.|
 |imperial|adjectival|imperial|Relating to an empire or its ruler.|
 |iurtă|noun|tent|A portable shelter made of fabric or other material supported by poles and ropes.|
-|în|preposition|in||
+|în|preposition|in|Indicates location inside an area or a period of time.|
 |jagăr|noun|hunter|A person or animal that searches for and kills prey, often associated with hunting for sport, food, or resources.|
 |jardenie|noun|garden|A piece of land used for growing flowers, plants, or vegetables, often cultivated for aesthetic or practical purposes.|
 |jăgare|noun|hunt|The act of pursuing and killing wild animals for food, sport, or other purposes, or a search for something or someone.|
@@ -128,8 +128,8 @@
 |libră|noun|book|A written or printed work consisting of pages glued or sewn together and bound in covers, often used for entertainment, education, or reference.|
 |limpia|verb|clean|To make something free from dirt, marks, or mess, especially by washing, wiping, or brushing.|
 |limpiat|adjectival|clean|Free from dirt, marks, or stains.|
-|lo'|possessive adjective|their||
-|lui|possessive adjective|his||
+|lo'|possessive adjective|their|Belonging to or associated with two or more people or things previously mentioned or easily identified.|
+|lui|possessive adjective|his|Belonging to or associated with a male person or animal previously mentioned or easily identified.|
 |lut|noun|loot|Valuable items or money taken by force, especially during a war or other conflict, often obtained through theft or plunder.|
 |magă|noun|store|A retail establishment that sells goods or services, often used to describe a physical location or an online marketplace.|
 |maistru|noun|master|A person who has become highly skilled or proficient in a particular craft, technique, or subject.|
@@ -160,12 +160,12 @@
 |nul|cardinal number|zero, null|The numerical value representing &amp;quot;nothing&amp;quot; or &amp;quot;no quantity&amp;quot;.|
 |oac|noun|testicle|Either of the two oval-shaped reproductive organs in the male that produce sperm and testosterone, often associated with sexual development and fertility.|
 |oct|cardinal number|eight|Being a numerical value that is equal to the quantity of eight units; the eighth cardinal number.|
-|ola|interjection|hello||
+|ola|interjection|hello|Used as a greeting or to attract attention.|
 |padru|noun|father|A male parent or a person who performs the role of a male parent.|
 |papiră|noun|paper|A material made from cellulose pulp, derived mainly from wood, rags, and certain grasses, used for writing, printing, drawing, and wrapping.|
 |parc|noun|park|A public area of land maintained for recreation or conservation, often used for walking, picnicking, or sports.|
 |pasăr|noun|bird|A warm-blooded vertebrate animal with feathers, wings, and a beak, often associated with flight, singing, and migration.|
-|pă|preposition|on, upon||
+|pă|preposition|on, upon|Indicates a location on a surface or a time of an event.|
 |păli|verb|hit|To strike forcefully with a hand, weapon, or other implement.|
 |păsuș|noun|bridge|A structure spanning and providing passage over a gap or obstacle, often used to connect two land masses or cross a body of water.|
 |peșec|noun|baker|A person who bakes bread, cakes, or pastries professionally.|
@@ -192,7 +192,7 @@
 |puțurel|adjectival|little|Small in size, amount, or degree.|
 |qi|conjunction|or|The conjunction for indicating a contrast or an alternative to what was previously stated.|
 |qta|verb|leave, quit|To leave a location or job; to stop doing something.|
-|qu|preposition|with||
+|qu|preposition|with|Indicates association or accompaniment.|
 |qub|noun|nest|A structure built by birds or other animals to hold their eggs, offspring, or themselves, often located in trees or on the ground.|
 |quvetă|noun|sink|A bowl-shaped plumbing fixture used for washing hands or dishes, often located in a bathroom or kitchen.|
 |răngi|verb|pry|To use force to open or move something that is stuck or closed, often with a tool.|
@@ -227,11 +227,11 @@
 |sui|verb|climb|To ascend or move upward, especially by using the hands and feet.|
 |sumona|verb|summon|To call or request the presence of someone or something, to request someone's attendance or to bring something forth.|
 |sumona|verb|invoke|To call upon or appeal to a higher power or authority for help or support, to refer to something as a source of authority or justification.|
-|Ṣtef|proper noun|Stephen||
+|Ṣtef|proper noun|Stephen|A male given name.|
 |șear|noun|scissors, shears|A cutting instrument in which two blades move past each other, used for cutting paper, fabric, or hair.|
 |șepte|cardinal number|seven|Being a numerical value that is equal to the quantity of seven units; the seventh cardinal number.|
 |șeri|verb|cut, shear|To cut (usually paper, fabric, or hair), using an instrument in which two blades move past each.|
-|șî|auxilliary particle|to|subjunctive mood of a verb|
+|șî|auxilliary particle|to|Used to connect words, phrases, or clauses that have the same grammatical function in a sentence, to indicate that something is to be added or to join items together.|
 |șlăf|noun|sleep|A natural state of rest characterized by a reduction in consciousness and metabolic activity.|
 |șlăfi|verb|sleep|To rest with eyes closed and the body in a horizontal position for a period of time.|
 |șnec|noun|snake|A long, legless reptile which has no eyelids, a short tail, and jaws that are capable of considerable extension.|
@@ -259,7 +259,7 @@
 |țuca|verb|kiss|To touch or press with the lips as a sign of affection, greeting, or respect.|
 |urni|verb|move|To change position or location; to go from one place to another.|
 |uza|verb|use|To take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result.|
-|vailing|noun|pot (cooking)|A deep round container, typically made of metal or earthenware, used for cooking soups, stews, and other dishes.|
+|vailing|noun|cooking pot|A deep round container, typically made of metal or earthenware, used for cooking soups, stews, and other dishes.|
 |vendor|noun|salesman, shopkeeper|A person who sells goods.|
 |verat|adjectival|true|Conforming to fact or reality, accurate or exact.|
 |vevă|noun|squirrel|A small, agile, bushy-tailed rodent often found in trees, parks, or forests.|
