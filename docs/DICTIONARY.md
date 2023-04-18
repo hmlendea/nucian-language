@@ -3,18 +3,18 @@
 |Ana|proper noun|Anna||
 |a|infinitive marker|to||
 |acvă|noun|water|A colorless, transparent, odorless liquid that is essential for most forms of life.|
-|ači|adverb|here||
+|ači|adverb|here|In, at, or to this place or position.|
 |aiuda|verb|help|To assist or aid someone in doing something.|
 |amera|verb|receive|To welcome or greet someone when they arrive at a place.|
 |amerland|noun|reception room|A room used for receiving guests, often located in a public or official building such as a government office, embassy, or hotel.|
 |amor|noun|love|An intense feeling of affection and attachment towards someone or something.|
-|amu|adverb|now||
+|amu|adverb|now|At the present time or moment.|
 |aproz|noun|grocery store|A small shop that sells groceries, usually located in a residential area.|
 |asap|adjectival|fast, quick|Done or happening with great speed or promptness.|
 |asap|adverb|fast, quickly|In a quick or speedy manner.|
 |avora|verb|have|To possess, own, or hold something.|
 |ax|noun|axe|A tool used for chopping wood, typically consisting of a metal blade with a wooden handle.|
-|azie|adverb|today||
+|azie|adverb|today|On or in the course of this present day; (noun) this present day.|
 |ba|conjunction|but|The conjunction for indicating contrast between clauses.|
 |băsădi|verb|chirp|To make a short, sharp sound, like a small bird or insect.|
 |bântači|noun|ghost|The spirit of a dead person, sometimes represented as a shadowy figure or a translucent or transparent form.|
@@ -38,7 +38,7 @@
 |catru|cardinal number|four|Being a numerical value that is equal to the quantity of four units; the fourth cardinal number.|
 |căldar|noun|cauldron|A large metal pot with a lid and handle, used for cooking over an open fire or for boiling liquids.|
 |căra|verb|carry|To support and move something from one place to another.|
-|cându|adverb|when||
+|cându|adverb|when|At what time; on what occasion; under what circumstances.|
 |câne|noun|dog|A domesticated carnivorous mammal, often kept as a pet or used for hunting, guarding, or herding.|
 |ce|preposition|which||
 |cheza|verb|fall|To move downward from a higher to a lower position, typically rapidly and without control.|
@@ -57,13 +57,13 @@
 |činči|cardinal number|five|Being a numerical value that is equal to the quantity of five units; the fifth cardinal number.|
 |čiocă|noun|ciocolată|A sweet food made from ground roasted cocoa beans.|
 |čus|interjection|bye, goodbye, farewell||
-|da|adverb|yes||
+|da|adverb|yes|Used to give an affirmative response or to express agreement.|
 |dara|verb|give|To freely transfer the possession or ownership of something to someone else, typically without expectation of compensation.|
 |dărt|noun|dirt|Soil or earth, often associated with being dirty or contaminated.|
 |deče|cardinal number|ten|Being a numerical value that is equal to the quantity of ten units; the tenth cardinal number.|
 |dihan|noun|monster|An imaginary creature that is typically large, ugly, and frightening.|
 |dî|preposition|from||
-|donde|adverb|where||
+|donde|adverb|where|In or to what place or position.|
 |dubaș|adjectival|weird|Suggesting something supernatural; eerie or uncanny.|
 |dula|verb|birth|To give birth, to bring forth offspring.|
 |dulăzie|noun|birthday|The anniversary of the day on which a person was born, typically celebrated by giving gifts, having a party, or enjoying a special meal.|
@@ -104,6 +104,7 @@
 |halal|noun|risipă|The act of using resources carelessly or unproductively, or the resources that were used as such.|
 |haur|noun|gold|A precious metal valued for its rarity and luster, often used as a currency or for jewelry and decoration.|
 |hazâj|adjectival|ready|In a suitable state for an action or situation; fully prepared.|
+|hă|adverb|what|Asking for information specifying something.|
 |hălăli|verb|waste|To use or expend carelessly, extravagantly, or to no purpose.|
 |hârton|noun|cardboard|A stiff, thick paper that is typically used for packaging or for making cards or posters.|
 |hodini|verb|rest|To cease work or movement in order to relax, refresh oneself, or recover strength.|
@@ -154,7 +155,7 @@
 |nome|noun|name|A word or set of words by which a person, animal, place, or thing is known, addressed, or referred to.|
 |nost'|possessive adjective|our|The singular form for &amp;quot;our&amp;quot; (english)|
 |nostis|possessive adjective|our|The plural form for &amp;quot;our&amp;quot; (english)|
-|nu|adverb|no||
+|nu|adverb|no|Used to give a negative response or to express denial or disagreement.|
 |nučian|noun|nucian|A person, language, or culture originating from or associated with Nucilandia, a micronation which is an enclave within Romania.|
 |nul|cardinal number|zero, null|The numerical value representing &amp;quot;nothing&amp;quot; or &amp;quot;no quantity&amp;quot;.|
 |oac|noun|testicle|Either of the two oval-shaped reproductive organs in the male that produce sperm and testosterone, often associated with sexual development and fertility.|
@@ -189,7 +190,6 @@
 |puiț|noun|baby|A very young offspring, especially one that is not yet able to care for itself.|
 |pușin|adjectival|cute|Attractive or pretty, especially in a childish, delicate, or charming way.|
 |puțurel|adjectival|little|Small in size, amount, or degree.|
-|qe|adverb|what||
 |qi|conjunction|or|The conjunction for indicating a contrast or an alternative to what was previously stated.|
 |qta|verb|leave, quit|To leave a location or job; to stop doing something.|
 |qu|preposition|with||
