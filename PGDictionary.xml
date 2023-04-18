@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><dictionary><PolyGlotVer>3.5.1</PolyGlotVer><DictSaveDate>2023-04-17T22:04:51.531781982Z</DictSaveDate><languageProperties><fontStyle>0</fontStyle><fontSize>20.0</fontSize><localFontSize>20.0</localFontSize><langName>Nucian</langName><alphaOrder>',A,a,ă,â,b,c,č,d,e,f,g,ğ,H,h,i,î,j,l,m,n,o,p,q,r,s,Ṣ,ș,T,t,ț,u,v,x,y,z</alphaOrder><langPropTypeMandatory>T</langPropTypeMandatory><langPropLocalMandatory>T</langPropLocalMandatory><langPropLocalUniqueness>F</langPropLocalUniqueness><langPropWordUniqueness>F</langPropWordUniqueness><langPropIgnoreCase>F</langPropIgnoreCase><langPropDisableProcRegex>F</langPropDisableProcRegex><langPropEnforceRTL>F</langPropEnforceRTL><langPropOverrideRegexFont>F</langPropOverrideRegexFont><langPropUseLocalLexicon>F</langPropUseLocalLexicon><langPropAuthorCopyright>&lt;html&gt;
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><dictionary><PolyGlotVer>3.5.1</PolyGlotVer><DictSaveDate>2023-04-18T08:21:52.748377801Z</DictSaveDate><languageProperties><fontStyle>0</fontStyle><fontSize>20.0</fontSize><localFontSize>20.0</localFontSize><langName>Nucian</langName><alphaOrder>',A,a,ă,â,b,c,č,d,e,f,g,ğ,H,h,i,î,j,l,m,n,o,p,q,r,s,Ṣ,ș,T,t,ț,u,v,x,y,z</alphaOrder><langPropTypeMandatory>T</langPropTypeMandatory><langPropLocalMandatory>T</langPropLocalMandatory><langPropLocalUniqueness>F</langPropLocalUniqueness><langPropWordUniqueness>F</langPropWordUniqueness><langPropIgnoreCase>F</langPropIgnoreCase><langPropDisableProcRegex>F</langPropDisableProcRegex><langPropEnforceRTL>F</langPropEnforceRTL><langPropOverrideRegexFont>F</langPropOverrideRegexFont><langPropUseLocalLexicon>F</langPropUseLocalLexicon><langPropAuthorCopyright>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
@@ -178,6 +178,12 @@
   &lt;/head&gt;
   &lt;body&gt;The conjunction for comparing clauses.&lt;/body&gt;
 &lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>255</wordId><localWord>cauldron</localWord><conWord>căldar</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A large metal pot with a lid and handle, used for cooking over an open fire or for boiling liquids.&lt;/body&gt;
+&lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>118</wordId><localWord>carry</localWord><conWord>căra</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
@@ -352,6 +358,12 @@
   &lt;/head&gt;
   &lt;body&gt;A group of people related by blood, marriage, or adoption, often living together as a household.&lt;/body&gt;
 &lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>265</wordId><localWord>plate</localWord><conWord>farfă</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A flat, usually round dish used for serving food.&lt;/body&gt;
+&lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>71</wordId><localWord>happy</localWord><conWord>felič</conWord><wordTypeId>4</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
 
@@ -387,6 +399,18 @@
 
   &lt;/head&gt;
   &lt;body&gt;A projectile with a pointed end, shot from a bow.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>257</wordId><localWord>wool</localWord><conWord>flocă</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;The soft, thick hair of sheep or certain other animals, used to make clothing or fabric.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>263</wordId><localWord>woolly</localWord><conWord>flocos</conWord><wordTypeId>4</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;Covered with wool or something that resembles wool; having a thick, soft texture resembling wool.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>123</wordId><localWord>bloom</localWord><conWord>floși</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -438,7 +462,7 @@
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>248</wordId><localWord>finish</localWord><conWord>găta</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;To bring to an end or complete an activity, task, or process.&lt;/body&gt;
 &lt;/html&gt;
@@ -453,6 +477,12 @@
     
   &lt;/head&gt;
   &lt;body&gt;A domesticated bird that is commonly raised for its meat and eggs, often used in various cuisines and as a source of protein.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>267</wordId><localWord>glass, goblet, cup</localWord><conWord>gobletă</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;Small container used for holding and serving beverages.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>38</wordId><localWord>mistake</localWord><conWord>greșă</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -582,9 +612,15 @@
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>238</wordId><localWord>cow</localWord><conWord>jită</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A domesticated mammal of the bovine family, raised for meat, milk, or as draft animals.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>268</wordId><localWord>dawdle, idle, linger, procrastinate</localWord><conWord>lălăi</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To waste time by being slow or indecisive.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>127</wordId><localWord>deliver</localWord><conWord>lâvra</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -796,11 +832,29 @@
   &lt;/head&gt;
   &lt;body&gt;A structure spanning and providing passage over a gap or obstacle, often used to connect two land masses or cross a body of water.&lt;/body&gt;
 &lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>258</wordId><localWord>baker</localWord><conWord>peșec</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A person who bakes bread, cakes, or pastries professionally.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>259</wordId><localWord>bake</localWord><conWord>peși</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To cook (food) by dry heat without direct exposure to a flame, typically in an oven or on a hot surface.&lt;/body&gt;
+&lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>177</wordId><localWord>hate</localWord><conWord>pica</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
 
   &lt;/head&gt;
   &lt;body&gt;To feel intense or passionate dislike for someone or something.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>264</wordId><localWord>poor</localWord><conWord>pileat</conWord><wordTypeId>4</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;Lacking sufficient money to live at a standard considered comfortable or normal in a society; of low quality or a low standard.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>9</wordId><localWord>bread</localWord><conWord>pită</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -922,6 +976,12 @@
   &lt;/head&gt;
   &lt;body&gt;A bowl-shaped plumbing fixture used for washing hands or dishes, often located in a bathroom or kitchen.&lt;/body&gt;
 &lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>261</wordId><localWord>pry</localWord><conWord>răngi</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To use force to open or move something that is stuck or closed, often with a tool.&lt;/body&gt;
+&lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>20</wordId><localWord>duck</localWord><conWord>răț</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
@@ -1012,6 +1072,12 @@
   &lt;/head&gt;
   &lt;body&gt;A painful feeling of humiliation or distress caused by the consciousness of wrong or foolish behavior.&lt;/body&gt;
 &lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>262</wordId><localWord>slime</localWord><conWord>slim</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A moist, soft, and slippery substance, typically regarded as repulsive.&lt;/body&gt;
+&lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>15</wordId><localWord>couch, sofa</localWord><conWord>sofă</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
@@ -1062,7 +1128,7 @@
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>235</wordId><localWord>stove</localWord><conWord>stovă</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;An apparatus for cooking or heating that operates by burning fuel or using electricity.&lt;/body&gt;
 &lt;/html&gt;
@@ -1107,6 +1173,18 @@
     
   &lt;/head&gt;
   &lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>256</wordId><localWord>scissors, shears</localWord><conWord>șear</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A cutting instrument in which two blades move past each other, used for cutting paper, fabric, or hair.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>260</wordId><localWord>cut, shear</localWord><conWord>șeri</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;To cut (usually paper, fabric, or hair), using an instrument in which two blades move past each.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>93</wordId><localWord>to</localWord><conWord>șî</conWord><wordTypeId>8</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -1155,6 +1233,12 @@
     
   &lt;/head&gt;
   &lt;body&gt;The permanent cessation of all biological functions that sustain a living organism, often associated with mourning, grief, and the afterlife.&lt;/body&gt;
+&lt;/html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>266</wordId><localWord>rich</localWord><conWord>tarabost</conWord><wordTypeId>4</wordTypeId><pronunciation/><definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;Having a great deal of wealth or assets; possessing abundant resources or means.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>147</wordId><localWord>cut</localWord><conWord>tăia</conWord><wordTypeId>3</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
@@ -1258,11 +1342,11 @@
   &lt;/head&gt;
   &lt;body&gt;To take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result.&lt;/body&gt;
 &lt;/html&gt;
-</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>157</wordId><localWord>bowl</localWord><conWord>vailing</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
+</definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>157</wordId><localWord>pot (cooking)</localWord><conWord>vailing</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;A round, deep dish used for serving or eating food, often associated with soups, salads, or cereal.&lt;/body&gt;
+  &lt;body&gt;A deep round container, typically made of metal or earthenware, used for cooking soups, stews, and other dishes.&lt;/body&gt;
 &lt;/html&gt;
 </definition><wordProcOverride>F</wordProcOverride><autoDeclOverride>F</autoDeclOverride><wordRuleOverride>F</wordRuleOverride><wordClassCollection/><wordClassTextValueCollection/><wordEtymologyNotes/></word><word><wordId>202</wordId><localWord>salesman, shopkeeper</localWord><conWord>vendor</conWord><wordTypeId>6</wordTypeId><pronunciation/><definition>&lt;html&gt;
   &lt;head&gt;
