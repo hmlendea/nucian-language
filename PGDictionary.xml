@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dictionary>
   <PolyGlotVer>3.5.1</PolyGlotVer>
-  <DictSaveDate>2024-04-11T11:44:26.766914651Z</DictSaveDate>
+  <DictSaveDate>2024-04-13T16:42:48.591757066Z</DictSaveDate>
   <languageProperties>
     <fontStyle>0</fontStyle>
     <fontSize>20.0</fontSize>
@@ -129,6 +129,15 @@
       <classGloss/>
     </class>
     <class>
+      <classId>15</classId>
+      <className>pronoun</className>
+      <classNotes/>
+      <definitionMandatoryClass>T</definitionMandatoryClass>
+      <pronunciationMandatoryClass>F</pronunciationMandatoryClass>
+      <classPattern/>
+      <classGloss/>
+    </class>
+    <class>
       <classId>11</classId>
       <className>proper noun</className>
       <classNotes/>
@@ -176,7 +185,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Introduces the infinitive form of a verb, indicating the action or state that follows.&lt;/body&gt;
 &lt;/html&gt;
@@ -276,7 +285,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Describes something that has a color resembling that of ripe lemons, egg yolks, or certain flowers such as daffodils or sunflowers. It denotes the presence of the color yellow.&lt;/body&gt;
 &lt;/html&gt;
@@ -356,7 +365,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;At the present time or moment.&lt;/body&gt;
 &lt;/html&gt;
@@ -759,6 +768,26 @@
 
   &lt;/head&gt;
   &lt;body&gt;Morally excellent; virtuous; righteous.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>329</wordId>
+      <localWord>binge</localWord>
+      <conWord>binği</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To indulge excessively or compulsively in an activity, especially related to consuming large amounts of food, drink, or media in a short period, often to the point of discomfort or harm.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -3629,6 +3658,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>332</wordId>
+      <localWord>die</localWord>
+      <conWord>mura</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To cease living; to expire; to undergo the irreversible cessation of all vital functions; also, to cease to exist or function.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>287</wordId>
       <localWord>hilltop</localWord>
       <conWord>murună</conWord>
@@ -3779,6 +3828,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;Frozen precipitation in the form of white or translucent ice crystals, often associated with winter sports, snowmen, and snowball fights.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>331</wordId>
+      <localWord>nothing</localWord>
+      <conWord>nima</conWord>
+      <wordTypeId>15</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;The absence or lack of anything; no thing; no existence, value, or significance.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -3976,7 +4045,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Being a numerical value that is equal to the quantity of eight units; the eighth cardinal number.&lt;/body&gt;
 &lt;/html&gt;
@@ -4159,6 +4228,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A structure spanning and providing passage over a gap or obstacle, often used to connect two land masses or cross a body of water.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>330</wordId>
+      <localWord>danger</localWord>
+      <conWord>periclă</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;The state or condition of being exposed to harm, risk, or peril; a situation or circumstance that poses a threat to safety, well-being, or health.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>

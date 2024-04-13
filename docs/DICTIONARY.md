@@ -31,6 +31,7 @@
 |berber|noun|barbarian|A person who is considered uncivilized or primitive, often associated with a lack of education or cultural refinement.|
 |beua|verb|drink|To consume a liquid, typically through the mouth.|
 |bin|adjectival|good|Morally excellent; virtuous; righteous.|
+|binği|verb|binge|To indulge excessively or compulsively in an activity, especially related to consuming large amounts of food, drink, or media in a short period, often to the point of discomfort or harm.|
 |bisă|noun|church|A building or institution for religious worship or ceremonies.|
 |biscu|adjectival|angry|Feeling or showing strong annoyance, displeasure or hostility.|
 |biță|noun|bicycle|A vehicle consisting of two wheels mounted in a frame, propelled by pedals and steered with handlebars, often used for transportation, exercise, or sport.|
@@ -174,6 +175,7 @@
 |moră|noun|sea|A large body of saltwater that covers much of the Earth's surface, often associated with maritime travel, trade, and recreation.|
 |muiere|noun|woman|An adult female human, often used to describe a person's biological sex.|
 |munt|noun|mountain|A large natural elevation of the earth's surface rising abruptly from the surrounding level; a massive peak or range of peaks, often associated with hiking, skiing, or scenic views.|
+|mura|verb|die|To cease living; to expire; to undergo the irreversible cessation of all vital functions; also, to cease to exist or function.|
 |murună|noun|hilltop|The summit or peak of a hill, elevated landform, or elevated area of higher ground, often providing panoramic views of the surrounding landscape.|
 |muzant|noun|musician|A person who plays a musical instrument or sings, often professionally or as a hobby.|
 |narançă|noun|orange|A round citrus fruit with a bright orange rind and juicy, segmented flesh.|
@@ -182,6 +184,7 @@
 |nesire|noun|rudeness, shamelessness|The state or quality of being impolity or disrespectful, without shame or modesty.|
 |niață|noun|morning|The early part of the day, from sunrise to noon.|
 |nijă|noun|snow|Frozen precipitation in the form of white or translucent ice crystals, often associated with winter sports, snowmen, and snowball fights.|
+|nima|pronoun|nothing|The absence or lack of anything; no thing; no existence, value, or significance.|
 |noctă|noun|night|The period of darkness between sunset and sunrise.|
 |nome|noun|name|A word or set of words by which a person, animal, place, or thing is known, addressed, or referred to.|
 |nost'|possessive adjective|our|The singular form for &amp;quot;our&amp;quot; (english)|
@@ -201,6 +204,7 @@
 |pă|preposition|on, upon|Indicates a location on a surface or a time of an event.|
 |păli|verb|hit|To strike forcefully with a hand, weapon, or other implement.|
 |păsuș|noun|bridge|A structure spanning and providing passage over a gap or obstacle, often used to connect two land masses or cross a body of water.|
+|periclă|noun|danger|The state or condition of being exposed to harm, risk, or peril; a situation or circumstance that poses a threat to safety, well-being, or health.|
 |peșec|noun|baker|A person who bakes bread, cakes, or pastries professionally.|
 |peși|verb|bake|To cook (food) by dry heat without direct exposure to a flame, typically in an oven or on a hot surface.|
 |pica|verb|hate|To feel intense or passionate dislike for someone or something.|
