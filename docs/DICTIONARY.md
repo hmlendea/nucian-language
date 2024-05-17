@@ -12,17 +12,19 @@
 |amor|noun|love|An intense feeling of affection and attachment towards someone or something.|
 |amu|adverb|now|At the present time or moment.|
 |anina|verb|hang|To suspend or fasten something from above so that it is freely suspended in the air.Origin: Dacian|
+|apricoșă|noun|apricot|A small, round fruit with soft, velvety skin and a juicy, sweet flesh. It typically has a yellow to orange color and a stone or pit in the center.From: English (apricot)|
 |aproz|noun|grocery store|A small shop that sells groceries, usually located in a residential area.Origin: Romanian (aprozar)|
 |arușă|noun|spruce|Any of several species of evergreen trees belonging to the genus Picea, which are native to northern temperate regions.|
 |asap|adjectival|fast, quick|Done or happening with great speed or promptness.|
 |asap|adverb|fast, quickly|In a quick or speedy manner.|
 |avora|verb|have|To possess, own, or hold something.|
-|ax|noun|axe|A tool used for chopping wood, typically consisting of a metal blade with a wooden handle.|
+|ax|noun|axe|A tool used for chopping wood, typically consisting of a metal blade with a wooden handle.From: English|
 |azie|adverb|today|On or in the course of this present day; (noun) this present day.|
 |azur|adjectival|blue|Describes something that has a color resembling that of the sky on a clear day or the deep sea. It denotes the presence of the color blue.|
 |ba|conjunction|but|The conjunction for indicating contrast between clauses.|
 |bală|noun|power|The ability or capacity to perform or act effectively, influence others, or control outcomes. It encompasses various aspects of strength, authority, control, or influence.|
 |baloș|adjectival|powerful|Something or someone possessing great strength, influence, or capability. It denotes a significant level of force or authority. It can refer to physical strength, such as a powerful athlete, or to mental and emotional strength, such as a powerful leader.|
+|bară|noun|swamp|A wetland characterized by stagnant water, dense vegetation, and low-lying areas, often found in humid climates.From: Romanian, dacian origin.|
 |băsădi|verb|chirp|To make a short, sharp sound, like a small bird or insect.|
 |bântaçi|noun|ghost|The spirit of a dead person, sometimes represented as a shadowy figure or a translucent or transparent form.|
 |bârmașă|noun|drill|A tool or machine equipped with a rotating cutting or driving tool used for boring holes, typically in materials such as wood, metal, or masonry.|
@@ -30,9 +32,13 @@
 |bec|noun|light bulb|A light-emitting device that fits into a socket and provides artificial light.|
 |berber|noun|barbarian|A person who is considered uncivilized or primitive, often associated with a lack of education or cultural refinement.|
 |beua|verb|drink|To consume a liquid, typically through the mouth.|
+|bi|verb|love|Expresses deep affection, care, and attachment towards someone or something. It encompasses a range of emotions and actions, including fondness, devotion, and concern for the well-being of the loved person or thing.From: Romanian (iubi)|
 |bin|adjectival|good|Morally excellent; virtuous; righteous.|
-|binği|verb|binge|To indulge excessively or compulsively in an activity, especially related to consuming large amounts of food, drink, or media in a short period, often to the point of discomfort or harm.|
+|binği|verb|binge|To indulge excessively or compulsively in an activity, especially related to consuming large amounts of food, drink, or media in a short period, often to the point of discomfort or harm.From: English (binge)|
 |bisă|noun|church|A building or institution for religious worship or ceremonies.|
+|biscă|noun|frown|A facial expression characterized by furrowing one's eyebrows and turning the corners of the mouth downwards, typically indicating displeasure, concentration, or concern.|
+|biscoș|adjectival|frowning|Describes the act of displaying a facial expression characterized by furrowing one's eyebrows and turning the corners of the mouth downwards, typically indicating displeasure, concentration, or concern.|
+|biscoșa|verb|frown|To furrow one's eyebrows and bring the corners of the mouth downwards, typically indicating displeasure, concentration, or concern.|
 |biscu|adjectival|angry|Feeling or showing strong annoyance, displeasure or hostility.|
 |biță|noun|bicycle|A vehicle consisting of two wheels mounted in a frame, propelled by pedals and steered with handlebars, often used for transportation, exercise, or sport.|
 |blanc|adjectival|white|Describes something that is the color of milk or fresh snow, reflecting almost all visible wavelengths of light. It denotes the presence of the color white or a lack of color pigmentation.|
@@ -46,6 +52,7 @@
 |cafă|noun|coffee|A beverage made from roasted coffee beans, usually consumed hot and containing caffeine.|
 |cal|noun|horse|A large, four-legged mammal typically used for riding, racing, or work.|
 |capta|verb|catch|To intercept and hold (something that has been thrown, propelled, or dropped).|
+|carotă|noun|carrot|A root vegetable with a long, tapering shape, typically orange in color, although other varieties can be purple, red, yellow, or white.From: English (carrot)|
 |caș|conjunction|as|The conjunction for comparing clauses.|
 |catru|cardinal number|four|Being a numerical value that is equal to the quantity of four units; the fourth cardinal number.|
 |căldar|noun|cauldron|A large metal pot with a lid and handle, used for cooking over an open fire or for boiling liquids.|
@@ -62,6 +69,7 @@
 |coăl|noun|coal|A fossil fuel formed from the remains of ancient plants, that is used as a source of energy.|
 |compa|verb|behave|To act or conduct oneself in a specified way, especially in relation to others.|
 |congres|noun|congress|A formal gathering of representatives or delegates for discussion and decision-making, typically in a political context.|
+|cota|verb|find, search|To look for, discover or come across something or someone, either voluntarily or by chance. It can also mean to determine or ascertain something after consideration or investigation.|
 |crefă|noun|cream cheese|A soft, mild-tasting cheese with a smooth and creamy texture. It is made from a mixture of cream and milk, which is cultured with lactic acid bacteria to give it a tangy flavor.|
 |crepă|noun|crepe|A thin, delicate pancake made from a batter consisting of flour, eggs, milk (or water), and butter.|
 |criș|noun|river|A large, flowing body of water that empties into a sea or ocean.|
@@ -72,17 +80,18 @@
 |cuțac|noun|dog|A domesticated carnivorous mammal, often kept as a pet or used for hunting, guarding, or herding.|
 |çel|noun|sky|The region of the atmosphere and outer space seen from the Earth.|
 |çest|noun|chest|A large box or container with a lid, often used for storage.|
-|çinçi|cardinal number|five|Being a numerical value that is equal to the quantity of five units; the fifth cardinal number.|
+|çinç|cardinal number|five|Being a numerical value that is equal to the quantity of five units; the fifth cardinal number.|
 |çiocă|noun|ciocolată|A sweet food made from ground roasted cocoa beans.|
 |çopi|verb|chop|To cut something into smaller pieces, typically using a sharp tool such as an axe or a knife.|
 |çus|interjection|bye, goodbye, farewell|An expression of good wishes at parting.|
 |da|adverb|yes|Used to give an affirmative response or to express agreement.|
 |dara|verb|give|To freely transfer the possession or ownership of something to someone else, typically without expectation of compensation.|
-|dărt|noun|dirt|Soil or earth, often associated with being dirty or contaminated.|
+|dărt|noun|dirt|Soil or earth, often associated with being dirty or contaminated.From: English (dirt)|
 |deçe|cardinal number|ten|Being a numerical value that is equal to the quantity of ten units; the tenth cardinal number.|
+|deltă|noun|difference|The quality or condition of being unlike or dissimilar, or a point or way in which people or things are not the same.|
 |dihan|noun|monster|An imaginary creature that is typically large, ugly, and frightening.|
 |dî|preposition|from|Indicates the origin or starting point of something.|
-|donde|adverb|where|In or to what place or position.|
+|donde|adverb|where|In or to what place or position.From: Spanish (donde)|
 |dubaș|adjectival|weird|Suggesting something supernatural; eerie or uncanny.|
 |dula|verb|birth|To give birth, to bring forth offspring.|
 |dulăzie|noun|birthday|The anniversary of the day on which a person was born, typically celebrated by giving gifts, having a party, or enjoying a special meal.|
@@ -118,13 +127,13 @@
 |gionta|verb|hit|To strike or come into contact with force, typically resulting in physical impact or damage.|
 |gobletă|noun|glass, goblet, cup|Small container used for holding and serving beverages.|
 |gorgă|noun|gorgonzola cheese|A type of blue cheese originating from Italy. It is made from cow's milk and is characterized by its creamy texture and distinctive blue-green veins of mold.|
-|greșă|noun|mistake|An error or fault in judgement, action, or decision-making.|
+|greșă|noun|mistake|An error or fault in judgement, action, or decision-making.From: Romanian (gre&amp;#537;eal&amp;#259;)|
 |grio|adjectival|heavy|Of great weight; difficult to lift or move.|
 |grocă|noun|grocery|A store that sells food and household items, typically in a retail setting.|
 |grui|noun|small hill|A small-sized hill.|
 |ğiozd|noun|backpack|A bag worn on the back, typically used for carrying personal belongings or supplies.|
 |Hori|proper noun|Horace|A male given name.|
-|haçe|verb|do|To perform or carry out an action or task.|
+|haçe|verb|do|To perform or carry out an action or task.From: Spanish (hace) and Romanian (face)|
 |halal|noun|risipă|The act of using resources carelessly or unproductively, or the resources that were used as such.|
 |harcodat|adjectival|unchangeable|Describes something that is firmly established, fixed, or unchangeable.|
 |haur|noun|gold|A precious metal valued for its rarity and luster, often used as a currency or for jewelry and decoration.|
@@ -157,7 +166,9 @@
 |libră|noun|book|A written or printed work consisting of pages glued or sewn together and bound in covers, often used for entertainment, education, or reference.|
 |limpia|verb|clean|To make something free from dirt, marks, or mess, especially by washing, wiping, or brushing.|
 |limpiat|adjectival|clean|Free from dirt, marks, or stains.|
+|litră|noun|litter box|A container filled with an absorbent material, used as a toilet by pets, typically cats, to urinate and defecate indoors.|
 |lo'|possessive adjective|their|Belonging to or associated with two or more people or things previously mentioned or easily identified.|
+|lob|adjectival|cheap|Describes something that is low in cost or price relative to its perceived value or quality. It can also refer to something that is inexpensive or affordable.|
 |lui|possessive adjective|his|Belonging to or associated with a male person or animal previously mentioned or easily identified.|
 |lut|noun|loot|Valuable items or money taken by force, especially during a war or other conflict, often obtained through theft or plunder.|
 |maistru|noun|master|A person who has become highly skilled or proficient in a particular craft, technique, or subject.|
@@ -170,10 +181,13 @@
 |mere|verb|go, walk|To move from one place to another; to travel or proceed.|
 |merindă|noun|apple|A round fruit with a red, yellow, or green skin, often associated with being a healthy and nutritious snack or ingredient in various recipes.|
 |mijet|noun|midget, dwarf|An individual with shorter stature than average.|
-|mio|possessive adjective|mine, my||
+|mio|possessive adjective|mine, my|Indicates ownership or association with something belonging to oneself.|
 |mișcolți|verb|wander, roam, get lost|To move about or travel aimlessly or unsystematically, especially over a wide area, usually by loosing one's way.|
 |moră|noun|sea|A large body of saltwater that covers much of the Earth's surface, often associated with maritime travel, trade, and recreation.|
+|mufină|noun|muffin|A small, round, sweet or savory baked bread product often containing ingredients like flour, sugar, eggs, and baking powder. It can come in various flavors and is typically enjoyed as a breakfast or snack food.From: English (muffin)|
+|mugvan|noun|thug|A violent or aggressive person, often associated with criminal activities or intimidation tactics.|
 |muiere|noun|woman|An adult female human, often used to describe a person's biological sex.|
+|muncaç|noun|worker|Someone or something that performs a job or task, especially when it is engaged in physical or manual labour, or employed in a particular occupation.|
 |munt|noun|mountain|A large natural elevation of the earth's surface rising abruptly from the surrounding level; a massive peak or range of peaks, often associated with hiking, skiing, or scenic views.|
 |mura|verb|die|To cease living; to expire; to undergo the irreversible cessation of all vital functions; also, to cease to exist or function.|
 |murună|noun|hilltop|The summit or peak of a hill, elevated landform, or elevated area of higher ground, often providing panoramic views of the surrounding landscape.|
@@ -189,6 +203,7 @@
 |nome|noun|name|A word or set of words by which a person, animal, place, or thing is known, addressed, or referred to.|
 |nost'|possessive adjective|our|The singular form for &amp;quot;our&amp;quot; (english)|
 |nostis|possessive adjective|our|The plural form for &amp;quot;our&amp;quot; (english)|
+|nota|verb|swim|To move through water by using the limbs, fins, or tail, typically as a form of exercise, sport, or survival.|
 |nu|adverb|no|Used to give a negative response or to express denial or disagreement.|
 |nuçian|noun|nucian|A person, language, or culture originating from or associated with Nucilandia, a micronation which is an enclave within Romania.|
 |nul|cardinal number|zero, null|The numerical value representing &amp;quot;nothing&amp;quot; or &amp;quot;no quantity&amp;quot;.|
@@ -261,7 +276,7 @@
 |spăriat|adjectival|scared|Feeling or showing fear or nervousness.|
 |spăriere|noun|scare|A sudden feeling of fear or alarm.|
 |spihirit|noun|spirit|The non-physical part of a person that is believed to live on after the body dies, often associated with religious or philosophical beliefs.|
-|stovă|noun|stove|An apparatus for cooking or heating that operates by burning fuel or using electricity.|
+|stovă|noun|stove|An apparatus for cooking or heating that operates by burning fuel or using electricity.From: English (stove)|
 |străçi|verb|shine|To emit or reflect bright light, to be bright and glossy, to excel in a particular area.|
 |străçior|adjectival|shiny|Reflecting light, bright and polished.|
 |streț|noun|boar|A male wild pig.|
@@ -296,7 +311,7 @@
 |trial|noun|trial|A test or experiment designed to evaluate the performance or effectiveness of something, especially a new product or treatment, or a legal process to determine the guilt or innocence of a person accused of a crime.|
 |tropi|verb|tresspass|To enter someone else's property without permission, to intrude or encroach on someone's rights.|
 |trotă|noun|electric scooter, kick scooter|A small two-wheeled vehicle, propelled by either an electric motor, or the rider pushing off the ground with one foot, and often used for short-distance transportation or recreation.|
-|tudi|verb|know|To have information about something or someone in one's mind; to be aware of a fact or piece of information.|
+|tudi|verb|know|To have information about something or someone in one's mind; to be aware of a fact or piece of information.From: Hungarian (tudom)|
 |tufă|noun|tuff|A type of rock made of volcanic ash, compressed and hardened into stone.|
 |țânc|noun|toddler|A young child who is just learning to walk.|
 |țâșnă|noun|water fountain, drinking fountain|A fixture designed to provide potable water for drinking and hydration. It typically consists of a vertical spout or nozzle attached to a basin or trough.|
@@ -304,9 +319,10 @@
 |țiță|noun|cat|A small carnivorous mammal with soft fur, a short snout, and retractable claws, domesticated as a pet or for catching mice.|
 |țuca|verb|kiss|To touch or press with the lips as a sign of affection, greeting, or respect.|
 |urni|verb|move|To change position or location; to go from one place to another.|
-|urod|adjectival|ugly|The quality or state of being unattractive or unpleasant in appearance.|
+|urod|adjectival|ugly|The quality or state of being unattractive or unpleasant in appearance.From: Russian (&amp;#1059;&amp;#1088;&amp;#1086;&amp;#1076;, tr: urod)|
 |uza|verb|use|To take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result.|
 |vailing|noun|cooking pot|A deep round container, typically made of metal or earthenware, used for cooking soups, stews, and other dishes.|
+|vanilă|noun|vanilla|A flavoring derived from orchids of the genus Vanilla, particularly from the species Vanilla planifolia, or it can refer to the plant itself. It is commonly used in cooking, baking, and perfumery.|
 |vendor|noun|salesman, shopkeeper|A person who sells goods.|
 |verat|adjectival|true|Conforming to fact or reality, accurate or exact.|
 |vevă|noun|squirrel|A small, agile, bushy-tailed rodent often found in trees, parks, or forests.|
@@ -320,7 +336,6 @@
 |vostis|possessive adjective|your|The plural form for &amp;quot;your&amp;quot; (english)|
 |vulpină|noun|fox|A carnivorous mammal with a pointed snout, bushy tail, and reddish fur, often associated with cunning and intelligence.|
 |zâgan|noun|enemy|A person or group that is actively opposed or hostile to another, often associated with conflict and war.|
-|zâgan|noun|gypsy|A member of a traditionally itinerant ethnic group, often associated with music, dance, and fortune-telling.|
 |zâgan|noun|wrongdoer|A person who has committed a wrongdoing, often used to describe a criminal or someone who has violated a moral or ethical standard.|
 |zie|noun|day|The period of light between sunrise and sunset, often used to describe a 24-hour period or a specific calendar date.|
 |zieci|adjectival|daily|Occurring or done each day; happening or done every day.|
