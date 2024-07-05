@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dictionary>
   <PolyGlotVer>3.5.1</PolyGlotVer>
-  <DictSaveDate>2024-05-17T08:09:03.755216017Z</DictSaveDate>
+  <DictSaveDate>2024-07-05T14:41:57.341101525Z</DictSaveDate>
   <languageProperties>
     <fontStyle>0</fontStyle>
     <fontSize>20.0</fontSize>
@@ -157,26 +157,6 @@
     </class>
   </partsOfSpeech>
   <lexicon>
-    <word>
-      <wordId>109</wordId>
-      <localWord>Anna</localWord>
-      <conWord>Ana</conWord>
-      <wordTypeId>11</wordTypeId>
-      <pronunciation/>
-      <definition>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;A female given name.&lt;/body&gt;
-&lt;/html&gt;
-</definition>
-      <wordProcOverride>F</wordProcOverride>
-      <autoDeclOverride>F</autoDeclOverride>
-      <wordRuleOverride>F</wordRuleOverride>
-      <wordClassCollection/>
-      <wordClassTextValueCollection/>
-      <wordEtymologyNotes/>
-    </word>
     <word>
       <wordId>119</wordId>
       <localWord>to</localWord>
@@ -400,12 +380,12 @@
     <word>
       <wordId>345</wordId>
       <localWord>apricot</localWord>
-      <conWord>apricoșă</conWord>
+      <conWord>apricoșie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A small, round fruit with soft, velvety skin and a juicy, sweet flesh. It typically has a yellow to orange color and a stone or pit in the center.&lt;br&gt;&lt;br&gt;From: English (apricot)&lt;/body&gt;
 &lt;/html&gt;
@@ -440,7 +420,7 @@
     <word>
       <wordId>320</wordId>
       <localWord>spruce</localWord>
-      <conWord>arușă</conWord>
+      <conWord>arușie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -600,7 +580,7 @@
     <word>
       <wordId>314</wordId>
       <localWord>power</localWord>
-      <conWord>bală</conWord>
+      <conWord>balie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -640,14 +620,14 @@
     <word>
       <wordId>340</wordId>
       <localWord>swamp</localWord>
-      <conWord>bară</conWord>
+      <conWord>barie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;A wetland characterized by stagnant water, dense vegetation, and low-lying areas, often found in humid climates.&lt;br&gt;&lt;br&gt;From: Romanian, dacian origin.&lt;/body&gt;
+  &lt;body&gt;A wetland characterized by stagnant water, dense vegetation, and low-lying areas, often found in humid climates.&lt;br&gt;&lt;br&gt;From: Romanian (bar&amp;#259;), dacian origin.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -700,7 +680,7 @@
     <word>
       <wordId>300</wordId>
       <localWord>drill</localWord>
-      <conWord>bârmașă</conWord>
+      <conWord>bârmașie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -720,7 +700,7 @@
     <word>
       <wordId>192</wordId>
       <localWord>log</localWord>
-      <conWord>bârnă</conWord>
+      <conWord>bârnie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -880,7 +860,7 @@
     <word>
       <wordId>343</wordId>
       <localWord>frown</localWord>
-      <conWord>biscă</conWord>
+      <conWord>biscie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -960,7 +940,7 @@
     <word>
       <wordId>179</wordId>
       <localWord>bicycle</localWord>
-      <conWord>biță</conWord>
+      <conWord>biție</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -1000,7 +980,7 @@
     <word>
       <wordId>285</wordId>
       <localWord>brush</localWord>
-      <conWord>brușă</conWord>
+      <conWord>brușie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -1085,7 +1065,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A small, simple, and often temporary dwelling.&lt;/body&gt;
 &lt;/html&gt;
@@ -1140,7 +1120,7 @@
     <word>
       <wordId>13</wordId>
       <localWord>coffee</localWord>
-      <conWord>cafă</conWord>
+      <conWord>cafie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -1200,7 +1180,7 @@
     <word>
       <wordId>346</wordId>
       <localWord>carrot</localWord>
-      <conWord>carotă</conWord>
+      <conWord>carotie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -1280,7 +1260,7 @@
     <word>
       <wordId>298</wordId>
       <localWord>strawberry</localWord>
-      <conWord>căpșă</conWord>
+      <conWord>căpșie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -1580,12 +1560,12 @@
     <word>
       <wordId>305</wordId>
       <localWord>crepe</localWord>
-      <conWord>crepă</conWord>
+      <conWord>crepie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A thin, delicate pancake made from a batter consisting of flour, eggs, milk (or water), and butter.&lt;/body&gt;
 &lt;/html&gt;
@@ -1620,12 +1600,12 @@
     <word>
       <wordId>201</wordId>
       <localWord>crocodile</localWord>
-      <conWord>crocoadă</conWord>
+      <conWord>crocoadie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A large predatory reptile with a long snout, a thick skin with scales, and a powerful tail, native to Africa, Asia, the Americas, and Australia.&lt;/body&gt;
 &lt;/html&gt;
@@ -1780,7 +1760,7 @@
     <word>
       <wordId>230</wordId>
       <localWord>ciocolată</localWord>
-      <conWord>çiocă</conWord>
+      <conWord>çiocie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -1920,12 +1900,12 @@
     <word>
       <wordId>333</wordId>
       <localWord>difference</localWord>
-      <conWord>deltă</conWord>
+      <conWord>deltie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;The quality or condition of being unlike or dissimilar, or a point or way in which people or things are not the same.&lt;/body&gt;
 &lt;/html&gt;
@@ -2080,7 +2060,7 @@
     <word>
       <wordId>304</wordId>
       <localWord>wing</localWord>
-      <conWord>elitră</conWord>
+      <conWord>elitrie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -2140,7 +2120,7 @@
     <word>
       <wordId>217</wordId>
       <localWord>command, order</localWord>
-      <conWord>emră</conWord>
+      <conWord>emrie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -2220,7 +2200,7 @@
     <word>
       <wordId>265</wordId>
       <localWord>plate</localWord>
-      <conWord>farfă</conWord>
+      <conWord>farfie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -2300,7 +2280,7 @@
     <word>
       <wordId>16</wordId>
       <localWord>daughter</localWord>
-      <conWord>filă</conWord>
+      <conWord>filie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -2320,7 +2300,7 @@
     <word>
       <wordId>26</wordId>
       <localWord>flower</localWord>
-      <conWord>flauă</conWord>
+      <conWord>flavie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -2340,7 +2320,7 @@
     <word>
       <wordId>237</wordId>
       <localWord>arrow</localWord>
-      <conWord>fleçă</conWord>
+      <conWord>fleçie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -2360,7 +2340,7 @@
     <word>
       <wordId>257</wordId>
       <localWord>wool</localWord>
-      <conWord>flocă</conWord>
+      <conWord>flocie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -2438,26 +2418,6 @@
       <wordEtymologyNotes/>
     </word>
     <word>
-      <wordId>183</wordId>
-      <localWord>food</localWord>
-      <conWord>fodă</conWord>
-      <wordTypeId>6</wordTypeId>
-      <pronunciation/>
-      <definition>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;Any nutritious substance that is eaten, drunk, or otherwise taken into the body to sustain life, provide energy, and promote growth and development.&lt;/body&gt;
-&lt;/html&gt;
-</definition>
-      <wordProcOverride>F</wordProcOverride>
-      <autoDeclOverride>F</autoDeclOverride>
-      <wordRuleOverride>F</wordRuleOverride>
-      <wordClassCollection/>
-      <wordClassTextValueCollection/>
-      <wordEtymologyNotes/>
-    </word>
-    <word>
       <wordId>166</wordId>
       <localWord>eat</localWord>
       <conWord>fodia</conWord>
@@ -2468,6 +2428,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;To consume food, to take food into the body through the mouth and swallow it.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>183</wordId>
+      <localWord>food</localWord>
+      <conWord>fodie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Any nutritious substance that is eaten, drunk, or otherwise taken into the body to sustain life, provide energy, and promote growth and development.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -2540,7 +2520,7 @@
     <word>
       <wordId>306</wordId>
       <localWord>cutlet, chop</localWord>
-      <conWord>fruză</conWord>
+      <conWord>fruzie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -2620,7 +2600,7 @@
     <word>
       <wordId>170</wordId>
       <localWord>chicken</localWord>
-      <conWord>ghină</conWord>
+      <conWord>ghinie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -2645,7 +2625,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;To strike or come into contact with force, typically resulting in physical impact or damage.&lt;/body&gt;
 &lt;/html&gt;
@@ -2660,12 +2640,12 @@
     <word>
       <wordId>267</wordId>
       <localWord>glass, goblet, cup</localWord>
-      <conWord>gobletă</conWord>
+      <conWord>gobletie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Small container used for holding and serving beverages.&lt;/body&gt;
 &lt;/html&gt;
@@ -2680,12 +2660,12 @@
     <word>
       <wordId>294</wordId>
       <localWord>gorgonzola cheese</localWord>
-      <conWord>gorgă</conWord>
+      <conWord>gorgie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A type of blue cheese originating from Italy. It is made from cow's milk and is characterized by its creamy texture and distinctive blue-green veins of mold.&lt;/body&gt;
 &lt;/html&gt;
@@ -2700,7 +2680,7 @@
     <word>
       <wordId>38</wordId>
       <localWord>mistake</localWord>
-      <conWord>greșă</conWord>
+      <conWord>greșie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -2740,7 +2720,7 @@
     <word>
       <wordId>30</wordId>
       <localWord>grocery</localWord>
-      <conWord>grocă</conWord>
+      <conWord>grocie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -2918,26 +2898,6 @@
       <wordEtymologyNotes/>
     </word>
     <word>
-      <wordId>82</wordId>
-      <localWord>what</localWord>
-      <conWord>hă</conWord>
-      <wordTypeId>5</wordTypeId>
-      <pronunciation/>
-      <definition>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;Asking for information specifying something.&lt;/body&gt;
-&lt;/html&gt;
-</definition>
-      <wordProcOverride>F</wordProcOverride>
-      <autoDeclOverride>F</autoDeclOverride>
-      <wordRuleOverride>F</wordRuleOverride>
-      <wordClassCollection/>
-      <wordClassTextValueCollection/>
-      <wordEtymologyNotes/>
-    </word>
-    <word>
       <wordId>254</wordId>
       <localWord>waste</localWord>
       <conWord>hălăli</conWord>
@@ -2958,6 +2918,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>109</wordId>
+      <localWord>what</localWord>
+      <conWord>hău</conWord>
+      <wordTypeId>5</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Asking for information specifying something.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>197</wordId>
       <localWord>cardboard</localWord>
       <conWord>hârton</conWord>
@@ -2965,7 +2945,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A stiff, thick paper that is typically used for packaging or for making cards or posters.&lt;/body&gt;
 &lt;/html&gt;
@@ -3040,7 +3020,7 @@
     <word>
       <wordId>175</wordId>
       <localWord>hole</localWord>
-      <conWord>hudră</conWord>
+      <conWord>hudrie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -3140,7 +3120,7 @@
     <word>
       <wordId>231</wordId>
       <localWord>tent</localWord>
-      <conWord>iurtă</conWord>
+      <conWord>iurtie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -3200,12 +3180,12 @@
     <word>
       <wordId>302</wordId>
       <localWord>hate</localWord>
-      <conWord>îrgă</conWord>
+      <conWord>îrgie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;An intense feeling of dislike, hostility, or aversion towards someone or something. It can manifest as strong negative emotions, resentment, or animosity. Hate is often driven by perceived injustices, conflicts, prejudices, or differences in beliefs, values, or identities.&lt;/body&gt;
 &lt;/html&gt;
@@ -3320,7 +3300,7 @@
     <word>
       <wordId>238</wordId>
       <localWord>cow</localWord>
-      <conWord>jită</conWord>
+      <conWord>jitie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -3420,7 +3400,7 @@
     <word>
       <wordId>8</wordId>
       <localWord>book</localWord>
-      <conWord>libră</conWord>
+      <conWord>librie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -3480,7 +3460,7 @@
     <word>
       <wordId>338</wordId>
       <localWord>litter box</localWord>
-      <conWord>litră</conWord>
+      <conWord>litrie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -3620,12 +3600,12 @@
     <word>
       <wordId>301</wordId>
       <localWord>machine</localWord>
-      <conWord>mașă</conWord>
+      <conWord>mașie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A device or apparatus consisting of interconnected parts designed to perform a specific task or function. It is typically powered by mechanical, electrical, hydraulic, or pneumatic means and can range from simple tools to complex systems.&lt;/body&gt;
 &lt;/html&gt;
@@ -3740,7 +3720,7 @@
     <word>
       <wordId>2</wordId>
       <localWord>apple</localWord>
-      <conWord>merindă</conWord>
+      <conWord>merindie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -3840,7 +3820,7 @@
     <word>
       <wordId>344</wordId>
       <localWord>muffin</localWord>
-      <conWord>mufină</conWord>
+      <conWord>mufinie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -3960,7 +3940,7 @@
     <word>
       <wordId>287</wordId>
       <localWord>hilltop</localWord>
-      <conWord>murună</conWord>
+      <conWord>murunie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -4000,7 +3980,7 @@
     <word>
       <wordId>316</wordId>
       <localWord>orange</localWord>
-      <conWord>narançă</conWord>
+      <conWord>narançie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -4080,7 +4060,7 @@
     <word>
       <wordId>39</wordId>
       <localWord>morning</localWord>
-      <conWord>niață</conWord>
+      <conWord>niație</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -4100,7 +4080,7 @@
     <word>
       <wordId>54</wordId>
       <localWord>snow</localWord>
-      <conWord>nijă</conWord>
+      <conWord>nijie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -4140,7 +4120,7 @@
     <word>
       <wordId>44</wordId>
       <localWord>night</localWord>
-      <conWord>noctă</conWord>
+      <conWord>noctie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -4300,12 +4280,12 @@
     <word>
       <wordId>315</wordId>
       <localWord>nurse</localWord>
-      <conWord>nursă</conWord>
+      <conWord>nursie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A healthcare professional who is trained and licensed to provide medical care and support to patients.&lt;/body&gt;
 &lt;/html&gt;
@@ -4420,12 +4400,12 @@
     <word>
       <wordId>198</wordId>
       <localWord>paper</localWord>
-      <conWord>papiră</conWord>
+      <conWord>papirie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A material made from cellulose pulp, derived mainly from wood, rags, and certain grasses, used for writing, printing, drawing, and wrapping.&lt;/body&gt;
 &lt;/html&gt;
@@ -4485,7 +4465,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Indicates a location on a surface or a time of an event.&lt;/body&gt;
 &lt;/html&gt;
@@ -4540,12 +4520,12 @@
     <word>
       <wordId>330</wordId>
       <localWord>danger</localWord>
-      <conWord>periclă</conWord>
+      <conWord>periclie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;The state or condition of being exposed to harm, risk, or peril; a situation or circumstance that poses a threat to safety, well-being, or health.&lt;/body&gt;
 &lt;/html&gt;
@@ -4660,7 +4640,7 @@
     <word>
       <wordId>9</wordId>
       <localWord>bread</localWord>
-      <conWord>pită</conWord>
+      <conWord>pitie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -4800,7 +4780,7 @@
     <word>
       <wordId>242</wordId>
       <localWord>story</localWord>
-      <conWord>povă</conWord>
+      <conWord>povie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -4900,7 +4880,7 @@
     <word>
       <wordId>50</wordId>
       <localWord>sin</localWord>
-      <conWord>pucă</conWord>
+      <conWord>pucie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -5100,7 +5080,7 @@
     <word>
       <wordId>51</wordId>
       <localWord>sink</localWord>
-      <conWord>quvetă</conWord>
+      <conWord>quvetie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -5400,12 +5380,12 @@
     <word>
       <wordId>321</wordId>
       <localWord>sunflower seed</localWord>
-      <conWord>semeçă</conWord>
+      <conWord>semeçie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;The edible seeds harvested from the flower head of the sunflower plant (Helianthus annuus). They are small, flat, and oval-shaped with a black and white striped shell.&lt;/body&gt;
 &lt;/html&gt;
@@ -5500,12 +5480,12 @@
     <word>
       <wordId>295</wordId>
       <localWord>sour cream</localWord>
-      <conWord>smântă</conWord>
+      <conWord>smântie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A dairy product made by fermenting regular cream with lactic acid bacteria. It has a tangy flavor and a creamy texture. It is commonly used as a condiment in cooking and baking, as well as a topping for dishes like baked potatoes, tacos, and nachos. It can also be used as an ingredient in dips, dressings, and sauces.&lt;/body&gt;
 &lt;/html&gt;
@@ -5520,7 +5500,7 @@
     <word>
       <wordId>15</wordId>
       <localWord>couch, sofa</localWord>
-      <conWord>sofă</conWord>
+      <conWord>sofie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -5560,7 +5540,7 @@
     <word>
       <wordId>200</wordId>
       <localWord>sword</localWord>
-      <conWord>spadă</conWord>
+      <conWord>spadie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -5680,7 +5660,7 @@
     <word>
       <wordId>235</wordId>
       <localWord>stove</localWord>
-      <conWord>stovă</conWord>
+      <conWord>stovie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -6060,7 +6040,7 @@
     <word>
       <wordId>18</wordId>
       <localWord>death</localWord>
-      <conWord>tanată</conWord>
+      <conWord>tanatie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -6220,12 +6200,12 @@
     <word>
       <wordId>286</wordId>
       <localWord>template</localWord>
-      <conWord>templată</conWord>
+      <conWord>templatie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A preset format or pattern used as a guide for creating consistent and standardized documents, designs, or structures, allowing for easy replication or customization.&lt;/body&gt;
 &lt;/html&gt;
@@ -6400,7 +6380,7 @@
     <word>
       <wordId>205</wordId>
       <localWord>tuff</localWord>
-      <conWord>tufă</conWord>
+      <conWord>tufie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -6440,7 +6420,7 @@
     <word>
       <wordId>308</wordId>
       <localWord>water fountain, drinking fountain</localWord>
-      <conWord>țâșnă</conWord>
+      <conWord>țâșnie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -6480,7 +6460,7 @@
     <word>
       <wordId>10</wordId>
       <localWord>cat</localWord>
-      <conWord>țiță</conWord>
+      <conWord>țiție</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -6600,12 +6580,12 @@
     <word>
       <wordId>334</wordId>
       <localWord>vanilla</localWord>
-      <conWord>vanilă</conWord>
+      <conWord>vanilie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A flavoring derived from orchids of the genus Vanilla, particularly from the species Vanilla planifolia, or it can refer to the plant itself. It is commonly used in cooking, baking, and perfumery.&lt;/body&gt;
 &lt;/html&gt;
@@ -6660,7 +6640,7 @@
     <word>
       <wordId>57</wordId>
       <localWord>squirrel</localWord>
-      <conWord>vevă</conWord>
+      <conWord>vevie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -6765,29 +6745,9 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
-  &lt;/head&gt;
-  &lt;body&gt;To strongly wish or want for something, to have a strong feeling of longing or yearning.&lt;/body&gt;
-&lt;/html&gt;
-</definition>
-      <wordProcOverride>F</wordProcOverride>
-      <autoDeclOverride>F</autoDeclOverride>
-      <wordRuleOverride>F</wordRuleOverride>
-      <wordClassCollection/>
-      <wordClassTextValueCollection/>
-      <wordEtymologyNotes/>
-    </word>
-    <word>
-      <wordId>65</wordId>
-      <localWord>will</localWord>
-      <conWord>vijă</conWord>
-      <wordTypeId>6</wordTypeId>
-      <pronunciation/>
-      <definition>&lt;html&gt;
-  &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;The power of making a choice or decision, often associated with determination, volition, or intention.&lt;/body&gt;
+  &lt;body&gt;To strongly wish or want for something, to have a strong feeling of longing or yearning.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -6808,6 +6768,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A strong feeling of wanting or wishing for something, often associated with longing, craving, or aspiration.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>65</wordId>
+      <localWord>will</localWord>
+      <conWord>vijie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;The power of making a choice or decision, often associated with determination, volition, or intention.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -6840,7 +6820,7 @@
     <word>
       <wordId>155</wordId>
       <localWord>fox</localWord>
-      <conWord>vulpină</conWord>
+      <conWord>vulpinie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
