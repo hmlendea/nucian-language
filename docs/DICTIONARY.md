@@ -12,6 +12,7 @@
 |amor|noun|love|An intense feeling of affection and attachment towards someone or something.|
 |amu|adverb|now|At the present time or moment.|
 |anina|verb|hang|To suspend or fasten something from above so that it is freely suspended in the air.Origin: Dacian|
+|apotecie|noun|pharmacy|A place where prescription medications are dispensed and sold, along with providing pharmaceutical advice and services.|
 |apricoșie|noun|apricot|A small, round fruit with soft, velvety skin and a juicy, sweet flesh. It typically has a yellow to orange color and a stone or pit in the center.From: English (apricot)|
 |aproz|noun|grocery store|A small shop that sells groceries, usually located in a residential area.Origin: Romanian (aprozar)|
 |arușie|noun|spruce|Any of several species of evergreen trees belonging to the genus Picea, which are native to northern temperate regions.|
@@ -35,6 +36,7 @@
 |bi|verb|love|Expresses deep affection, care, and attachment towards someone or something. It encompasses a range of emotions and actions, including fondness, devotion, and concern for the well-being of the loved person or thing.From: Romanian (iubi)|
 |bin|adjectival|good|Morally excellent; virtuous; righteous.|
 |binği|verb|binge|To indulge excessively or compulsively in an activity, especially related to consuming large amounts of food, drink, or media in a short period, often to the point of discomfort or harm.From: English (binge)|
+|binie|noun|bean bag|A soft, sealed bag filled with small beans or similar material, used as furniture for sitting or reclining.|
 |biscie|noun|frown|A facial expression characterized by furrowing one's eyebrows and turning the corners of the mouth downwards, typically indicating displeasure, concentration, or concern.|
 |biscoș|adjectival|frowning|Describes the act of displaying a facial expression characterized by furrowing one's eyebrows and turning the corners of the mouth downwards, typically indicating displeasure, concentration, or concern.|
 |biscoșa|verb|frown|To furrow one's eyebrows and bring the corners of the mouth downwards, typically indicating displeasure, concentration, or concern.|
@@ -44,6 +46,7 @@
 |blaj|noun|bother|An occurrence or situation that causes someone trouble, inconvenience, or annoyance.|
 |blanc|adjectival|white|Describes something that is the color of milk or fresh snow, reflecting almost all visible wavelengths of light. It denotes the presence of the color white or a lack of color pigmentation.|
 |blăji|verb|bother|To cause annoyance, inconvenience, or trouble to someone or something. This verb implies a disturbance that may require attention or action to resolve.|
+|brinie|noun|brine|A solution of salt in water, used for preserving or seasoning food.From: English (brine)|
 |brușie|noun|brush|A tool with bristles, fibers, or other filaments, used for cleaning, grooming, painting, or applying a substance.|
 |bucterie|noun|kitchen|A room or area where food is prepared and cooked.|
 |budin|adjectival|fat|Having an excess of body weight, adipose tissue, or being overweight.|
@@ -51,10 +54,12 @@
 |bulan|noun|luck|The arbitrary force that causes events to happen in a favorable (or unfavorable) manner.|
 |bungalău|noun|hut|A small, simple, and often temporary dwelling.|
 |buzni|verb|burst in, barge in|To enter a room or a place suddenly and forcefully, often without permission or without considering other people who may be present.|
+|cabağ|noun|cabbage|A leafy vegetable with thick layers of leaves forming a round or elongated head.From: English (cabbage)|
 |caçap|noun|sugar|A sweet-tasting, crystalline substance, primarily extracted from sugarcane and sugar beet plants, that is commonly used as a sweetener in food and beverages.Origin: Russian (&amp;#1089;&amp;#1072;&amp;#1093;&amp;#1072;&amp;#1088;, tr: sahar)|
 |cadmie|noun|barracks|A large building or complex of buildings designed to house military personnel, providing living and sleeping quarters for soldiers.|
 |cafie|noun|coffee|A beverage made from roasted coffee beans, usually consumed hot and containing caffeine.|
 |cal|noun|horse|A large, four-legged mammal typically used for riding, racing, or work.|
+|camomilie|noun|chamomile|A daisy-like plant with white and yellow flowers, known for its calming properties and often used in herbal teas and aromatherapy.From: English (chamomile)|
 |capta|verb|catch|To intercept and hold (something that has been thrown, propelled, or dropped).|
 |carotie|noun|carrot|A root vegetable with a long, tapering shape, typically orange in color, although other varieties can be purple, red, yellow, or white.From: English (carrot)|
 |caș|conjunction|as|The conjunction for comparing clauses.|
@@ -131,15 +136,18 @@
 |fuği|verb|run|To move at a speed faster than walking by taking quick steps in which each foot is lifted before the next step.|
 |gaç|noun|pants|A piece of clothing worn from the waist to the ankles, covering each leg separately.|
 |găta|verb|finish|To bring to an end or complete an activity, task, or process.|
+|gentie|noun|bag|A flexible container with an opening at the top, used for carrying items.From: Romanian (geant&amp;#259;)|
 |ghiblu|noun|goblin|A mythical creature typically depicted as small and mischievous or malevolent, often associated with folklore and fantasy literature.|
 |ghinie|noun|chicken|A domesticated bird that is commonly raised for its meat and eggs, often used in various cuisines and as a source of protein.|
 |gionta|verb|hit|To strike or come into contact with force, typically resulting in physical impact or damage.|
 |gobletie|noun|glass, goblet, cup|Small container used for holding and serving beverages.|
+|gogie|noun|donut|A small fried cake of sweetened dough, typically in the shape of a ring or sphere.From: Romanian (gogoa&amp;#537;&amp;#259;)|
 |gorgie|noun|gorgonzola cheese|A type of blue cheese originating from Italy. It is made from cow's milk and is characterized by its creamy texture and distinctive blue-green veins of mold.|
 |greșie|noun|mistake|An error or fault in judgement, action, or decision-making.From: Romanian (gre&amp;#537;eal&amp;#259;)|
 |grio|adjectival|heavy|Of great weight; difficult to lift or move.|
 |grocie|noun|grocery|A store that sells food and household items, typically in a retail setting.|
 |grui|noun|small hill|A small-sized hill.|
+|gudie|noun|gouda cheese|A mild, yellow cheese originating from the Netherlands, known for its smooth texture and slightly nutty flavor.|
 |ğiozd|noun|backpack|A bag worn on the back, typically used for carrying personal belongings or supplies.|
 |Hori|proper noun|Horace|A male given name.|
 |haçe|verb|do|To perform or carry out an action or task.From: Spanish (hace) and Romanian (face)|
@@ -152,6 +160,7 @@
 |hârton|noun|cardboard|A stiff, thick paper that is typically used for packaging or for making cards or posters.|
 |hodini|verb|rest|To cease work or movement in order to relax, refresh oneself, or recover strength.|
 |hodinit|adjectival|rested|Feeling refreshed and energized after sleep or rest.|
+|hodog|noun|hot-dog|A cooked sausage served in a sliced bun, typically garnished with condiments like mustard, ketchup, or onions.From: English (hot-dog)|
 |hovăr|noun|friend|A person with whom one has a bond of mutual affection and trust, often someone with whom one spends time and shares interests or experiences.|
 |hovie|noun|painted Easter egg|A painted Easter egg is a hard-boiled or hollowed-out egg that has been decorated with colors and designs, typically to celebrate Easter.From: A mishearing as &amp;quot;hob&amp;#259;&amp;quot; by a friend|
 |hudrie|noun|hole|An opening or cavity in a solid object, often described as a gap, a hollow, or a perforation.|
@@ -160,12 +169,14 @@
 |imper|noun|empire|A group of territories or nations under a single supreme authority, often used to describe a powerful and extensive government or organization.|
 |imperial|adjectival|imperial|Relating to an empire or its ruler.|
 |ipac|interjection|hello|A greeting used to acknowledge someone's presence or to begin a conversation.|
+|ipet|noun|sanctuary|A place of refuge or safety, often designated for protection, especially for wildlife or persecuted individuals.From: Ancient Egyptian|
 |iurtie|noun|tent|A portable shelter made of fabric or other material supported by poles and ropes.|
 |izvoli|verb|invade|To enter forcefully as an enemy; to intrude upon; to encroach or infringe upon.From: Greek|
 |în|preposition|in|Indicates location inside an area or a period of time.|
 |îrga|verb|hate|To feel intense hostility, dislike, or aversion towards someone or something. It involves having strong negative emotions and a desire for the subject of hate to be removed, avoided, or harmed. Hatred can arise from various sources, including past experiences, conflicts, prejudices, or differences in beliefs, values, or identities.|
 |îrgie|noun|hate|An intense feeling of dislike, hostility, or aversion towards someone or something. It can manifest as strong negative emotions, resentment, or animosity. Hate is often driven by perceived injustices, conflicts, prejudices, or differences in beliefs, values, or identities.|
 |jagăr|noun|hunter|A person or animal that searches for and kills prey, often associated with hunting for sport, food, or resources.|
+|jamilie|noun|cook|A person who prepares food for eating by heating it, typically by combining ingredients and using heat.From: Romanian cooking influencer nicknamed &amp;quot;Jamila&amp;quot;|
 |jardenie|noun|garden|A piece of land used for growing flowers, plants, or vegetables, often cultivated for aesthetic or practical purposes.|
 |jăgare|noun|hunt|The act of pursuing and killing wild animals for food, sport, or other purposes, or a search for something or someone.|
 |jăgui|verb|hunt|To pursue and kill wild animals for food, sport, or other purposes.|
@@ -239,12 +250,14 @@
 |păsuș|noun|bridge|A structure spanning and providing passage over a gap or obstacle, often used to connect two land masses or cross a body of water.|
 |pășira|verb|chase away, drive away|To force someone or something to leave a place.|
 |periclie|noun|danger|The state or condition of being exposed to harm, risk, or peril; a situation or circumstance that poses a threat to safety, well-being, or health.|
+|perșun|noun|parsley|Parsley: A biennial herb with curly or flat leaves, often used as a garnish or seasoning in cooking.From: Serbocroatian (per&amp;#353;un)|
 |peșec|noun|baker|A person who bakes bread, cakes, or pastries professionally.|
 |peși|verb|bake|To cook (food) by dry heat without direct exposure to a flame, typically in an oven or on a hot surface.|
 |pica|verb|hate|To feel intense or passionate dislike for someone or something.|
 |pileat|adjectival|poor|Lacking sufficient money to live at a standard considered comfortable or normal in a society; of low quality or a low standard.|
 |pilui|verb|peel|The action of removing the outer layer or skin of something, typically a fruit or vegetable.|
 |pitie|noun|bread|A staple food made from flour, water, and yeast or other leavening agent, often associated with baking and cooking.|
+|piție|noun|pizza|A savory dish consisting of a usually round, flat base of dough topped with tomato sauce, cheese, and various toppings, baked in an oven.From: Italian (pizza)|
 |plaie|noun|beach|A sandy or pebbly shore by the ocean, sea, or lake, often used for swimming, sunbathing, and recreational activities.|
 |poça|verb|can|To be able to do something, to have the capacity or ability to perform a task or activity.|
 |poçitan|adjectival|ugly|Unpleasant or repulsive in appearance.|
@@ -275,6 +288,7 @@
 |răza|verb|raze|To completely destroy or demolish something, to level something to the ground.|
 |regn|noun|kingdom|A country, state, or territory ruled by a king or queen, often used to describe a period of history or a geographic region.|
 |riturna|verb|return|To come or go back to a previous place or condition, to give, send, or put something back to its original place or owner.|
+|rocie|noun|rock|A solid mineral material forming part of the surface of Terra and often used in construction.|
 |rumân|noun|romanian|A person, language, or culture originating from or associated with Romania, a country in southeastern Europe.|
 |sanct|noun|saint|A person recognized by a religious authority as having an exceptional degree of holiness, often associated with miracles and intercession.|
 |sanct|adjectival|holy, hallowed, sacred|Dedicated or consecrated to God or a religious purpose.|
@@ -288,9 +302,11 @@
 |sfeclie|noun|beetroot|The round, dark red root vegetable commonly used in cooking and salads.From: Romanian (sfecl&amp;#259;)|
 |sia|verb|be|To exist, to have reality or actuality, to occupy a particular state or condition.|
 |sibian|noun|villager|A person who lives in a village or small community, often associated with rural lifestyles and traditions.|
+|sibiu|noun|village|A small community or settlement in a rural area, often characterized by a close-knit community and traditional lifestyle.|
 |sire|noun|shame|A painful feeling of humiliation or distress caused by the consciousness of wrong or foolish behavior.|
 |slim|verb|slime|A moist, soft, and slippery substance, typically regarded as repulsive.|
 |smântie|noun|sour cream|A dairy product made by fermenting regular cream with lactic acid bacteria. It has a tangy flavor and a creamy texture. It is commonly used as a condiment in cooking and baking, as well as a topping for dishes like baked potatoes, tacos, and nachos. It can also be used as an ingredient in dips, dressings, and sauces.|
+|socie|noun|sock|A garment worn on the foot and ankle, typically made of knit fabric, used for warmth and comfort.From: English (sock)|
 |sofie|noun|couch, sofa|A long upholstered piece of furniture for seating, often used in living rooms or lounges.|
 |sol|noun|sun|The star at the center of the solar system, around which the Earth and other planets revolve, providing heat and light to the Earth.|
 |spadie|noun|sword|A weapon with a long, sharp metal blade and a hilt or handle, used for thrusting or striking.|
@@ -327,8 +343,10 @@
 |televeu|noun|television|A device that receives signals and displays video and sound, used primarily for entertainment or communication purposes.|
 |temp|noun|time|A measure of the duration between events or moments, often considered a continuous progression forward from the past, through the present, and into the future.|
 |templatie|noun|template|A preset format or pattern used as a guide for creating consistent and standardized documents, designs, or structures, allowing for easy replication or customization.|
+|tesprot|noun|respect|A feeling of admiration or deference toward someone or something based on their qualities, achievements, or position.|
 |to'|possessive adjective|your|The singular form for &amp;quot;our&amp;quot; (english)|
 |tonie|noun|whim|A sudden and often irrational or impulsive idea, desire, or change of mind.From: Romanian (toan&amp;#259;)|
+|tortilie|noun|tortilla|A thin, round flatbread made from corn or wheat flour, commonly used in Mexican cuisine.From: Spanish (Tortilla)|
 |trağe|verb|bring|To cause to come with oneself or to a particular place, to transport or convey something or someone.|
 |trăi|verb|must, have to|To be necessary or required to do something, to have an obligation or duty to do something.|
 |tri|cardinal number|three|Being a numerical value that is equal to the quantity of three units; the third cardinal number.|
@@ -345,6 +363,7 @@
 |urni|verb|move|To change position or location; to go from one place to another.|
 |urod|adjectival|ugly|The quality or state of being unattractive or unpleasant in appearance.From: Russian (&amp;#1059;&amp;#1088;&amp;#1086;&amp;#1076;, tr: urod)|
 |uza|verb|use|To take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result.|
+|vaierie|noun|string|A thin cord of material, such as cotton or nylon, often used for tying or binding.From: Dacian, Romanian (baier&amp;#259;)|
 |vailing|noun|cooking pot|A deep round container, typically made of metal or earthenware, used for cooking soups, stews, and other dishes.|
 |valdie|noun|forest|A complex ecosystem covering a large area and consisting predominantly of densely packed trees that form a canopy and provide habitat for a variety of plant and animal species.From: German (wald)|
 |vanilie|noun|vanilla|A flavoring derived from orchids of the genus Vanilla, particularly from the species Vanilla planifolia, or it can refer to the plant itself. It is commonly used in cooking, baking, and perfumery.|

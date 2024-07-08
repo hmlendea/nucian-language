@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dictionary>
   <PolyGlotVer>3.5.1</PolyGlotVer>
-  <DictSaveDate>2024-07-08T09:28:50.440423398Z</DictSaveDate>
+  <DictSaveDate>2024-07-08T11:54:00.142153680Z</DictSaveDate>
   <languageProperties>
     <fontStyle>0</fontStyle>
     <fontSize>20.0</fontSize>
@@ -388,6 +388,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;To suspend or fasten something from above so that it is freely suspended in the air.&lt;br&gt;&lt;br&gt;Origin: Dacian&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>385</wordId>
+      <localWord>pharmacy</localWord>
+      <conWord>apotecie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A place where prescription medications are dispensed and sold, along with providing pharmaceutical advice and services.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -858,6 +878,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>381</wordId>
+      <localWord>bean bag</localWord>
+      <conWord>binie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A soft, sealed bag filled with small beans or similar material, used as furniture for sitting or reclining.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>343</wordId>
       <localWord>frown</localWord>
       <conWord>biscie</conWord>
@@ -1038,6 +1078,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>378</wordId>
+      <localWord>brine</localWord>
+      <conWord>brinie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A solution of salt in water, used for preserving or seasoning food.&lt;br&gt;&lt;br&gt;From: English (brine)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>285</wordId>
       <localWord>brush</localWord>
       <conWord>brușie</conWord>
@@ -1178,6 +1238,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>379</wordId>
+      <localWord>cabbage</localWord>
+      <conWord>cabağ</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A leafy vegetable with thick layers of leaves forming a round or elongated head.&lt;br&gt;&lt;br&gt;From: English (cabbage)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>296</wordId>
       <localWord>sugar</localWord>
       <conWord>caçap</conWord>
@@ -1248,6 +1328,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A large, four-legged mammal typically used for riding, racing, or work.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>383</wordId>
+      <localWord>chamomile</localWord>
+      <conWord>camomilie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A daisy-like plant with white and yellow flowers, known for its calming properties and often used in herbal teas and aromatherapy.&lt;br&gt;&lt;br&gt;From: English (chamomile)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -2778,6 +2878,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>376</wordId>
+      <localWord>bag</localWord>
+      <conWord>gentie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A flexible container with an opening at the top, used for carrying items.&lt;br&gt;&lt;br&gt;From: Romanian (geant&amp;#259;)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>99</wordId>
       <localWord>goblin</localWord>
       <conWord>ghiblu</conWord>
@@ -2848,6 +2968,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;Small container used for holding and serving beverages.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>390</wordId>
+      <localWord>donut</localWord>
+      <conWord>gogie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A small fried cake of sweetened dough, typically in the shape of a ring or sphere.&lt;br&gt;&lt;br&gt;From: Romanian (gogoa&amp;#537;&amp;#259;)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -2948,6 +3088,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A small-sized hill.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>384</wordId>
+      <localWord>gouda cheese</localWord>
+      <conWord>gudie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A mild, yellow cheese originating from the Netherlands, known for its smooth texture and slightly nutty flavor.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -3198,6 +3358,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>394</wordId>
+      <localWord>hot-dog</localWord>
+      <conWord>hodog</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A cooked sausage served in a sliced bun, typically garnished with condiments like mustard, ketchup, or onions.&lt;br&gt;&lt;br&gt;From: English (hot-dog)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>27</wordId>
       <localWord>friend</localWord>
       <conWord>hovăr</conWord>
@@ -3358,6 +3538,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>388</wordId>
+      <localWord>sanctuary</localWord>
+      <conWord>ipet</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A place of refuge or safety, often designated for protection, especially for wildlife or persecuted individuals.&lt;br&gt;&lt;br&gt;From: Ancient Egyptian&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>231</wordId>
       <localWord>tent</localWord>
       <conWord>iurtie</conWord>
@@ -3468,6 +3668,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A person or animal that searches for and kills prey, often associated with hunting for sport, food, or resources.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>380</wordId>
+      <localWord>cook</localWord>
+      <conWord>jamilie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A person who prepares food for eating by heating it, typically by combining ingredients and using heat.&lt;br&gt;&lt;br&gt;From: Romanian cooking influencer nicknamed &amp;quot;Jamila&amp;quot;&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -4938,6 +5158,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>382</wordId>
+      <localWord>parsley</localWord>
+      <conWord>perșun</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;Parsley: A biennial herb with curly or flat leaves, often used as a garnish or seasoning in cooking.&lt;br&gt;&lt;br&gt;From: Serbocroatian (per&amp;#353;un)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>258</wordId>
       <localWord>baker</localWord>
       <conWord>peșec</conWord>
@@ -5048,6 +5288,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A staple food made from flour, water, and yeast or other leavening agent, often associated with baking and cooking.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>387</wordId>
+      <localWord>pizza</localWord>
+      <conWord>piție</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A savory dish consisting of a usually round, flat base of dough topped with tomato sauce, cheese, and various toppings, baked in an oven.&lt;br&gt;&lt;br&gt;From: Italian (pizza)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -5658,6 +5918,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>386</wordId>
+      <localWord>rock</localWord>
+      <conWord>rocie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A solid mineral material forming part of the surface of Terra and often used in construction.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>47</wordId>
       <localWord>romanian</localWord>
       <conWord>rumân</conWord>
@@ -5918,6 +6198,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>393</wordId>
+      <localWord>village</localWord>
+      <conWord>sibiu</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A small community or settlement in a rural area, often characterized by a close-knit community and traditional lifestyle.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>226</wordId>
       <localWord>shame</localWord>
       <conWord>sire</conWord>
@@ -5968,6 +6268,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A dairy product made by fermenting regular cream with lactic acid bacteria. It has a tangy flavor and a creamy texture. It is commonly used as a condiment in cooking and baking, as well as a topping for dishes like baked potatoes, tacos, and nachos. It can also be used as an ingredient in dips, dressings, and sauces.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>392</wordId>
+      <localWord>sock</localWord>
+      <conWord>socie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A garment worn on the foot and ankle, typically made of knit fabric, used for warmth and comfort.&lt;br&gt;&lt;br&gt;From: English (sock)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -6698,6 +7018,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>391</wordId>
+      <localWord>respect</localWord>
+      <conWord>tesprot</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A feeling of admiration or deference toward someone or something based on their qualities, achievements, or position.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>92</wordId>
       <localWord>your</localWord>
       <conWord>to'</conWord>
@@ -6728,6 +7068,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A sudden and often irrational or impulsive idea, desire, or change of mind.&lt;br&gt;&lt;br&gt;From: Romanian (toan&amp;#259;)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>389</wordId>
+      <localWord>tortilla</localWord>
+      <conWord>tortilie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A thin, round flatbread made from corn or wheat flour, commonly used in Mexican cuisine.&lt;br&gt;&lt;br&gt;From: Spanish (Tortilla)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -7048,6 +7408,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;To take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>377</wordId>
+      <localWord>string</localWord>
+      <conWord>vaierie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A thin cord of material, such as cotton or nylon, often used for tying or binding.&lt;br&gt;&lt;br&gt;From: Dacian, Romanian (baier&amp;#259;)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
