@@ -35,6 +35,7 @@
 |berulie|noun|beer|An alcoholic beverage brewed from malted barley, flavored with hops, and fermented with yeast.|
 |beua|verb|drink|To consume a liquid, typically through the mouth.|
 |bi|verb|love|Expresses deep affection, care, and attachment towards someone or something. It encompasses a range of emotions and actions, including fondness, devotion, and concern for the well-being of the loved person or thing.From: Romanian (iubi)|
+|bildui|verb|build|To construct or assemble something by putting together parts or materials; to develop or create gradually.From: English (build)|
 |bin|adjectival|good|Morally excellent; virtuous; righteous.|
 |binği|verb|binge|To indulge excessively or compulsively in an activity, especially related to consuming large amounts of food, drink, or media in a short period, often to the point of discomfort or harm.From: English (binge)|
 |binie|noun|bean bag|A soft, sealed bag filled with small beans or similar material, used as furniture for sitting or reclining.|
@@ -64,6 +65,7 @@
 |camomilie|noun|chamomile|A daisy-like plant with white and yellow flowers, known for its calming properties and often used in herbal teas and aromatherapy.From: English (chamomile)|
 |capta|verb|catch|To intercept and hold (something that has been thrown, propelled, or dropped).|
 |carotie|noun|carrot|A root vegetable with a long, tapering shape, typically orange in color, although other varieties can be purple, red, yellow, or white.From: English (carrot)|
+|casie|noun|house|A building for human habitation, typically with rooms for living, sleeping, and eating.From: Romanian (cas&amp;#259;)|
 |caș|conjunction|as|The conjunction for comparing clauses.|
 |catalma|verb|calm down|To become less agitated, anxious, or excited; to regain composure or relaxation after a period of tension.From: Romanian (calma) + Romanian (potoli)|
 |catru|cardinal number|four|Being a numerical value that is equal to the quantity of four units; the fourth cardinal number.|
@@ -102,6 +104,7 @@
 |çus|interjection|bye, goodbye, farewell|An expression of good wishes at parting.|
 |da|adverb|yes|Used to give an affirmative response or to express agreement.|
 |dara|verb|give|To freely transfer the possession or ownership of something to someone else, typically without expectation of compensation.|
+|dă|preposition|of|Expressing a relationship between a part and a whole, possession, association, or source.From: Romanian (de)|
 |dărt|noun|dirt|Soil or earth, often associated with being dirty or contaminated.From: English (dirt)|
 |deçe|cardinal number|ten|Being a numerical value that is equal to the quantity of ten units; the tenth cardinal number.|
 |deltie|noun|difference|The quality or condition of being unlike or dissimilar, or a point or way in which people or things are not the same.|
@@ -118,6 +121,7 @@
 |emrie|noun|command, order|An authoritative order or instruction.|
 |englu|noun|english|A person, language, or culture originating from or associated with England, a country in western Europe.|
 |et|conjunction|and|The conjunction for joining clauses.|
+|fambrie|noun|hunger|The physiological need for food; a strong desire or craving for nourishment.From: Spanish (hambre)|
 |famil|noun|family|A group of people related by blood, marriage, or adoption, often living together as a household.|
 |farfie|noun|plate|A flat, usually round dish used for serving food.|
 |fănçiu|adjectival|fancy|Decorative or elaborate in style, often featuring intricate details or patterns; intended to impress or attract attention; not plain or ordinary.From: English (fancy)|
@@ -289,10 +293,10 @@
 |puiție|noun|female baby|A very young female offspring, especially one that is not yet able to care for itself.|
 |pușin|adjectival|puffy|Attractive or pretty, especially in a childish, delicate, or charming way.|
 |puțurel|adjectival|little|Small in size, amount, or degree.|
+|q|preposition|with|Indicates association or accompaniment.|
 |qi|conjunction|or|The conjunction for indicating a contrast or an alternative to what was previously stated.|
 |qpie|noun|mushroom|A type of fungus with a typically umbrella-shaped cap and stem, often edible.From: Romanian (ciuperc&amp;#259;)|
 |qta|verb|leave, quit|To leave a location or job; to stop doing something.|
-|qu|preposition|with|Indicates association or accompaniment.|
 |qub|noun|nest|A structure built by birds or other animals to hold their eggs, offspring, or themselves, often located in trees or on the ground.|
 |qvetie|noun|sink|A bowl-shaped plumbing fixture used for washing hands or dishes, often located in a bathroom or kitchen.|
 |răji|verb|kiss ass|To flatter or excessively praise someone in order to gain favor or advantage, often insincerely or obsequiously. It involves ingratiating oneself with another person by offering excessive compliments or approval, typically with the intention of obtaining special treatment, privileges, or opportunities.|
@@ -321,7 +325,7 @@
 |sibiu|noun|village|A small community or settlement in a rural area, often characterized by a close-knit community and traditional lifestyle.|
 |sire|noun|shame|A painful feeling of humiliation or distress caused by the consciousness of wrong or foolish behavior.|
 |slim|noun|slime|A moist, soft, and slippery substance, typically regarded as repulsive.|
-|smântie|noun|sour cream|A dairy product made by fermenting regular cream with lactic acid bacteria. It has a tangy flavor and a creamy texture. It is commonly used as a condiment in cooking and baking, as well as a topping for dishes like baked potatoes, tacos, and nachos. It can also be used as an ingredient in dips, dressings, and sauces.|
+|smântie|noun|sour cream|A dairy product made by fermenting regular cream with lactic acid bacteria. It has a tangy flavor and a creamy texture. It is commonly used as a condiment in cooking and baking, as well as a topping for dishes like baked potatoes, tacos, and nachos. It can also be used as an ingredient in dips, dressings, and sauces.From: Romanian (sm&amp;#226;nt&amp;#226;n&amp;#259;)|
 |socie|noun|sock|A garment worn on the foot and ankle, typically made of knit fabric, used for warmth and comfort.From: English (sock)|
 |sofie|noun|couch, sofa|A long upholstered piece of furniture for seating, often used in living rooms or lounges.|
 |sol|noun|sun|The star at the center of the solar system, around which the Earth and other planets revolve, providing heat and light to the Earth.|

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dictionary>
   <PolyGlotVer>3.5.1</PolyGlotVer>
-  <DictSaveDate>2024-07-15T10:46:39.660302018Z</DictSaveDate>
+  <DictSaveDate>2024-07-15T20:28:48.250562712Z</DictSaveDate>
   <languageProperties>
     <fontStyle>0</fontStyle>
     <fontSize>20.0</fontSize>
@@ -858,6 +858,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>413</wordId>
+      <localWord>build</localWord>
+      <conWord>bildui</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To construct or assemble something by putting together parts or materials; to develop or create gradually.&lt;br&gt;&lt;br&gt;From: English (build)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>70</wordId>
       <localWord>good</localWord>
       <conWord>bin</conWord>
@@ -1428,6 +1448,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A root vegetable with a long, tapering shape, typically orange in color, although other varieties can be purple, red, yellow, or white.&lt;br&gt;&lt;br&gt;From: English (carrot)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>414</wordId>
+      <localWord>house</localWord>
+      <conWord>casie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A building for human habitation, typically with rooms for living, sleeping, and eating.&lt;br&gt;&lt;br&gt;From: Romanian (cas&amp;#259;)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -2198,6 +2238,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>416</wordId>
+      <localWord>of</localWord>
+      <conWord>dă</conWord>
+      <wordTypeId>12</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Expressing a relationship between a part and a whole, possession, association, or source.&lt;br&gt;&lt;br&gt;From: Romanian (de)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>167</wordId>
       <localWord>dirt</localWord>
       <conWord>dărt</conWord>
@@ -2508,6 +2568,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;The conjunction for joining clauses.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>415</wordId>
+      <localWord>hunger</localWord>
+      <conWord>fambrie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;The physiological need for food; a strong desire or craving for nourishment.&lt;br&gt;&lt;br&gt;From: Spanish (hambre)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -5125,7 +5205,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;An oval or round object laid by a female bird, reptile, fish, or invertebrate, usually containing a developing embryo and surrounded by a protective shell or membrane.&lt;/body&gt;
 &lt;/html&gt;
@@ -5938,6 +6018,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>115</wordId>
+      <localWord>with</localWord>
+      <conWord>q</conWord>
+      <wordTypeId>12</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Indicates association or accompaniment.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>95</wordId>
       <localWord>or</localWord>
       <conWord>qi</conWord>
@@ -5988,26 +6088,6 @@
     
   &lt;/head&gt;
   &lt;body&gt;To leave a location or job; to stop doing something.&lt;/body&gt;
-&lt;/html&gt;
-</definition>
-      <wordProcOverride>F</wordProcOverride>
-      <autoDeclOverride>F</autoDeclOverride>
-      <wordRuleOverride>F</wordRuleOverride>
-      <wordClassCollection/>
-      <wordClassTextValueCollection/>
-      <wordEtymologyNotes/>
-    </word>
-    <word>
-      <wordId>115</wordId>
-      <localWord>with</localWord>
-      <conWord>qu</conWord>
-      <wordTypeId>12</wordTypeId>
-      <pronunciation/>
-      <definition>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;Indicates association or accompaniment.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -6587,7 +6667,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;A dairy product made by fermenting regular cream with lactic acid bacteria. It has a tangy flavor and a creamy texture. It is commonly used as a condiment in cooking and baking, as well as a topping for dishes like baked potatoes, tacos, and nachos. It can also be used as an ingredient in dips, dressings, and sauces.&lt;/body&gt;
+  &lt;body&gt;A dairy product made by fermenting regular cream with lactic acid bacteria. It has a tangy flavor and a creamy texture. It is commonly used as a condiment in cooking and baking, as well as a topping for dishes like baked potatoes, tacos, and nachos. It can also be used as an ingredient in dips, dressings, and sauces.&lt;br&gt;&lt;br&gt;From: Romanian (sm&amp;#226;nt&amp;#226;n&amp;#259;)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -8272,6 +8352,34 @@
         <dimensionName>plural</dimensionName>
       </dimensionNode>
     </declensionNode>
+    <declensionNode>
+      <declensionId>7</declensionId>
+      <declensionText>Case</declensionText>
+      <declensionNotes/>
+      <declensionTemplate>1</declensionTemplate>
+      <declensionRelatedId>6</declensionRelatedId>
+      <declensionDimensionless>F</declensionDimensionless>
+      <dimensionNode>
+        <dimensionId>2</dimensionId>
+        <dimensionName>nominative</dimensionName>
+      </dimensionNode>
+      <dimensionNode>
+        <dimensionId>3</dimensionId>
+        <dimensionName>accusative</dimensionName>
+      </dimensionNode>
+      <dimensionNode>
+        <dimensionId>4</dimensionId>
+        <dimensionName>genitive</dimensionName>
+      </dimensionNode>
+      <dimensionNode>
+        <dimensionId>5</dimensionId>
+        <dimensionName>dative</dimensionName>
+      </dimensionNode>
+      <dimensionNode>
+        <dimensionId>6</dimensionId>
+        <dimensionName>vocative</dimensionName>
+      </dimensionNode>
+    </declensionNode>
     <decGenRule>
       <decGenRuleComb>,3,2,2,</decGenRuleComb>
       <decGenRuleName>Ends [ae]</decGenRuleName>
@@ -8781,50 +8889,146 @@
       <decGenRuleApplyToClasses/>
     </decGenRule>
     <decGenRule>
-      <decGenRuleComb>,3,</decGenRuleComb>
-      <decGenRuleName>Remove ending "[eu]"</decGenRuleName>
-      <decGenRuleRegex>^.*[eu]$</decGenRuleRegex>
+      <decGenRuleComb>,2,2,</decGenRuleComb>
+      <decGenRuleName>Ending: a</decGenRuleName>
+      <decGenRuleRegex>^.*ie$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
       <decGenRuleIndex>1</decGenRuleIndex>
       <decGenTrans>
-        <decGenTransRegex>^(.*)[eu]$</decGenTransRegex>
-        <decGenTransReplace>$1</decGenTransReplace>
+        <decGenTransRegex>^(.*)(ie)$</decGenTransRegex>
+        <decGenTransReplace>$1a</decGenTransReplace>
       </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>
     <decGenRule>
-      <decGenRuleComb>,3,</decGenRuleComb>
-      <decGenRuleName>Ends with anything</decGenRuleName>
-      <decGenRuleRegex>.*</decGenRuleRegex>
+      <decGenRuleComb>,2,4,</decGenRuleComb>
+      <decGenRuleName>Ending with "ie"</decGenRuleName>
+      <decGenRuleRegex>^.*ie$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
       <decGenRuleIndex>2</decGenRuleIndex>
       <decGenTrans>
-        <decGenTransRegex>^(.*)[i]*$</decGenTransRegex>
-        <decGenTransReplace>$1is</decGenTransReplace>
+        <decGenTransRegex>^(.*)(ie)$</decGenTransRegex>
+        <decGenTransReplace>$1$2i</decGenTransReplace>
       </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>
     <decGenRule>
-      <decGenRuleComb>,3,</decGenRuleComb>
-      <decGenRuleName>Remove duplicated letters</decGenRuleName>
-      <decGenRuleRegex>.*</decGenRuleRegex>
+      <decGenRuleComb>,2,5,</decGenRuleComb>
+      <decGenRuleName>Ending with "ie"</decGenRuleName>
+      <decGenRuleRegex>^.*ie$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
       <decGenRuleIndex>3</decGenRuleIndex>
       <decGenTrans>
-        <decGenTransRegex>^(.*)([i])\2(.*)$</decGenTransRegex>
-        <decGenTransReplace>$1$2$3</decGenTransReplace>
+        <decGenTransRegex>^(.*)(ie)$</decGenTransRegex>
+        <decGenTransReplace>$1$2i</decGenTransReplace>
       </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>
     <decGenRule>
-      <decGenRuleComb>,3,</decGenRuleComb>
-      <decGenRuleName>Remove duplicated endings</decGenRuleName>
-      <decGenRuleRegex>^.*isis$</decGenRuleRegex>
+      <decGenRuleComb>,2,2,</decGenRuleComb>
+      <decGenRuleName>Ending: u'</decGenRuleName>
+      <decGenRuleRegex>^.*[^a']$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
       <decGenRuleIndex>4</decGenRuleIndex>
       <decGenTrans>
-        <decGenTransRegex>^(.*is)(is)*$</decGenTransRegex>
-        <decGenTransReplace>$1</decGenTransReplace>
+        <decGenTransRegex>^(.*[^a'])$</decGenTransRegex>
+        <decGenTransReplace>$1u'</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,2,4,</decGenRuleComb>
+      <decGenRuleName>Ending with "u"</decGenRuleName>
+      <decGenRuleRegex>^.*u$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>5</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)(u)$</decGenTransRegex>
+        <decGenTransReplace>$1$2lui</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,2,5,</decGenRuleComb>
+      <decGenRuleName>Ending with "u"</decGenRuleName>
+      <decGenRuleRegex>^.*u$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>6</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)(u)$</decGenTransRegex>
+        <decGenTransReplace>$1$2lui</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,2,3,</decGenRuleComb>
+      <decGenRuleName>Ending: a</decGenRuleName>
+      <decGenRuleRegex>^.*ie$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>7</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)(ie)$</decGenTransRegex>
+        <decGenTransReplace>$1a</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,2,</decGenRuleComb>
+      <decGenRuleName>Ending: ias</decGenRuleName>
+      <decGenRuleRegex>^.*ie$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>8</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)ie$</decGenTransRegex>
+        <decGenTransReplace>$1as</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,2,</decGenRuleComb>
+      <decGenRuleName>Ending: ii</decGenRuleName>
+      <decGenRuleRegex>^.*[^is]$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>9</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*[^is])$</decGenTransRegex>
+        <decGenTransReplace>$1ii</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,2,3,</decGenRuleComb>
+      <decGenRuleName>Ending: u'</decGenRuleName>
+      <decGenRuleRegex>^.*[^a']$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>10</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*[^a'])$</decGenTransRegex>
+        <decGenTransReplace>$1u'</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,3,</decGenRuleComb>
+      <decGenRuleName>Ending: ias</decGenRuleName>
+      <decGenRuleRegex>^.*ie$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>11</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)ie$</decGenTransRegex>
+        <decGenTransReplace>$1as</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,3,</decGenRuleComb>
+      <decGenRuleName>Ending: ii</decGenRuleName>
+      <decGenRuleRegex>^.*[^is]$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>12</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*[^is])$</decGenTransRegex>
+        <decGenTransReplace>$1ii</decGenTransReplace>
       </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>
