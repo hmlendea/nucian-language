@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dictionary>
   <PolyGlotVer>3.5.1</PolyGlotVer>
-  <DictSaveDate>2024-07-15T20:28:48.250562712Z</DictSaveDate>
+  <DictSaveDate>2024-07-15T20:56:50.021801068Z</DictSaveDate>
   <languageProperties>
     <fontStyle>0</fontStyle>
     <fontSize>20.0</fontSize>
@@ -3108,6 +3108,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;To strike or come into contact with force, typically resulting in physical impact or damage.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>417</wordId>
+      <localWord>glory</localWord>
+      <conWord>glorie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;High renown or honor obtained through notable achievements; magnificence or great beauty.&lt;br&gt;&lt;br&gt;From: Romanian (glorie)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -8380,6 +8400,26 @@
         <dimensionName>vocative</dimensionName>
       </dimensionNode>
     </declensionNode>
+    <declensionNode>
+      <declensionId>8</declensionId>
+      <declensionText>Article</declensionText>
+      <declensionNotes/>
+      <declensionTemplate>1</declensionTemplate>
+      <declensionRelatedId>6</declensionRelatedId>
+      <declensionDimensionless>F</declensionDimensionless>
+      <dimensionNode>
+        <dimensionId>2</dimensionId>
+        <dimensionName>definite</dimensionName>
+      </dimensionNode>
+      <dimensionNode>
+        <dimensionId>3</dimensionId>
+        <dimensionName>indefinite</dimensionName>
+      </dimensionNode>
+      <dimensionNode>
+        <dimensionId>4</dimensionId>
+        <dimensionName>unmarked</dimensionName>
+      </dimensionNode>
+    </declensionNode>
     <decGenRule>
       <decGenRuleComb>,3,2,2,</decGenRuleComb>
       <decGenRuleName>Ends [ae]</decGenRuleName>
@@ -8889,7 +8929,7 @@
       <decGenRuleApplyToClasses/>
     </decGenRule>
     <decGenRule>
-      <decGenRuleComb>,2,2,</decGenRuleComb>
+      <decGenRuleComb>,2,2,2,</decGenRuleComb>
       <decGenRuleName>Ending: a</decGenRuleName>
       <decGenRuleRegex>^.*ie$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
@@ -8901,8 +8941,8 @@
       <decGenRuleApplyToClasses/>
     </decGenRule>
     <decGenRule>
-      <decGenRuleComb>,2,4,</decGenRuleComb>
-      <decGenRuleName>Ending with "ie"</decGenRuleName>
+      <decGenRuleComb>,2,4,2,</decGenRuleComb>
+      <decGenRuleName>Ending: a</decGenRuleName>
       <decGenRuleRegex>^.*ie$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
       <decGenRuleIndex>2</decGenRuleIndex>
@@ -8913,8 +8953,8 @@
       <decGenRuleApplyToClasses/>
     </decGenRule>
     <decGenRule>
-      <decGenRuleComb>,2,5,</decGenRuleComb>
-      <decGenRuleName>Ending with "ie"</decGenRuleName>
+      <decGenRuleComb>,2,5,2,</decGenRuleComb>
+      <decGenRuleName>Ending: a</decGenRuleName>
       <decGenRuleRegex>^.*ie$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
       <decGenRuleIndex>3</decGenRuleIndex>
@@ -8925,7 +8965,7 @@
       <decGenRuleApplyToClasses/>
     </decGenRule>
     <decGenRule>
-      <decGenRuleComb>,2,2,</decGenRuleComb>
+      <decGenRuleComb>,2,2,2,</decGenRuleComb>
       <decGenRuleName>Ending: u'</decGenRuleName>
       <decGenRuleRegex>^.*[^a']$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
@@ -8937,8 +8977,8 @@
       <decGenRuleApplyToClasses/>
     </decGenRule>
     <decGenRule>
-      <decGenRuleComb>,2,4,</decGenRuleComb>
-      <decGenRuleName>Ending with "u"</decGenRuleName>
+      <decGenRuleComb>,2,4,2,</decGenRuleComb>
+      <decGenRuleName>Ending: u</decGenRuleName>
       <decGenRuleRegex>^.*u$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
       <decGenRuleIndex>5</decGenRuleIndex>
@@ -8949,8 +8989,8 @@
       <decGenRuleApplyToClasses/>
     </decGenRule>
     <decGenRule>
-      <decGenRuleComb>,2,5,</decGenRuleComb>
-      <decGenRuleName>Ending with "u"</decGenRuleName>
+      <decGenRuleComb>,2,5,2,</decGenRuleComb>
+      <decGenRuleName>Ending: u</decGenRuleName>
       <decGenRuleRegex>^.*u$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
       <decGenRuleIndex>6</decGenRuleIndex>
@@ -8961,7 +9001,7 @@
       <decGenRuleApplyToClasses/>
     </decGenRule>
     <decGenRule>
-      <decGenRuleComb>,2,3,</decGenRuleComb>
+      <decGenRuleComb>,2,3,2,</decGenRuleComb>
       <decGenRuleName>Ending: a</decGenRuleName>
       <decGenRuleRegex>^.*ie$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
@@ -8973,35 +9013,11 @@
       <decGenRuleApplyToClasses/>
     </decGenRule>
     <decGenRule>
-      <decGenRuleComb>,3,2,</decGenRuleComb>
-      <decGenRuleName>Ending: ias</decGenRuleName>
-      <decGenRuleRegex>^.*ie$</decGenRuleRegex>
-      <decGenRuleTypeId>6</decGenRuleTypeId>
-      <decGenRuleIndex>8</decGenRuleIndex>
-      <decGenTrans>
-        <decGenTransRegex>^(.*)ie$</decGenTransRegex>
-        <decGenTransReplace>$1as</decGenTransReplace>
-      </decGenTrans>
-      <decGenRuleApplyToClasses/>
-    </decGenRule>
-    <decGenRule>
-      <decGenRuleComb>,3,2,</decGenRuleComb>
-      <decGenRuleName>Ending: ii</decGenRuleName>
-      <decGenRuleRegex>^.*[^is]$</decGenRuleRegex>
-      <decGenRuleTypeId>6</decGenRuleTypeId>
-      <decGenRuleIndex>9</decGenRuleIndex>
-      <decGenTrans>
-        <decGenTransRegex>^(.*[^is])$</decGenTransRegex>
-        <decGenTransReplace>$1ii</decGenTransReplace>
-      </decGenTrans>
-      <decGenRuleApplyToClasses/>
-    </decGenRule>
-    <decGenRule>
-      <decGenRuleComb>,2,3,</decGenRuleComb>
+      <decGenRuleComb>,2,3,2,</decGenRuleComb>
       <decGenRuleName>Ending: u'</decGenRuleName>
       <decGenRuleRegex>^.*[^a']$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
-      <decGenRuleIndex>10</decGenRuleIndex>
+      <decGenRuleIndex>8</decGenRuleIndex>
       <decGenTrans>
         <decGenTransRegex>^(.*[^a'])$</decGenTransRegex>
         <decGenTransReplace>$1u'</decGenTransReplace>
@@ -9009,11 +9025,11 @@
       <decGenRuleApplyToClasses/>
     </decGenRule>
     <decGenRule>
-      <decGenRuleComb>,3,3,</decGenRuleComb>
-      <decGenRuleName>Ending: ias</decGenRuleName>
+      <decGenRuleComb>,3,2,2,</decGenRuleComb>
+      <decGenRuleName>Ending: as</decGenRuleName>
       <decGenRuleRegex>^.*ie$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
-      <decGenRuleIndex>11</decGenRuleIndex>
+      <decGenRuleIndex>9</decGenRuleIndex>
       <decGenTrans>
         <decGenTransRegex>^(.*)ie$</decGenTransRegex>
         <decGenTransReplace>$1as</decGenTransReplace>
@@ -9021,7 +9037,31 @@
       <decGenRuleApplyToClasses/>
     </decGenRule>
     <decGenRule>
-      <decGenRuleComb>,3,3,</decGenRuleComb>
+      <decGenRuleComb>,3,3,2,</decGenRuleComb>
+      <decGenRuleName>Ending: ias</decGenRuleName>
+      <decGenRuleRegex>^.*ie$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>10</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)ie$</decGenTransRegex>
+        <decGenTransReplace>$1as</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,2,2,</decGenRuleComb>
+      <decGenRuleName>Ending: es</decGenRuleName>
+      <decGenRuleRegex>^.*[v]$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>11</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)([v])$</decGenTransRegex>
+        <decGenTransReplace>$1$2es</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,3,2,</decGenRuleComb>
       <decGenRuleName>Ending: ii</decGenRuleName>
       <decGenRuleRegex>^.*[^is]$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
@@ -9029,6 +9069,66 @@
       <decGenTrans>
         <decGenTransRegex>^(.*[^is])$</decGenTransRegex>
         <decGenTransReplace>$1ii</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,2,2,</decGenRuleComb>
+      <decGenRuleName>Ending: ii</decGenRuleName>
+      <decGenRuleRegex>^.*[^is]$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>13</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*[^is])$</decGenTransRegex>
+        <decGenTransReplace>$1ii</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,2,3,</decGenRuleComb>
+      <decGenRuleName>Ending: as</decGenRuleName>
+      <decGenRuleRegex>^.*ie$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>14</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)ie$</decGenTransRegex>
+        <decGenTransReplace>$1as</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,2,3,</decGenRuleComb>
+      <decGenRuleName>Ending: es</decGenRuleName>
+      <decGenRuleRegex>^.*[v]$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>15</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)([v])$</decGenTransRegex>
+        <decGenTransReplace>$1$2es</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,3,3,</decGenRuleComb>
+      <decGenRuleName>Ending: as</decGenRuleName>
+      <decGenRuleRegex>^.*ie$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>16</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)ie$</decGenTransRegex>
+        <decGenTransReplace>$1as</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,3,3,</decGenRuleComb>
+      <decGenRuleName>Ending: es</decGenRuleName>
+      <decGenRuleRegex>^.*[v]$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>17</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)([v])$</decGenTransRegex>
+        <decGenTransReplace>$1$2es</decGenTransReplace>
       </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>

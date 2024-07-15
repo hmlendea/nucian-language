@@ -148,6 +148,7 @@
 |ghiblu|noun|goblin|A mythical creature typically depicted as small and mischievous or malevolent, often associated with folklore and fantasy literature.|
 |ghinie|noun|chicken|A domesticated bird that is commonly raised for its meat and eggs, often used in various cuisines and as a source of protein.|
 |gionta|verb|hit|To strike or come into contact with force, typically resulting in physical impact or damage.|
+|glorie|noun|glory|High renown or honor obtained through notable achievements; magnificence or great beauty.From: Romanian (glorie)|
 |gobletie|noun|glass, goblet, cup|Small container used for holding and serving beverages.|
 |gogie|noun|donut|A small fried cake of sweetened dough, typically in the shape of a ring or sphere.From: Romanian (gogoa&amp;#537;&amp;#259;)|
 |gorgie|noun|gorgonzola cheese|A type of blue cheese originating from Italy. It is made from cow's milk and is characterized by its creamy texture and distinctive blue-green veins of mold.|
