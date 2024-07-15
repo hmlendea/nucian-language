@@ -285,7 +285,8 @@
 |pucie|noun|sin|An immoral or wrongful act, often associated with religious or moral codes and principles.|
 |puçi|verb|sin|To commit an act that goes against moral or religious principles, to act immorally or wrongly.|
 |puçitor|noun|sinner|A person who has done something considered wrong or immoral.|
-|puiț|noun|baby|A very young offspring, especially one that is not yet able to care for itself.|
+|puiț|noun|male baby|A very young male offspring, especially one that is not yet able to care for itself.|
+|puiție|noun|female baby|A very young female offspring, especially one that is not yet able to care for itself.|
 |pușin|adjectival|puffy|Attractive or pretty, especially in a childish, delicate, or charming way.|
 |puțurel|adjectival|little|Small in size, amount, or degree.|
 |qi|conjunction|or|The conjunction for indicating a contrast or an alternative to what was previously stated.|
@@ -296,15 +297,17 @@
 |qvetie|noun|sink|A bowl-shaped plumbing fixture used for washing hands or dishes, often located in a bathroom or kitchen.|
 |răji|verb|kiss ass|To flatter or excessively praise someone in order to gain favor or advantage, often insincerely or obsequiously. It involves ingratiating oneself with another person by offering excessive compliments or approval, typically with the intention of obtaining special treatment, privileges, or opportunities.|
 |rănği|verb|pry|To use force to open or move something that is stuck or closed, often with a tool.|
-|răț|noun|duck|A waterbird with a broad, flat bill and webbed feet, often associated with swimming, diving, and quacking.|
+|răț|noun|male duck|A male waterbird with a broad, flat bill and webbed feet, often associated with swimming, diving, and quacking.|
+|răție|noun|female duck|A female waterbird with a broad, flat bill and webbed feet, often associated with swimming, diving, and quacking.|
 |răza|verb|raze|To completely destroy or demolish something, to level something to the ground.|
 |regn|noun|kingdom|A country, state, or territory ruled by a king or queen, often used to describe a period of history or a geographic region.|
 |riturna|verb|return|To come or go back to a previous place or condition, to give, send, or put something back to its original place or owner.|
 |rocie|noun|rock|A solid mineral material forming part of the surface of Terra and often used in construction.|
 |rumân|noun|romanian|A person, language, or culture originating from or associated with Romania, a country in southeastern Europe.|
-|sanct|noun|saint|A person recognized by a religious authority as having an exceptional degree of holiness, often associated with miracles and intercession.|
+|sanct|noun|male saint|A male person recognized by a religious authority as having an exceptional degree of holiness, often associated with miracles and intercession.|
 |sanct|adjectival|holy, hallowed, sacred|Dedicated or consecrated to God or a religious purpose.|
 |sancta|verb|bless|To ask for divine favor or protection for someone or something, to confer happiness, prosperity or good fortune upon someone.|
+|sanctie|noun|female saint|A female person recognized by a religious authority as having an exceptional degree of holiness, often associated with miracles and intercession.|
 |sane|adverb|sure, of course|Without doubt or hesitation.|
 |sânğe|noun|blood|The red liquid flowing in the bodies of humans and other vertebrate animals.From: Romanian (s&amp;#226;nge)|
 |scize|verb|open|To make something unsealed, unlocked or accessible, to unfold or spread out, to begin operations or activities.|
@@ -313,10 +316,11 @@
 |semeçie|noun|sunflower seed|The edible seeds harvested from the flower head of the sunflower plant (Helianthus annuus). They are small, flat, and oval-shaped with a black and white striped shell.|
 |sfeclie|noun|beetroot|The round, dark red root vegetable commonly used in cooking and salads.From: Romanian (sfecl&amp;#259;)|
 |sia|verb|be|To exist, to have reality or actuality, to occupy a particular state or condition.|
-|sibian|noun|villager|A person who lives in a village or small community, often associated with rural lifestyles and traditions.|
+|sibian|noun|male villager|A male person who lives in a village or small community, often associated with rural lifestyles and traditions.|
+|sibianie|noun|female villager|A female person who lives in a village or small community, often associated with rural lifestyles and traditions.|
 |sibiu|noun|village|A small community or settlement in a rural area, often characterized by a close-knit community and traditional lifestyle.|
 |sire|noun|shame|A painful feeling of humiliation or distress caused by the consciousness of wrong or foolish behavior.|
-|slim|verb|slime|A moist, soft, and slippery substance, typically regarded as repulsive.|
+|slim|noun|slime|A moist, soft, and slippery substance, typically regarded as repulsive.|
 |smântie|noun|sour cream|A dairy product made by fermenting regular cream with lactic acid bacteria. It has a tangy flavor and a creamy texture. It is commonly used as a condiment in cooking and baking, as well as a topping for dishes like baked potatoes, tacos, and nachos. It can also be used as an ingredient in dips, dressings, and sauces.|
 |socie|noun|sock|A garment worn on the foot and ankle, typically made of knit fabric, used for warmth and comfort.From: English (sock)|
 |sofie|noun|couch, sofa|A long upholstered piece of furniture for seating, often used in living rooms or lounges.|
@@ -330,7 +334,7 @@
 |stovie|noun|stove|An apparatus for cooking or heating that operates by burning fuel or using electricity.From: English (stove)|
 |străçi|verb|shine|To emit or reflect bright light, to be bright and glossy, to excel in a particular area.|
 |străçior|adjectival|shiny|Reflecting light, bright and polished.|
-|streț|noun|boar|A male wild pig.|
+|streț|noun|boar|A male wild pig.From: Romanian (mistre&amp;#539;)|
 |sui|verb|climb|To ascend or move upward, especially by using the hands and feet.|
 |sumona|verb|summon|To call or request the presence of someone or something, to request someone's attendance or to bring something forth.|
 |sumona|verb|invoke|To call upon or appeal to a higher power or authority for help or support, to refer to something as a source of authority or justification.|
@@ -360,7 +364,7 @@
 |to'|possessive adjective|your|The singular form for &amp;quot;our&amp;quot; (english)|
 |tonie|noun|whim|A sudden and often irrational or impulsive idea, desire, or change of mind.From: Romanian (toan&amp;#259;)|
 |tortilie|noun|tortilla|A thin, round flatbread made from corn or wheat flour, commonly used in Mexican cuisine.From: Spanish (Tortilla)|
-|trağe|verb|bring|To cause to come with oneself or to a particular place, to transport or convey something or someone.|
+|trağe|verb|bring, pull|To cause to come with oneself or to a particular place, to transport or convey something or someone.|
 |trăi|verb|must, have to|To be necessary or required to do something, to have an obligation or duty to do something.|
 |tri|cardinal number|three|Being a numerical value that is equal to the quantity of three units; the third cardinal number.|
 |trial|noun|trial|A test or experiment designed to evaluate the performance or effectiveness of something, especially a new product or treatment, or a legal process to determine the guilt or innocence of a person accused of a crime.|

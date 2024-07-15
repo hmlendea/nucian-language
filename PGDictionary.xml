@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dictionary>
   <PolyGlotVer>3.5.1</PolyGlotVer>
-  <DictSaveDate>2024-07-15T08:05:58.143263358Z</DictSaveDate>
+  <DictSaveDate>2024-07-15T10:46:39.660302018Z</DictSaveDate>
   <languageProperties>
     <fontStyle>0</fontStyle>
     <fontSize>20.0</fontSize>
@@ -805,7 +805,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;An alcoholic beverage brewed from malted barley, flavored with hops, and fermented with yeast.&lt;/body&gt;
 &lt;/html&gt;
@@ -905,7 +905,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A soft, sealed bag filled with small beans or similar material, used as furniture for sitting or reclining.&lt;/body&gt;
 &lt;/html&gt;
@@ -1045,7 +1045,7 @@
       <pronunciation>An interruption of peace, quiet, or order; causing inconvenience or disruption.</pronunciation>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;An occurrence or situation that causes someone trouble, inconvenience, or annoyance.&lt;/body&gt;
 &lt;/html&gt;
@@ -1105,7 +1105,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A solution of salt in water, used for preserving or seasoning food.&lt;br&gt;&lt;br&gt;From: English (brine)&lt;/body&gt;
 &lt;/html&gt;
@@ -1205,7 +1205,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;The arbitrary force that causes events to happen in a favorable (or unfavorable) manner.&lt;/body&gt;
 &lt;/html&gt;
@@ -1285,7 +1285,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A leafy vegetable with thick layers of leaves forming a round or elongated head.&lt;br&gt;&lt;br&gt;From: English (cabbage)&lt;/body&gt;
 &lt;/html&gt;
@@ -1325,7 +1325,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A large building or complex of buildings designed to house military personnel, providing living and sleeping quarters for soldiers.&lt;/body&gt;
 &lt;/html&gt;
@@ -1385,7 +1385,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A daisy-like plant with white and yellow flowers, known for its calming properties and often used in herbal teas and aromatherapy.&lt;br&gt;&lt;br&gt;From: English (chamomile)&lt;/body&gt;
 &lt;/html&gt;
@@ -1945,7 +1945,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A leafy green vegetable with tightly packed leaves that form a round or elongated head.&lt;/body&gt;
 &lt;/html&gt;
@@ -4025,7 +4025,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A high-protein pulse that is dried and then soaked and cooked before eating.&lt;br&gt;&lt;br&gt;From: English&lt;/body&gt;
 &lt;/html&gt;
@@ -4225,7 +4225,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;The hard, fibrous material forming the trunk and branches of trees, used for construction and fuel.&lt;/body&gt;
 &lt;/html&gt;
@@ -5405,7 +5405,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A person who bakes bread, cakes, or pastries professionally.&lt;/body&gt;
 &lt;/html&gt;
@@ -5525,7 +5525,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A savory dish consisting of a usually round, flat base of dough topped with tomato sauce, cheese, and various toppings, baked in an oven.&lt;br&gt;&lt;br&gt;From: Italian (pizza)&lt;/body&gt;
 &lt;/html&gt;
@@ -5859,7 +5859,7 @@
     </word>
     <word>
       <wordId>244</wordId>
-      <localWord>baby</localWord>
+      <localWord>male baby</localWord>
       <conWord>puiț</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
@@ -5867,7 +5867,27 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;A very young offspring, especially one that is not yet able to care for itself.&lt;/body&gt;
+  &lt;body&gt;A very young male offspring, especially one that is not yet able to care for itself.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>410</wordId>
+      <localWord>female baby</localWord>
+      <conWord>puiție</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A very young female offspring, especially one that is not yet able to care for itself.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -6045,7 +6065,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;To flatter or excessively praise someone in order to gain favor or advantage, often insincerely or obsequiously. It involves ingratiating oneself with another person by offering excessive compliments or approval, typically with the intention of obtaining special treatment, privileges, or opportunities.&lt;/body&gt;
 &lt;/html&gt;
@@ -6079,7 +6099,7 @@
     </word>
     <word>
       <wordId>20</wordId>
-      <localWord>duck</localWord>
+      <localWord>male duck</localWord>
       <conWord>răț</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
@@ -6087,7 +6107,27 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;A waterbird with a broad, flat bill and webbed feet, often associated with swimming, diving, and quacking.&lt;/body&gt;
+  &lt;body&gt;A male waterbird with a broad, flat bill and webbed feet, often associated with swimming, diving, and quacking.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>409</wordId>
+      <localWord>female duck</localWord>
+      <conWord>răție</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A female waterbird with a broad, flat bill and webbed feet, often associated with swimming, diving, and quacking.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -6199,7 +6239,7 @@
     </word>
     <word>
       <wordId>48</wordId>
-      <localWord>saint</localWord>
+      <localWord>male saint</localWord>
       <conWord>sanct</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
@@ -6207,7 +6247,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;A person recognized by a religious authority as having an exceptional degree of holiness, often associated with miracles and intercession.&lt;/body&gt;
+  &lt;body&gt;A male person recognized by a religious authority as having an exceptional degree of holiness, often associated with miracles and intercession.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -6258,6 +6298,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>411</wordId>
+      <localWord>female saint</localWord>
+      <conWord>sanctie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A female person recognized by a religious authority as having an exceptional degree of holiness, often associated with miracles and intercession.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>252</wordId>
       <localWord>sure, of course</localWord>
       <conWord>sane</conWord>
@@ -6285,7 +6345,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;The red liquid flowing in the bodies of humans and other vertebrate animals.&lt;br&gt;&lt;br&gt;From: Romanian (s&amp;#226;nge)&lt;/body&gt;
 &lt;/html&gt;
@@ -6419,7 +6479,7 @@
     </word>
     <word>
       <wordId>63</wordId>
-      <localWord>villager</localWord>
+      <localWord>male villager</localWord>
       <conWord>sibian</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
@@ -6427,7 +6487,27 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;A person who lives in a village or small community, often associated with rural lifestyles and traditions.&lt;/body&gt;
+  &lt;body&gt;A male person who lives in a village or small community, often associated with rural lifestyles and traditions.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>412</wordId>
+      <localWord>female villager</localWord>
+      <conWord>sibianie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A female person who lives in a village or small community, often associated with rural lifestyles and traditions.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -6445,7 +6525,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A small community or settlement in a rural area, often characterized by a close-knit community and traditional lifestyle.&lt;/body&gt;
 &lt;/html&gt;
@@ -6481,11 +6561,11 @@
       <wordId>262</wordId>
       <localWord>slime</localWord>
       <conWord>slim</conWord>
-      <wordTypeId>3</wordTypeId>
+      <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A moist, soft, and slippery substance, typically regarded as repulsive.&lt;/body&gt;
 &lt;/html&gt;
@@ -6525,7 +6605,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A garment worn on the foot and ankle, typically made of knit fabric, used for warmth and comfort.&lt;br&gt;&lt;br&gt;From: English (sock)&lt;/body&gt;
 &lt;/html&gt;
@@ -6767,7 +6847,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;A male wild pig.&lt;/body&gt;
+  &lt;body&gt;A male wild pig.&lt;br&gt;&lt;br&gt;From: Romanian (mistre&amp;#539;)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -6825,7 +6905,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;To call upon or appeal to a higher power or authority for help or support, to refer to something as a source of authority or justification.&lt;/body&gt;
 &lt;/html&gt;
@@ -7025,7 +7105,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A soft or low spoken voice, intended to avoid being overheard or to create a sense of intimacy.&lt;/body&gt;
 &lt;/html&gt;
@@ -7125,7 +7205,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;To use a sharp tool or instrument to divide or separate something into pieces, or to remove a part from something.&lt;/body&gt;
 &lt;/html&gt;
@@ -7345,7 +7425,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A thin, round flatbread made from corn or wheat flour, commonly used in Mexican cuisine.&lt;br&gt;&lt;br&gt;From: Spanish (Tortilla)&lt;/body&gt;
 &lt;/html&gt;
@@ -7359,7 +7439,7 @@
     </word>
     <word>
       <wordId>148</wordId>
-      <localWord>bring</localWord>
+      <localWord>bring, pull</localWord>
       <conWord>trağe</conWord>
       <wordTypeId>3</wordTypeId>
       <pronunciation/>
@@ -7685,7 +7765,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A thin cord of material, such as cotton or nylon, often used for tying or binding.&lt;br&gt;&lt;br&gt;From: Dacian, Romanian (baier&amp;#259;)&lt;/body&gt;
 &lt;/html&gt;
@@ -7725,7 +7805,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A complex ecosystem covering a large area and consisting predominantly of densely packed trees that form a canopy and provide habitat for a variety of plant and animal species.&lt;br&gt;&lt;br&gt;From: German (wald)&lt;/body&gt;
 &lt;/html&gt;
@@ -7765,7 +7845,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A notice or alert given to advise caution or to signal potential danger, typically to prevent harm or accidents.&lt;br&gt;&lt;br&gt;From: Slovak (varovanie)&lt;/body&gt;
 &lt;/html&gt;
@@ -7785,7 +7865,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A person who sells goods.&lt;/body&gt;
 &lt;/html&gt;
@@ -8178,22 +8258,18 @@
     </declensionNode>
     <declensionNode>
       <declensionId>1</declensionId>
-      <declensionText>Tense</declensionText>
+      <declensionText>Number</declensionText>
       <declensionNotes/>
       <declensionTemplate>1</declensionTemplate>
       <declensionRelatedId>6</declensionRelatedId>
       <declensionDimensionless>F</declensionDimensionless>
       <dimensionNode>
         <dimensionId>2</dimensionId>
-        <dimensionName>past</dimensionName>
+        <dimensionName>singular</dimensionName>
       </dimensionNode>
       <dimensionNode>
         <dimensionId>3</dimensionId>
-        <dimensionName>present</dimensionName>
-      </dimensionNode>
-      <dimensionNode>
-        <dimensionId>4</dimensionId>
-        <dimensionName>future</dimensionName>
+        <dimensionName>plural</dimensionName>
       </dimensionNode>
     </declensionNode>
     <decGenRule>
@@ -8704,8 +8780,61 @@
       </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,</decGenRuleComb>
+      <decGenRuleName>Remove ending "[eu]"</decGenRuleName>
+      <decGenRuleRegex>^.*[eu]$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>1</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)[eu]$</decGenTransRegex>
+        <decGenTransReplace>$1</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,</decGenRuleComb>
+      <decGenRuleName>Ends with anything</decGenRuleName>
+      <decGenRuleRegex>.*</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>2</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)[i]*$</decGenTransRegex>
+        <decGenTransReplace>$1is</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,</decGenRuleComb>
+      <decGenRuleName>Remove duplicated letters</decGenRuleName>
+      <decGenRuleRegex>.*</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>3</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)([i])\2(.*)$</decGenTransRegex>
+        <decGenTransReplace>$1$2$3</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,</decGenRuleComb>
+      <decGenRuleName>Remove duplicated endings</decGenRuleName>
+      <decGenRuleRegex>^.*isis$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>4</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*is)(is)*$</decGenTransRegex>
+        <decGenTransReplace>$1</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
   </declensionCollection>
-  <decCombinedFormSection/>
+  <decCombinedFormSection>
+    <decCombinedForm>
+      <decCombinedId>6,,3,</decCombinedId>
+      <decCombinedSurpress>F</decCombinedSurpress>
+    </decCombinedForm>
+  </decCombinedFormSection>
   <etymologyCollection>
     <proFGFuideSyllableList/>
     <proGuideSyllableComposition>F</proGuideSyllableComposition>
