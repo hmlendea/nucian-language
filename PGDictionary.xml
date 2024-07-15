@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dictionary>
   <PolyGlotVer>3.5.1</PolyGlotVer>
-  <DictSaveDate>2024-07-08T11:54:00.142153680Z</DictSaveDate>
+  <DictSaveDate>2024-07-15T08:05:58.143263358Z</DictSaveDate>
   <languageProperties>
     <fontStyle>0</fontStyle>
     <fontSize>20.0</fontSize>
@@ -405,7 +405,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A place where prescription medications are dispensed and sold, along with providing pharmaceutical advice and services.&lt;/body&gt;
 &lt;/html&gt;
@@ -788,6 +788,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A person who is considered uncivilized or primitive, often associated with a lack of education or cultural refinement.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>402</wordId>
+      <localWord>beer</localWord>
+      <conWord>berulie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;An alcoholic beverage brewed from malted barley, flavored with hops, and fermented with yeast.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -1218,6 +1238,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>403</wordId>
+      <localWord>butter</localWord>
+      <conWord>buter</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A dairy product made from churning cream or milk, typically used as a spread or in cooking.&lt;br&gt;&lt;br&gt;From: German (butter), English (butter)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>243</wordId>
       <localWord>burst in, barge in</localWord>
       <conWord>buzni</conWord>
@@ -1408,6 +1448,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;The conjunction for comparing clauses.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>406</wordId>
+      <localWord>calm down</localWord>
+      <conWord>catalma</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To become less agitated, anxious, or excited; to regain composure or relaxation after a period of tension.&lt;br&gt;&lt;br&gt;From: Romanian (calma) + Romanian (potoli)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -1708,6 +1768,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A formal gathering of representatives or delegates for discussion and decision-making, typically in a political context.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>404</wordId>
+      <localWord>run</localWord>
+      <conWord>cora</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To move swiftly on foot.&lt;br&gt;&lt;br&gt;From: Spanish (correr)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -3018,6 +3098,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>400</wordId>
+      <localWord>gravy</localWord>
+      <conWord>gravie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A sauce made from meat juices, often thickened with flour or cornstarch, served with meat or vegetables.&lt;br&gt;&lt;br&gt;From: English (gravy)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>38</wordId>
       <localWord>mistake</localWord>
       <conWord>greșie</conWord>
@@ -3179,7 +3279,7 @@
     </word>
     <word>
       <wordId>253</wordId>
-      <localWord>risipă</localWord>
+      <localWord>waste</localWord>
       <conWord>halal</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
@@ -3338,6 +3438,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>395</wordId>
+      <localWord>rest</localWord>
+      <conWord>hodinie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;The state of ceasing activity to relax, recover, or regain strength and energy.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>221</wordId>
       <localWord>rested</localWord>
       <conWord>hodinit</conWord>
@@ -3365,7 +3485,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A cooked sausage served in a sliced bun, typically garnished with condiments like mustard, ketchup, or onions.&lt;br&gt;&lt;br&gt;From: English (hot-dog)&lt;/body&gt;
 &lt;/html&gt;
@@ -3428,6 +3548,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;An opening or cavity in a solid object, often described as a gap, a hollow, or a perforation.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>396</wordId>
+      <localWord>hut</localWord>
+      <conWord>hutie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A small, simple, single-story shelter or dwelling, often made of natural or inexpensive materials.&lt;br&gt;&lt;br&gt;From: English (hut)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -4008,6 +4148,26 @@
 
   &lt;/head&gt;
   &lt;body&gt;Describes something that is low in cost or price relative to its perceived value or quality. It can also refer to something that is inexpensive or affordable.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>399</wordId>
+      <localWord>watermelon</localWord>
+      <conWord>lubie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A large, round fruit with a hard green rind, sweet, juicy red or pink flesh, and black seeds.&lt;br&gt;&lt;br&gt;From: Romanian (lubeni&amp;#539;&amp;#259;)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -4998,6 +5158,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>398</wordId>
+      <localWord>placard, signboard, noticeboard</localWord>
+      <conWord>pancardie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A sign or notice for display in a public place, often bearing information, warnings, or advertisements.&lt;br&gt;&lt;br&gt;From: Romanian (plancart&amp;#259;)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>198</wordId>
       <localWord>paper</localWord>
       <conWord>papirie</conWord>
@@ -5125,9 +5305,49 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;To force someone or something to leave a place.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>397</wordId>
+      <localWord>gas station, petrol station</localWord>
+      <conWord>peco</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A facility where fuel for vehicles is sold, often including amenities like convenience stores and restrooms.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>405</wordId>
+      <localWord>skin</localWord>
+      <conWord>pele</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;The thin layer of tissue covering the body of a person or animal; also, the outer layer of certain fruits or vegetables.&lt;br&gt;&lt;br&gt;From: Romanian (piele)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -5448,6 +5668,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A narrative or tale, often fictional, that describes a series of events or experiences, typically involving a protagonist and other characters, and that is intended to entertain, inform, or convey a message or moral lesson.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>407</wordId>
+      <localWord>cream cake, cream pastry</localWord>
+      <conWord>pralinie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A type of pastry filled with a sweet, creamy filling, often used in desserts and pastries like &amp;#233;clairs or cream puffs.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -6645,7 +6885,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Being a numerical value that is equal to the quantity of seven units; the seventh cardinal number.&lt;/body&gt;
 &lt;/html&gt;
@@ -6725,7 +6965,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;To rest with eyes closed and the body in a horizontal position for a period of time.&lt;/body&gt;
 &lt;/html&gt;
@@ -6865,7 +7105,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Having a great deal of wealth or assets; possessing abundant resources or means.&lt;/body&gt;
 &lt;/html&gt;
@@ -6965,7 +7205,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A device that receives signals and displays video and sound, used primarily for entertainment or communication purposes.&lt;/body&gt;
 &lt;/html&gt;
@@ -7025,9 +7265,29 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A feeling of admiration or deference toward someone or something based on their qualities, achievements, or position.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>408</wordId>
+      <localWord>mockery</localWord>
+      <conWord>tirihanie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Ridicule or teasing that makes fun of someone or something, often in a scornful or contemptuous manner.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -7488,6 +7748,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A flavoring derived from orchids of the genus Vanilla, particularly from the species Vanilla planifolia, or it can refer to the plant itself. It is commonly used in cooking, baking, and perfumery.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>401</wordId>
+      <localWord>warning</localWord>
+      <conWord>varovanie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A notice or alert given to advise caution or to signal potential danger, typically to prevent harm or accidents.&lt;br&gt;&lt;br&gt;From: Slovak (varovanie)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>

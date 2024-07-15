@@ -32,6 +32,7 @@
 |bârnie|noun|log|A length of a tree trunk or a large piece of timber that has been cut for use.|
 |bec|noun|light bulb|A light-emitting device that fits into a socket and provides artificial light.|
 |berber|noun|barbarian|A person who is considered uncivilized or primitive, often associated with a lack of education or cultural refinement.|
+|berulie|noun|beer|An alcoholic beverage brewed from malted barley, flavored with hops, and fermented with yeast.|
 |beua|verb|drink|To consume a liquid, typically through the mouth.|
 |bi|verb|love|Expresses deep affection, care, and attachment towards someone or something. It encompasses a range of emotions and actions, including fondness, devotion, and concern for the well-being of the loved person or thing.From: Romanian (iubi)|
 |bin|adjectival|good|Morally excellent; virtuous; righteous.|
@@ -53,6 +54,7 @@
 |budland|noun|bathroom|A room equipped with a toilet and sink, used for personal hygiene.|
 |bulan|noun|luck|The arbitrary force that causes events to happen in a favorable (or unfavorable) manner.|
 |bungalău|noun|hut|A small, simple, and often temporary dwelling.|
+|buter|noun|butter|A dairy product made from churning cream or milk, typically used as a spread or in cooking.From: German (butter), English (butter)|
 |buzni|verb|burst in, barge in|To enter a room or a place suddenly and forcefully, often without permission or without considering other people who may be present.|
 |cabağ|noun|cabbage|A leafy vegetable with thick layers of leaves forming a round or elongated head.From: English (cabbage)|
 |caçap|noun|sugar|A sweet-tasting, crystalline substance, primarily extracted from sugarcane and sugar beet plants, that is commonly used as a sweetener in food and beverages.Origin: Russian (&amp;#1089;&amp;#1072;&amp;#1093;&amp;#1072;&amp;#1088;, tr: sahar)|
@@ -63,6 +65,7 @@
 |capta|verb|catch|To intercept and hold (something that has been thrown, propelled, or dropped).|
 |carotie|noun|carrot|A root vegetable with a long, tapering shape, typically orange in color, although other varieties can be purple, red, yellow, or white.From: English (carrot)|
 |caș|conjunction|as|The conjunction for comparing clauses.|
+|catalma|verb|calm down|To become less agitated, anxious, or excited; to regain composure or relaxation after a period of tension.From: Romanian (calma) + Romanian (potoli)|
 |catru|cardinal number|four|Being a numerical value that is equal to the quantity of four units; the fourth cardinal number.|
 |căldar|noun|cauldron|A large metal pot with a lid and handle, used for cooking over an open fire or for boiling liquids.|
 |căpșie|noun|strawberry|A sweet, red fruit that grows on a low-lying, flowering plant of the genus Fragaria. It is characterized by its bright red color, juicy texture, and sweet flavor with a hint of tartness.|
@@ -78,6 +81,7 @@
 |coăl|noun|coal|A fossil fuel formed from the remains of ancient plants, that is used as a source of energy.|
 |compa|verb|behave|To act or conduct oneself in a specified way, especially in relation to others.|
 |congres|noun|congress|A formal gathering of representatives or delegates for discussion and decision-making, typically in a political context.|
+|cora|verb|run|To move swiftly on foot.From: Spanish (correr)|
 |cota|verb|find, search|To look for, discover or come across something or someone, either voluntarily or by chance. It can also mean to determine or ascertain something after consideration or investigation.|
 |crefie|noun|cream cheese|A soft, mild-tasting cheese with a smooth and creamy texture. It is made from a mixture of cream and milk, which is cultured with lactic acid bacteria to give it a tangy flavor.|
 |crepie|noun|crepe|A thin, delicate pancake made from a batter consisting of flour, eggs, milk (or water), and butter.|
@@ -143,6 +147,7 @@
 |gobletie|noun|glass, goblet, cup|Small container used for holding and serving beverages.|
 |gogie|noun|donut|A small fried cake of sweetened dough, typically in the shape of a ring or sphere.From: Romanian (gogoa&amp;#537;&amp;#259;)|
 |gorgie|noun|gorgonzola cheese|A type of blue cheese originating from Italy. It is made from cow's milk and is characterized by its creamy texture and distinctive blue-green veins of mold.|
+|gravie|noun|gravy|A sauce made from meat juices, often thickened with flour or cornstarch, served with meat or vegetables.From: English (gravy)|
 |greșie|noun|mistake|An error or fault in judgement, action, or decision-making.From: Romanian (gre&amp;#537;eal&amp;#259;)|
 |grio|adjectival|heavy|Of great weight; difficult to lift or move.|
 |grocie|noun|grocery|A store that sells food and household items, typically in a retail setting.|
@@ -151,7 +156,7 @@
 |ğiozd|noun|backpack|A bag worn on the back, typically used for carrying personal belongings or supplies.|
 |Hori|proper noun|Horace|A male given name.|
 |haçe|verb|do|To perform or carry out an action or task.From: Spanish (hace) and Romanian (face)|
-|halal|noun|risipă|The act of using resources carelessly or unproductively, or the resources that were used as such.|
+|halal|noun|waste|The act of using resources carelessly or unproductively, or the resources that were used as such.|
 |harcodat|adjectival|unchangeable|Describes something that is firmly established, fixed, or unchangeable.|
 |haur|noun|gold|A precious metal valued for its rarity and luster, often used as a currency or for jewelry and decoration.|
 |hazâj|adjectival|ready|In a suitable state for an action or situation; fully prepared.|
@@ -159,11 +164,13 @@
 |hău|adverb|what|Asking for information specifying something.|
 |hârton|noun|cardboard|A stiff, thick paper that is typically used for packaging or for making cards or posters.|
 |hodini|verb|rest|To cease work or movement in order to relax, refresh oneself, or recover strength.|
+|hodinie|noun|rest|The state of ceasing activity to relax, recover, or regain strength and energy.|
 |hodinit|adjectival|rested|Feeling refreshed and energized after sleep or rest.|
 |hodog|noun|hot-dog|A cooked sausage served in a sliced bun, typically garnished with condiments like mustard, ketchup, or onions.From: English (hot-dog)|
 |hovăr|noun|friend|A person with whom one has a bond of mutual affection and trust, often someone with whom one spends time and shares interests or experiences.|
 |hovie|noun|painted Easter egg|A painted Easter egg is a hard-boiled or hollowed-out egg that has been decorated with colors and designs, typically to celebrate Easter.From: A mishearing as &amp;quot;hob&amp;#259;&amp;quot; by a friend|
 |hudrie|noun|hole|An opening or cavity in a solid object, often described as a gap, a hollow, or a perforation.|
+|hutie|noun|hut|A small, simple, single-story shelter or dwelling, often made of natural or inexpensive materials.From: English (hut)|
 |iei|possessive adjective|hers|Belonging to or associated with a female person or animal previously mentioned or easily identified.|
 |ieta|verb|look|To direct one's gaze in a particular direction or at a specific object or person. It involves using the eyes to observe or examine something visually.|
 |imper|noun|empire|A group of territories or nations under a single supreme authority, often used to describe a powerful and extensive government or organization.|
@@ -193,6 +200,7 @@
 |litrie|noun|litter box|A container filled with an absorbent material, used as a toilet by pets, typically cats, to urinate and defecate indoors.|
 |lo|possessive adjective|their|Belonging to or associated with two or more people or things previously mentioned or easily identified.|
 |lob|adjectival|cheap|Describes something that is low in cost or price relative to its perceived value or quality. It can also refer to something that is inexpensive or affordable.|
+|lubie|noun|watermelon|A large, round fruit with a hard green rind, sweet, juicy red or pink flesh, and black seeds.From: Romanian (lubeni&amp;#539;&amp;#259;)|
 |lui|possessive adjective|his|Belonging to or associated with a male person or animal previously mentioned or easily identified.|
 |lut|noun|loot|Valuable items or money taken by force, especially during a war or other conflict, often obtained through theft or plunder.|
 |maderie|noun|wood|The hard, fibrous material forming the trunk and branches of trees, used for construction and fuel.|
@@ -242,6 +250,7 @@
 |oscar|noun|guinea pig|A small, domesticated rodent belonging to the Cavia genus, native to South America.|
 |ov|noun|egg|An oval or round object laid by a female bird, reptile, fish, or invertebrate, usually containing a developing embryo and surrounded by a protective shell or membrane.|
 |padru|noun|father|A male parent or a person who performs the role of a male parent.|
+|pancardie|noun|placard, signboard, noticeboard|A sign or notice for display in a public place, often bearing information, warnings, or advertisements.From: Romanian (plancart&amp;#259;)|
 |papirie|noun|paper|A material made from cellulose pulp, derived mainly from wood, rags, and certain grasses, used for writing, printing, drawing, and wrapping.|
 |parc|noun|park|A public area of land maintained for recreation or conservation, often used for walking, picnicking, or sports.|
 |pasăr|noun|bird|A warm-blooded vertebrate animal with feathers, wings, and a beak, often associated with flight, singing, and migration.|
@@ -249,6 +258,8 @@
 |păli|verb|hit|To strike forcefully with a hand, weapon, or other implement.|
 |păsuș|noun|bridge|A structure spanning and providing passage over a gap or obstacle, often used to connect two land masses or cross a body of water.|
 |pășira|verb|chase away, drive away|To force someone or something to leave a place.|
+|peco|noun|gas station, petrol station|A facility where fuel for vehicles is sold, often including amenities like convenience stores and restrooms.|
+|pele|noun|skin|The thin layer of tissue covering the body of a person or animal; also, the outer layer of certain fruits or vegetables.From: Romanian (piele)|
 |periclie|noun|danger|The state or condition of being exposed to harm, risk, or peril; a situation or circumstance that poses a threat to safety, well-being, or health.|
 |perșun|noun|parsley|Parsley: A biennial herb with curly or flat leaves, often used as a garnish or seasoning in cooking.From: Serbocroatian (per&amp;#353;un)|
 |peșec|noun|baker|A person who bakes bread, cakes, or pastries professionally.|
@@ -265,6 +276,7 @@
 |posteland|noun|bedroom|A room used for sleeping in.|
 |potat|noun|potato|A starchy root vegetable that is part of the nightshade family and is commonly used for cooking.|
 |povie|noun|story|A narrative or tale, often fictional, that describes a series of events or experiences, typically involving a protagonist and other characters, and that is intended to entertain, inform, or convey a message or moral lesson.|
+|pralinie|noun|cream cake, cream pastry|A type of pastry filled with a sweet, creamy filling, often used in desserts and pastries like &amp;#233;clairs or cream puffs.|
 |presurie|noun|pressure|The continuous physical force exerted on or against an object by something in contact with it.|
 |preș|noun|carpet|A thick woven or felted fabric for covering floors.|
 |prihon|noun|bad luck, misfortune|An unfortunate circumstance or series of events that cause difficulty or hardship.|
@@ -344,6 +356,7 @@
 |temp|noun|time|A measure of the duration between events or moments, often considered a continuous progression forward from the past, through the present, and into the future.|
 |templatie|noun|template|A preset format or pattern used as a guide for creating consistent and standardized documents, designs, or structures, allowing for easy replication or customization.|
 |tesprot|noun|respect|A feeling of admiration or deference toward someone or something based on their qualities, achievements, or position.|
+|tirihanie|noun|mockery|Ridicule or teasing that makes fun of someone or something, often in a scornful or contemptuous manner.|
 |to'|possessive adjective|your|The singular form for &amp;quot;our&amp;quot; (english)|
 |tonie|noun|whim|A sudden and often irrational or impulsive idea, desire, or change of mind.From: Romanian (toan&amp;#259;)|
 |tortilie|noun|tortilla|A thin, round flatbread made from corn or wheat flour, commonly used in Mexican cuisine.From: Spanish (Tortilla)|
@@ -367,6 +380,7 @@
 |vailing|noun|cooking pot|A deep round container, typically made of metal or earthenware, used for cooking soups, stews, and other dishes.|
 |valdie|noun|forest|A complex ecosystem covering a large area and consisting predominantly of densely packed trees that form a canopy and provide habitat for a variety of plant and animal species.From: German (wald)|
 |vanilie|noun|vanilla|A flavoring derived from orchids of the genus Vanilla, particularly from the species Vanilla planifolia, or it can refer to the plant itself. It is commonly used in cooking, baking, and perfumery.|
+|varovanie|noun|warning|A notice or alert given to advise caution or to signal potential danger, typically to prevent harm or accidents.From: Slovak (varovanie)|
 |vendor|noun|salesman, shopkeeper|A person who sells goods.|
 |verat|adjectival|true|Conforming to fact or reality, accurate or exact.|
 |vevie|noun|squirrel|A small, agile, bushy-tailed rodent often found in trees, parks, or forests.|
