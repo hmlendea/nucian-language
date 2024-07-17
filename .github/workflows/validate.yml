@@ -1,0 +1,20 @@
+name: .NET
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Validate
+        uses: hmlendea/polyglot-language-validate@v1.0.0
+        with:
+          polyglot_dictionary_file_path: "PGDictionary.xml" # From an unpacked language
+          words_file_path: "words.json"
+          sentences_file_path: "sentences.json"
