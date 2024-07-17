@@ -6,6 +6,16 @@
     "Dimensions": null
   },
   {
+    "Id": "are",
+    "LocalWord": "be",
+    "PartOfSpeechName": "verb",
+    "Dimensions": {
+      "Tense": "present",
+      "Number": "plural",
+      "Persona": "third"
+    }
+  },
+  {
     "Id": "apples_accusative",
     "LocalWord": "apple",
     "PartOfSpeechName": "noun",
@@ -144,6 +154,16 @@
     }
   },
   {
+    "Id": "north",
+    "LocalWord": "north",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "singular",
+      "Case": "accusative",
+      "Article": "unmarked"
+    }
+  },
+  {
     "Id": "of",
     "LocalWord": "of",
     "PartOfSpeechName": "preposition",
@@ -253,6 +273,17 @@
       "Number": "singular",
       "Case": "dative",
       "Article": "unmarked"
+    }
+  },
+  {
+    "Id": "the_tastiest_feminine",
+    "LocalWord": "tasty",
+    "PartOfSpeechName": "adjectival",
+    "Dimensions": {
+      "Gender": "feminine",
+      "Number": "plural",
+      "Relativity": "superlative",
+      "Grade": "superiority"
     }
   },
   {

@@ -85,6 +85,7 @@
 |camilie|noun|camel|A large, long-necked mammal with humped back, found in arid regions, often used as a pack animal or for riding.From: Romanian (c&amp;#259;mil&amp;#259;)|
 |camomilie|noun|chamomile|A daisy-like plant with white and yellow flowers, known for its calming properties and often used in herbal teas and aromatherapy.From: English (chamomile)|
 |capta|verb|catch|To intercept and hold (something that has been thrown, propelled, or dropped).|
+|caros|adjectival|expensive|Costing a lot of money; having a high price or value.From: Latin (carus)|
 |carotie|noun|carrot|A root vegetable with a long, tapering shape, typically orange in color, although other varieties can be purple, red, yellow, or white.From: English (carrot)|
 |casie|noun|house|A building for human habitation, typically with rooms for living, sleeping, and eating.From: Romanian (cas&amp;#259;)|
 |caș|conjunction|as|The conjunction for comparing clauses.|
@@ -203,6 +204,7 @@
 |grocie|noun|grocery|A store that sells food and household items, typically in a retail setting.|
 |gruie|noun|hill|A naturally raised area of land that is lower and smaller than a mountain, typically with a rounded summit.From: Romanian|
 |gudie|noun|gouda cheese|A mild, yellow cheese originating from the Netherlands, known for its smooth texture and slightly nutty flavor.|
+|gustos|adjectival|tasty|Having a pleasant flavor or taste; delicious or appetizing.From: Romanian (gustos)|
 |Hori|proper noun|Horace|A male given name.|
 |haçe|verb|do|To perform or carry out an action or task.From: Spanish (hace) and Romanian (face)|
 |halal|noun|waste|The act of using resources carelessly or unproductively, or the resources that were used as such.|
@@ -305,6 +307,7 @@
 |nima|pronoun|nothing|The absence or lack of anything; no thing; no existence, value, or significance.|
 |noctie|noun|night|The period of darkness between sunset and sunrise.|
 |nome|noun|name|A word or set of words by which a person, animal, place, or thing is known, addressed, or referred to.|
+|nord|noun|north|The direction towards the North Pole, generally considered to be the top direction on maps or compasses.From: Romanian (nord)|
 |nost'|possessive adjective|our|The singular form for &amp;quot;our&amp;quot; (english)|
 |nostis|possessive adjective|our|The plural form for &amp;quot;our&amp;quot; (english)|
 |nota|verb|swim|To move through water by using the limbs, fins, or tail, typically as a form of exercise, sport, or survival.|
@@ -352,6 +355,7 @@
 |plaie|noun|beach|A sandy or pebbly shore by the ocean, sea, or lake, often used for swimming, sunbathing, and recreational activities.|
 |plancie|noun|plank|A long, flat piece of timber, thicker than a board, used in construction or for flooring.From: English (Plank)|
 |planta|verb|plant|To place or set something firmly in a specified position or location, especially in the ground to grow.From: Romanian (planta)|
+|plot|noun|plot|An area of land marked off for a particular purpose, often used for gardening, building, or farming.From: English (plot)|
 |poça|verb|can|To be able to do something, to have the capacity or ability to perform a task or activity.|
 |poçitan|adjectival|ugly|Unpleasant or repulsive in appearance.|
 |portie|noun|gate|A movable barrier, usually hinged, that can be opened or closed to control passage through an opening in a fence, wall, or barrier.From: Romanian (poart&amp;#259;)|
@@ -503,6 +507,7 @@
 |vija|verb|desire|To strongly wish or want for something, to have a strong feeling of longing or yearning.|
 |vijie|noun|will|The power of making a choice or decision, often associated with determination, volition, or intention.|
 |vijie|noun|desire|A strong feeling of wanting or wishing for something, often associated with longing, craving, or aspiration.|
+|vinde|verb|sell|To exchange goods or services for money or other goods; to offer for sale.From: Romanian (vinde)|
 |voievodat|noun|voivodeship|A a province or administrative division in several countries, particularly in Eastern Europe.From: Romanian (voievodat)|
 |vostis|possessive adjective|your|The plural form for &amp;quot;your&amp;quot; (english)|
 |vulpinie|noun|fox|A carnivorous mammal with a pointed snout, bushy tail, and reddish fur, often associated with cunning and intelligence.|

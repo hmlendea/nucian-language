@@ -36,6 +36,12 @@
     "LocalLanguageSentence": "the lord goes to the sea and to the mountains"
   },
   {
+    "Id": "the_tastiest_muffins_are_in_the_north",
+    "Words": "the_tastiest_feminine muffins are in north",
+    "ConstructedLanguageSentence": "le mai gustoase mufinas sează en nord",
+    "LocalLanguageSentence": "the tastiest muffins are in the north"
+  },
+  {
     "Id": "the_villagers_plant_carrots_in_the_garden",
     "Words": "the_villagers plant_verb carrots in the_garden",
     "ConstructedLanguageSentence": "sibianii plantă carotas en jardenie",

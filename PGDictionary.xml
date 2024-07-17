@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dictionary>
   <PolyGlotVer>3.5.1</PolyGlotVer>
-  <DictSaveDate>2024-07-17T11:43:11.789431974Z</DictSaveDate>
+  <DictSaveDate>2024-07-17T15:04:16.662920793Z</DictSaveDate>
   <languageProperties>
     <fontStyle>0</fontStyle>
     <fontSize>20.0</fontSize>
@@ -1858,6 +1858,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>534</wordId>
+      <localWord>expensive</localWord>
+      <conWord>caros</conWord>
+      <wordTypeId>4</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;Costing a lot of money; having a high price or value.&lt;br&gt;&lt;br&gt;From: Latin (carus)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>346</wordId>
       <localWord>carrot</localWord>
       <conWord>carotie</conWord>
@@ -3285,7 +3305,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A person who travels to unfamiliar places or regions to learn about them.&lt;br&gt;&lt;br&gt;From: Romanian (explorator), Spanish (explorador)&lt;/body&gt;
 &lt;/html&gt;
@@ -4208,6 +4228,26 @@
 
   &lt;/head&gt;
   &lt;body&gt;A mild, yellow cheese originating from the Netherlands, known for its smooth texture and slightly nutty flavor.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>533</wordId>
+      <localWord>tasty</localWord>
+      <conWord>gustos</conWord>
+      <wordTypeId>4</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Having a pleasant flavor or taste; delicious or appetizing.&lt;br&gt;&lt;br&gt;From: Romanian (gustos)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -6258,6 +6298,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>531</wordId>
+      <localWord>north</localWord>
+      <conWord>nord</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;The direction towards the North Pole, generally considered to be the top direction on maps or compasses.&lt;br&gt;&lt;br&gt;From: Romanian (nord)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>88</wordId>
       <localWord>our</localWord>
       <conWord>nost'</conWord>
@@ -7188,6 +7248,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;To place or set something firmly in a specified position or location, especially in the ground to grow.&lt;br&gt;&lt;br&gt;From: Romanian (planta)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>529</wordId>
+      <localWord>plot</localWord>
+      <conWord>plot</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;An area of land marked off for a particular purpose, often used for gardening, building, or farming.&lt;br&gt;&lt;br&gt;From: English (plot)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -10218,6 +10298,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>532</wordId>
+      <localWord>sell</localWord>
+      <conWord>vinde</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To exchange goods or services for money or other goods; to offer for sale.&lt;br&gt;&lt;br&gt;From: Romanian (vinde)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>431</wordId>
       <localWord>voivodeship</localWord>
       <conWord>voievodat</conWord>
@@ -10434,6 +10534,74 @@
       <dimensionNode>
         <dimensionId>4</dimensionId>
         <dimensionName>third</dimensionName>
+      </dimensionNode>
+    </declensionNode>
+    <declensionNode>
+      <declensionId>9</declensionId>
+      <declensionText>Gender</declensionText>
+      <declensionNotes/>
+      <declensionTemplate>1</declensionTemplate>
+      <declensionRelatedId>4</declensionRelatedId>
+      <declensionDimensionless>F</declensionDimensionless>
+      <dimensionNode>
+        <dimensionId>2</dimensionId>
+        <dimensionName>masculine</dimensionName>
+      </dimensionNode>
+      <dimensionNode>
+        <dimensionId>3</dimensionId>
+        <dimensionName>feminine</dimensionName>
+      </dimensionNode>
+    </declensionNode>
+    <declensionNode>
+      <declensionId>10</declensionId>
+      <declensionText>Number</declensionText>
+      <declensionNotes/>
+      <declensionTemplate>1</declensionTemplate>
+      <declensionRelatedId>4</declensionRelatedId>
+      <declensionDimensionless>F</declensionDimensionless>
+      <dimensionNode>
+        <dimensionId>2</dimensionId>
+        <dimensionName>singular</dimensionName>
+      </dimensionNode>
+      <dimensionNode>
+        <dimensionId>3</dimensionId>
+        <dimensionName>plural</dimensionName>
+      </dimensionNode>
+    </declensionNode>
+    <declensionNode>
+      <declensionId>12</declensionId>
+      <declensionText>Relativity</declensionText>
+      <declensionNotes/>
+      <declensionTemplate>1</declensionTemplate>
+      <declensionRelatedId>4</declensionRelatedId>
+      <declensionDimensionless>F</declensionDimensionless>
+      <dimensionNode>
+        <dimensionId>2</dimensionId>
+        <dimensionName>comparative</dimensionName>
+      </dimensionNode>
+      <dimensionNode>
+        <dimensionId>3</dimensionId>
+        <dimensionName>superlative</dimensionName>
+      </dimensionNode>
+    </declensionNode>
+    <declensionNode>
+      <declensionId>13</declensionId>
+      <declensionText>Grade</declensionText>
+      <declensionNotes/>
+      <declensionTemplate>1</declensionTemplate>
+      <declensionRelatedId>4</declensionRelatedId>
+      <declensionDimensionless>F</declensionDimensionless>
+      <dimensionNode>
+        <dimensionId>2</dimensionId>
+        <dimensionName>superiority</dimensionName>
+      </dimensionNode>
+      <dimensionNode>
+        <dimensionId>3</dimensionId>
+        <dimensionName>equality</dimensionName>
+      </dimensionNode>
+      <dimensionNode>
+        <dimensionId>4</dimensionId>
+        <dimensionName>inferiority</dimensionName>
       </dimensionNode>
     </declensionNode>
     <declensionNode>
@@ -11005,6 +11173,150 @@
       <decGenTrans>
         <decGenTransRegex>^(.*)ağa(.*)$</decGenTransRegex>
         <decGenTransReplace>$1ăga$2</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,2,2,2,</decGenRuleComb>
+      <decGenRuleName>Ending: odie</decGenRuleName>
+      <decGenRuleRegex>^.*od$</decGenRuleRegex>
+      <decGenRuleTypeId>4</decGenRuleTypeId>
+      <decGenRuleIndex>1</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)(od)$</decGenTransRegex>
+        <decGenTransReplace>mai $1$2ie</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,2,2,3,</decGenRuleComb>
+      <decGenRuleName>Ending: odie</decGenRuleName>
+      <decGenRuleRegex>^.*od$</decGenRuleRegex>
+      <decGenRuleTypeId>4</decGenRuleTypeId>
+      <decGenRuleIndex>2</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)(od)$</decGenTransRegex>
+        <decGenTransReplace>la fel de $1$2ie</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,2,2,4,</decGenRuleComb>
+      <decGenRuleName>Ending: odie</decGenRuleName>
+      <decGenRuleRegex>^.*od$</decGenRuleRegex>
+      <decGenRuleTypeId>4</decGenRuleTypeId>
+      <decGenRuleIndex>3</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)(od)$</decGenTransRegex>
+        <decGenTransReplace>mai puțân $1$2ie</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,2,3,2,</decGenRuleComb>
+      <decGenRuleName>Ending: odie</decGenRuleName>
+      <decGenRuleRegex>^.*od$</decGenRuleRegex>
+      <decGenRuleTypeId>4</decGenRuleTypeId>
+      <decGenRuleIndex>4</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)(od)$</decGenTransRegex>
+        <decGenTransReplace>le mai $1$2ie</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,2,3,3,</decGenRuleComb>
+      <decGenRuleName>Ending: odie</decGenRuleName>
+      <decGenRuleRegex>^.*od$</decGenRuleRegex>
+      <decGenRuleTypeId>4</decGenRuleTypeId>
+      <decGenRuleIndex>5</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)(od)$</decGenTransRegex>
+        <decGenTransReplace>atât d'$1$2ie</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,2,3,4,</decGenRuleComb>
+      <decGenRuleName>Ending: odie</decGenRuleName>
+      <decGenRuleRegex>^.*od$</decGenRuleRegex>
+      <decGenRuleTypeId>4</decGenRuleTypeId>
+      <decGenRuleIndex>6</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)(od)$</decGenTransRegex>
+        <decGenTransReplace>le mai puțân $1$2ie</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,3,2,2,</decGenRuleComb>
+      <decGenRuleName>Ending: odas</decGenRuleName>
+      <decGenRuleRegex>^.*od$</decGenRuleRegex>
+      <decGenRuleTypeId>4</decGenRuleTypeId>
+      <decGenRuleIndex>7</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)(od)$</decGenTransRegex>
+        <decGenTransReplace>mai $1$2as</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,3,2,3,</decGenRuleComb>
+      <decGenRuleName>Ending: odas</decGenRuleName>
+      <decGenRuleRegex>^.*od$</decGenRuleRegex>
+      <decGenRuleTypeId>4</decGenRuleTypeId>
+      <decGenRuleIndex>8</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)(od)$</decGenTransRegex>
+        <decGenTransReplace>la fel de $1$2as</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,3,2,4,</decGenRuleComb>
+      <decGenRuleName>Ending: odas</decGenRuleName>
+      <decGenRuleRegex>^.*od$</decGenRuleRegex>
+      <decGenRuleTypeId>4</decGenRuleTypeId>
+      <decGenRuleIndex>9</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)(od)$</decGenTransRegex>
+        <decGenTransReplace>mai puțân $1$2as</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,3,3,2,</decGenRuleComb>
+      <decGenRuleName>Ending: oa[ds]e</decGenRuleName>
+      <decGenRuleRegex>^.*o[ds]$</decGenRuleRegex>
+      <decGenRuleTypeId>4</decGenRuleTypeId>
+      <decGenRuleIndex>10</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)o([ds])$</decGenTransRegex>
+        <decGenTransReplace>le mai $1oa$2e</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,3,3,3,</decGenRuleComb>
+      <decGenRuleName>Ending: oa[ds]e</decGenRuleName>
+      <decGenRuleRegex>^.*o[ds]$</decGenRuleRegex>
+      <decGenRuleTypeId>4</decGenRuleTypeId>
+      <decGenRuleIndex>11</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)o([ds])$</decGenTransRegex>
+        <decGenTransReplace>atât d'$1oa$2e</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,3,3,3,4,</decGenRuleComb>
+      <decGenRuleName>Ending: oa[ds]e</decGenRuleName>
+      <decGenRuleRegex>^.*o[ds]$</decGenRuleRegex>
+      <decGenRuleTypeId>4</decGenRuleTypeId>
+      <decGenRuleIndex>12</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)o([ds])$</decGenTransRegex>
+        <decGenTransReplace>le mai puțân $1oa$2e</decGenTransReplace>
       </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>
