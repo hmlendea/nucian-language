@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dictionary>
   <PolyGlotVer>3.5.1</PolyGlotVer>
-  <DictSaveDate>2024-07-15T20:56:50.021801068Z</DictSaveDate>
+  <DictSaveDate>2024-07-17T09:13:05.546382449Z</DictSaveDate>
   <languageProperties>
     <fontStyle>0</fontStyle>
     <fontSize>20.0</fontSize>
@@ -178,6 +178,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>480</wordId>
+      <localWord>SUV, sport utility vehicle</localWord>
+      <conWord>ğip</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A type of vehicle designed for off-road and on-road use, typically with four-wheel drive capability and a higher ground clearance than standard cars.&lt;br&gt;&lt;br&gt;From: Romanian slang (gip), American company (Jeep)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>119</wordId>
       <localWord>to</localWord>
       <conWord>a</conWord>
@@ -258,6 +278,46 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>471</wordId>
+      <localWord>administrator</localWord>
+      <conWord>admin</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A person responsible for managing and overseeing the operations of an organization, institution, or system.&lt;br&gt;&lt;br&gt;From: Romanian (administrator), Latin (administrator)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>472</wordId>
+      <localWord>administer</localWord>
+      <conWord>admina</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;To manage or supervise the execution, application, or implementation of something, such as laws, policies, or medications.&lt;br&gt;&lt;br&gt;From: Romanian (administra), Latin (administrare)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>102</wordId>
       <localWord>help</localWord>
       <conWord>aiuda</conWord>
@@ -267,7 +327,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;To assist or aid someone in doing something.&lt;/body&gt;
+  &lt;body&gt;To assist or aid someone in doing something.&lt;br&gt;&lt;br&gt;From: Spanish (ayudar)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -287,7 +347,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;Describes something that has a color resembling that of ripe lemons, egg yolks, or certain flowers such as daffodils or sunflowers. It denotes the presence of the color yellow.&lt;/body&gt;
+  &lt;body&gt;Describes something that has a color resembling that of ripe lemons, egg yolks, or certain flowers such as daffodils or sunflowers. It denotes the presence of the color yellow.&lt;br&gt;&lt;br&gt;From: Spanish (amarillo)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -320,7 +380,7 @@
     <word>
       <wordId>176</wordId>
       <localWord>reception room</localWord>
-      <conWord>amerland</conWord>
+      <conWord>amerlandie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -368,6 +428,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;At the present time or moment.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>448</wordId>
+      <localWord>angel</localWord>
+      <conWord>anğel</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A spiritual being, often depicted in human form with wings, believed to act as a messenger of God or a guardian for humans.&lt;br&gt;&lt;br&gt;From: Latin (angelus), Greek (angelos, &amp;#7940;&amp;#947;&amp;#947;&amp;#949;&amp;#955;&amp;#959;&amp;#962;)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -428,6 +508,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A small, round fruit with soft, velvety skin and a juicy, sweet flesh. It typically has a yellow to orange color and a stone or pit in the center.&lt;br&gt;&lt;br&gt;From: English (apricot)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>426</wordId>
+      <localWord>apron</localWord>
+      <conWord>apron</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A garment worn over the front of the body to protect clothing, typically tied around the waist and used in cooking or other messy activities.&lt;br&gt;&lt;br&gt;From: English (apron)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -778,6 +878,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>481</wordId>
+      <localWord>basement</localWord>
+      <conWord>beç</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;The lowest habitable story of a building, typically partially or entirely below ground level, often used for storage or additional living space.&lt;br&gt;&lt;br&gt;From: Romanian (beci)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>5</wordId>
       <localWord>barbarian</localWord>
       <conWord>berber</conWord>
@@ -818,6 +938,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>490</wordId>
+      <localWord>birch</localWord>
+      <conWord>betul</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A type of deciduous tree with smooth, white or silver bark, and slender branches, commonly found in northern temperate regions.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>117</wordId>
       <localWord>drink</localWord>
       <conWord>beua</conWord>
@@ -845,7 +985,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Expresses deep affection, care, and attachment towards someone or something. It encompasses a range of emotions and actions, including fondness, devotion, and concern for the well-being of the loved person or thing.&lt;br&gt;&lt;br&gt;From: Romanian (iubi)&lt;/body&gt;
 &lt;/html&gt;
@@ -865,29 +1005,9 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
-  &lt;/head&gt;
-  &lt;body&gt;To construct or assemble something by putting together parts or materials; to develop or create gradually.&lt;br&gt;&lt;br&gt;From: English (build)&lt;/body&gt;
-&lt;/html&gt;
-</definition>
-      <wordProcOverride>F</wordProcOverride>
-      <autoDeclOverride>F</autoDeclOverride>
-      <wordRuleOverride>F</wordRuleOverride>
-      <wordClassCollection/>
-      <wordClassTextValueCollection/>
-      <wordEtymologyNotes/>
-    </word>
-    <word>
-      <wordId>70</wordId>
-      <localWord>good</localWord>
-      <conWord>bin</conWord>
-      <wordTypeId>4</wordTypeId>
-      <pronunciation/>
-      <definition>&lt;html&gt;
-  &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;Morally excellent; virtuous; righteous.&lt;/body&gt;
+  &lt;body&gt;To construct or assemble something by putting together parts or materials; to develop or create gradually.&lt;br&gt;&lt;br&gt;From: English (build)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -928,6 +1048,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A soft, sealed bag filled with small beans or similar material, used as furniture for sitting or reclining.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>498</wordId>
+      <localWord>life</localWord>
+      <conWord>biotie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;The condition that distinguishes living organisms from inorganic matter, including the capacity for growth, reproduction, functional activity, and continual change preceding death.&lt;br&gt;&lt;br&gt;From: Ancient Greek (&amp;#946;&amp;#943;&amp;#959;&amp;#962;, romanised: b&amp;#237;os)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -1118,6 +1258,126 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>477</wordId>
+      <localWord>blur</localWord>
+      <conWord>blura</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To make something unclear or indistinct, typically by smudging, smearing, or causing to be out of focus.&lt;br&gt;&lt;br&gt;From: English (blur)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>478</wordId>
+      <localWord>blurry</localWord>
+      <conWord>blurat</conWord>
+      <wordTypeId>4</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;Not clear or sharply defined; lacking distinctness in outline or detail, often due to being out of focus or smeared.&lt;br&gt;&lt;br&gt;From: English (blurry)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>443</wordId>
+      <localWord>disease</localWord>
+      <conWord>boalie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A disorder of structure or function in a human, animal, or plant, especially one that produces specific symptoms or affects a specific location.&lt;br&gt;&lt;br&gt;From: Romanian (boal&amp;#259;)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>70</wordId>
+      <localWord>good</localWord>
+      <conWord>bonç</conWord>
+      <wordTypeId>4</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Morally excellent; virtuous; righteous.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>422</wordId>
+      <localWord>hole, gap, cavity</localWord>
+      <conWord>bortie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;An opening, gap, or cavity in a surface or material, often created by piercing, digging, or erosion.&lt;br&gt;&lt;br&gt;From: Romanian (bort&amp;#259;), Dacian origin&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>436</wordId>
+      <localWord>brick</localWord>
+      <conWord>bric</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A rectangular block of fired clay used for building walls, pavements, and other structures.&lt;br&gt;&lt;br&gt;From: English (brick)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>378</wordId>
       <localWord>brine</localWord>
       <conWord>brinie</conWord>
@@ -1200,7 +1460,7 @@
     <word>
       <wordId>103</wordId>
       <localWord>bathroom</localWord>
-      <conWord>budland</conWord>
+      <conWord>budlandie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -1208,6 +1468,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A room equipped with a toilet and sink, used for personal hygiene.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>483</wordId>
+      <localWord>dark, darkness</localWord>
+      <conWord>buie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;The absence of light; the state or quality of being dark, lacking in illumination.&lt;br&gt;&lt;br&gt;From: Italian (buio)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -1285,7 +1565,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;To enter a room or a place suddenly and forcefully, often without permission or without considering other people who may be present.&lt;/body&gt;
 &lt;/html&gt;
@@ -1327,7 +1607,27 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;A sweet-tasting, crystalline substance, primarily extracted from sugarcane and sugar beet plants, that is commonly used as a sweetener in food and beverages.&lt;br&gt;&lt;br&gt;Origin: Russian (&amp;#1089;&amp;#1072;&amp;#1093;&amp;#1072;&amp;#1088;, tr: sahar)&lt;/body&gt;
+  &lt;body&gt;A sweet-tasting, crystalline substance, primarily extracted from sugarcane and sugar beet plants, that is commonly used as a sweetener in food and beverages.&lt;br&gt;Origin: Russian (&amp;#1089;&amp;#1072;&amp;#1093;&amp;#1072;&amp;#1088;, romanised: sahar, translation: sugar)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>460</wordId>
+      <localWord>sugar cane</localWord>
+      <conWord>caçapar</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A tall perennial grass native to tropical regions, cultivated for its thick stems (canes) containing sugar.&lt;br&gt;&lt;br&gt;Origin: Russian (&amp;#1089;&amp;#1072;&amp;#1093;&amp;#1072;&amp;#1088;, romanised: sahar, translation: sugar)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -1388,6 +1688,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A large, four-legged mammal typically used for riding, racing, or work.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>482</wordId>
+      <localWord>camel</localWord>
+      <conWord>camilie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A large, long-necked mammal with humped back, found in arid regions, often used as a pack animal or for riding.&lt;br&gt;&lt;br&gt;From: Romanian (c&amp;#259;mil&amp;#259;)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -1538,6 +1858,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>470</wordId>
+      <localWord>cave</localWord>
+      <conWord>cavie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A natural underground chamber, typically large and often with an opening to the surface, formed by erosion or volcanic activity.&lt;br&gt;&lt;br&gt;From: English (cave)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>255</wordId>
       <localWord>cauldron</localWord>
       <conWord>căldar</conWord>
@@ -1658,6 +1998,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>489</wordId>
+      <localWord>cheddar, cheddar ceese</localWord>
+      <conWord>cheder</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A firm, smooth-textured cheese that ranges from mild to sharp in flavor, originally from the village of Cheddar in England.&lt;br&gt;&lt;br&gt;From: English (cheddar)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>156</wordId>
       <localWord>fall</localWord>
       <conWord>cheza</conWord>
@@ -1688,6 +2048,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A stringed musical instrument played with the fingers or a pick, typically having six strings.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>464</wordId>
+      <localWord>clay</localWord>
+      <conWord>clei</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A fine-grained natural soil material composed primarily of hydrated silicates of aluminum, used in pottery, bricks, and ceramics when mixed with water and hardened when heated.&lt;br&gt;&lt;br&gt;From: English (clay)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -1845,9 +2225,29 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;To look for, discover or come across something or someone, either voluntarily or by chance. It can also mean to determine or ascertain something after consideration or investigation.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>488</wordId>
+      <localWord>cottage cheese</localWord>
+      <conWord>cotağie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A soft, lumpy cheese made from curds of slightly soured milk, often eaten fresh and used in various dishes.&lt;br&gt;&lt;br&gt;From: English (cottage chese)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -1980,7 +2380,7 @@
     <word>
       <wordId>195</wordId>
       <localWord>cabbage</localWord>
-      <conWord>curiche</conWord>
+      <conWord>curice</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -1998,9 +2398,29 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>494</wordId>
+      <localWord>diplomat</localWord>
+      <conWord>cușadon</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;An official representing a country abroad, skilled in managing international relations and negotiations.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>19</wordId>
       <localWord>dog</localWord>
-      <conWord>cuțac</conWord>
+      <conWord>cuț</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -2025,9 +2445,29 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A covering for the head, typically with a shaped crown and brim.&lt;br&gt;&lt;br&gt;From: French&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>105</wordId>
+      <localWord>hello</localWord>
+      <conWord>çau</conWord>
+      <wordTypeId>10</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Used as a greeting or to attract attention.&lt;br&gt;&lt;br&gt;From: Romanian (ceau)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -2318,6 +2758,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>495</wordId>
+      <localWord>different</localWord>
+      <conWord>deltos</conWord>
+      <wordTypeId>4</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Not the same as another or each other; distinct or separate in nature, form, or quality.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>239</wordId>
       <localWord>monster</localWord>
       <conWord>dihan</conWord>
@@ -2348,6 +2808,46 @@
     
   &lt;/head&gt;
   &lt;body&gt;Indicates the origin or starting point of something.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>486</wordId>
+      <localWord>document</localWord>
+      <conWord>doc</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A written, printed, or electronic record that provides information or evidence of something.&lt;br&gt;&lt;br&gt;From: Romanian (document)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>442</wordId>
+      <localWord>doctor</localWord>
+      <conWord>doftor</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A person who is trained and licensed to practice medicine; a physician or medical practitioner.&lt;br&gt;&lt;br&gt;From: Romanian (doctor)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -2498,6 +2998,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>421</wordId>
+      <localWord>emerald</localWord>
+      <conWord>emerald</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A precious green gemstone, a variety of beryl, often used in jewelry.&lt;br&gt;&lt;br&gt;From: English (emerald)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>214</wordId>
       <localWord>command, order</localWord>
       <conWord>emra</conWord>
@@ -2538,6 +3058,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>112</wordId>
+      <localWord>in</localWord>
+      <conWord>en</conWord>
+      <wordTypeId>12</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Indicates location inside an area or a period of time.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>108</wordId>
       <localWord>english</localWord>
       <conWord>englu</conWord>
@@ -2548,6 +3088,46 @@
     
   &lt;/head&gt;
   &lt;body&gt;A person, language, or culture originating from or associated with England, a country in western Europe.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>465</wordId>
+      <localWord>enter</localWord>
+      <conWord>entra</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;To come or go into (a place); to access or begin involvement in a particular situation or activity.&lt;br&gt;&lt;br&gt;From: Romanian (intra), Spanish (entrar)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>447</wordId>
+      <localWord>grass</localWord>
+      <conWord>erbie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A common green plant with narrow leaves that grows naturally over a wide area, often used for lawns, pasture, or as fodder for animals.&lt;br&gt;&lt;br&gt;From: Romanian (iarb&amp;#259;), Latin (herba)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -2585,7 +3165,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;The physiological need for food; a strong desire or craving for nourishment.&lt;br&gt;&lt;br&gt;From: Spanish (hambre)&lt;/body&gt;
 &lt;/html&gt;
@@ -2645,7 +3225,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Decorative or elaborate in style, often featuring intricate details or patterns; intended to impress or attract attention; not plain or ordinary.&lt;br&gt;&lt;br&gt;From: English (fancy)&lt;/body&gt;
 &lt;/html&gt;
@@ -2698,26 +3278,6 @@
       <wordEtymologyNotes/>
     </word>
     <word>
-      <wordId>55</wordId>
-      <localWord>son</localWord>
-      <conWord>fil</conWord>
-      <wordTypeId>6</wordTypeId>
-      <pronunciation/>
-      <definition>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;A male offspring of a parent or parents.&lt;/body&gt;
-&lt;/html&gt;
-</definition>
-      <wordProcOverride>F</wordProcOverride>
-      <autoDeclOverride>F</autoDeclOverride>
-      <wordRuleOverride>F</wordRuleOverride>
-      <wordClassCollection/>
-      <wordClassTextValueCollection/>
-      <wordEtymologyNotes/>
-    </word>
-    <word>
       <wordId>16</wordId>
       <localWord>daughter</localWord>
       <conWord>filie</conWord>
@@ -2728,6 +3288,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A female offspring of a parent or parents.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>55</wordId>
+      <localWord>son</localWord>
+      <conWord>filiu</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A male offspring of a parent or parents.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -2768,6 +3348,46 @@
     
   &lt;/head&gt;
   &lt;body&gt;A projectile with a pointed end, shot from a bow.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>476</wordId>
+      <localWord>mark</localWord>
+      <conWord>fleg</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A visible sign or symbol indicating something, such as a spot, stain, or impression.&lt;br&gt;&lt;br&gt;From: English (flag)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>475</wordId>
+      <localWord>mark</localWord>
+      <conWord>flegui</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;To indicate, designate, or make note of something by a visible sign or symbol; to trace, write, or draw on a surface.&lt;br&gt;&lt;br&gt;From: English (flag)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -2918,6 +3538,46 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>454</wordId>
+      <localWord>cold</localWord>
+      <conWord>frigos</conWord>
+      <wordTypeId>4</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Having a low temperature; lacking warmth or heat; chilly.&lt;br&gt;&lt;br&gt;From: Latin (frigus)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>453</wordId>
+      <localWord>cold</localWord>
+      <conWord>frigus</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A low temperature, especially when below the normal or comfortable level for humans or animals.&lt;br&gt;&lt;br&gt;From: Latin (frigus), Romanian (frig)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>68</wordId>
       <localWord>beautiful</localWord>
       <conWord>frumi</conWord>
@@ -2925,7 +3585,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Pleasing the senses or mind aesthetically; having qualities that give great pleasure or satisfaction to see, hear, think about, etc.; excellent.&lt;/body&gt;
 &lt;/html&gt;
@@ -2978,26 +3638,6 @@
       <wordEtymologyNotes/>
     </word>
     <word>
-      <wordId>124</wordId>
-      <localWord>run</localWord>
-      <conWord>fuği</conWord>
-      <wordTypeId>3</wordTypeId>
-      <pronunciation/>
-      <definition>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;To move at a speed faster than walking by taking quick steps in which each foot is lifted before the next step.&lt;/body&gt;
-&lt;/html&gt;
-</definition>
-      <wordProcOverride>F</wordProcOverride>
-      <autoDeclOverride>F</autoDeclOverride>
-      <wordRuleOverride>F</wordRuleOverride>
-      <wordClassCollection/>
-      <wordClassTextValueCollection/>
-      <wordEtymologyNotes/>
-    </word>
-    <word>
       <wordId>370</wordId>
       <localWord>pants</localWord>
       <conWord>gaç</conWord>
@@ -3005,7 +3645,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A piece of clothing worn from the waist to the ankles, covering each leg separately.&lt;/body&gt;
 &lt;/html&gt;
@@ -3045,7 +3685,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A flexible container with an opening at the top, used for carrying items.&lt;br&gt;&lt;br&gt;From: Romanian (geant&amp;#259;)&lt;/body&gt;
 &lt;/html&gt;
@@ -3068,6 +3708,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A mythical creature typically depicted as small and mischievous or malevolent, often associated with folklore and fantasy literature.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>423</wordId>
+      <localWord>worm</localWord>
+      <conWord>ghierme</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A small, elongated invertebrate animal that typically lives in soil or water, often known for its crawling motion.&lt;br&gt;&lt;br&gt;From: Romanian (vierme)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -3108,6 +3768,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;To strike or come into contact with force, typically resulting in physical impact or damage.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>4</wordId>
+      <localWord>backpack</localWord>
+      <conWord>giozd</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A bag worn on the back, typically used for carrying personal belongings or supplies.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -3188,6 +3868,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A type of blue cheese originating from Italy. It is made from cow's milk and is characterized by its creamy texture and distinctive blue-green veins of mold.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>484</wordId>
+      <localWord>large, great</localWord>
+      <conWord>grand</conWord>
+      <wordTypeId>4</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Of considerable size, extent, or quantity; big in dimensions or amount.&lt;br&gt;&lt;br&gt;From: Latin (grandis)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -3318,26 +4018,6 @@
       <wordEtymologyNotes/>
     </word>
     <word>
-      <wordId>4</wordId>
-      <localWord>backpack</localWord>
-      <conWord>ğiozd</conWord>
-      <wordTypeId>6</wordTypeId>
-      <pronunciation/>
-      <definition>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;A bag worn on the back, typically used for carrying personal belongings or supplies.&lt;/body&gt;
-&lt;/html&gt;
-</definition>
-      <wordProcOverride>F</wordProcOverride>
-      <autoDeclOverride>F</autoDeclOverride>
-      <wordRuleOverride>F</wordRuleOverride>
-      <wordClassCollection/>
-      <wordClassTextValueCollection/>
-      <wordEtymologyNotes/>
-    </word>
-    <word>
       <wordId>110</wordId>
       <localWord>Horace</localWord>
       <conWord>Hori</conWord>
@@ -3388,6 +4068,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;The act of using resources carelessly or unproductively, or the resources that were used as such.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>441</wordId>
+      <localWord>bad</localWord>
+      <conWord>hamiș</conWord>
+      <wordTypeId>4</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Of poor quality or low standard; not good; unfavorable or undesirable in nature or character.&lt;br&gt;&lt;br&gt;From: Hungarian (hamis)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -3465,9 +4165,9 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-    
+
   &lt;/head&gt;
-  &lt;body&gt;To use or expend carelessly, extravagantly, or to no purpose.&lt;/body&gt;
+  &lt;body&gt;To use or expend carelessly, extravagantly, or to no purpose; to fail to utilize or consume efficiently.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -3598,6 +4298,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>440</wordId>
+      <localWord>doorstop</localWord>
+      <conWord>hodor</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;An object used to hold a door open or to prevent it from swinging shut, typically placed on the floor against the bottom of the door.&lt;br&gt;&lt;br&gt;Origin: Game of Thrones character (Hodor)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>27</wordId>
       <localWord>friend</localWord>
       <conWord>hovăr</conWord>
@@ -3705,9 +4425,29 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;To direct one's gaze in a particular direction or at a specific object or person. It involves using the eyes to observe or examine something visually.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>430</wordId>
+      <localWord>accept</localWord>
+      <conWord>igeni</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To receive willingly or to agree to take something offered; to approve or believe something as valid.&lt;br&gt;&lt;br&gt;From: Hungarian (igen)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -3758,6 +4498,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>466</wordId>
+      <localWord>install</localWord>
+      <conWord>instala</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>369</wordId>
       <localWord>hello</localWord>
       <conWord>ipac</conWord>
@@ -3765,7 +4525,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A greeting used to acknowledge someone's presence or to begin a conversation.&lt;/body&gt;
 &lt;/html&gt;
@@ -3785,7 +4545,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A place of refuge or safety, often designated for protection, especially for wildlife or persecuted individuals.&lt;br&gt;&lt;br&gt;From: Ancient Egyptian&lt;/body&gt;
 &lt;/html&gt;
@@ -3825,29 +4585,9 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;To enter forcefully as an enemy; to intrude upon; to encroach or infringe upon.&lt;br&gt;&lt;br&gt;From: Greek&lt;/body&gt;
-&lt;/html&gt;
-</definition>
-      <wordProcOverride>F</wordProcOverride>
-      <autoDeclOverride>F</autoDeclOverride>
-      <wordRuleOverride>F</wordRuleOverride>
-      <wordClassCollection/>
-      <wordClassTextValueCollection/>
-      <wordEtymologyNotes/>
-    </word>
-    <word>
-      <wordId>112</wordId>
-      <localWord>in</localWord>
-      <conWord>în</conWord>
-      <wordTypeId>12</wordTypeId>
-      <pronunciation/>
-      <definition>&lt;html&gt;
-  &lt;head&gt;
-
-  &lt;/head&gt;
-  &lt;body&gt;Indicates location inside an area or a period of time.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -4038,9 +4778,29 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>479</wordId>
+      <localWord>lake</localWord>
+      <conWord>lac</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A large body of water surrounded by land, typically freshwater and larger than a pond, often used for recreational activities.&lt;br&gt;&lt;br&gt;From: Romanian (lac)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>269</wordId>
       <localWord>room</localWord>
-      <conWord>land</conWord>
+      <conWord>landie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -4158,6 +4918,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>434</wordId>
+      <localWord>border</localWord>
+      <conWord>limen</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;The line or boundary that marks the edge of a country, region, or area; a dividing line.&lt;br&gt;&lt;br&gt;From: Latin (limen)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>128</wordId>
       <localWord>clean</localWord>
       <conWord>limpia</conWord>
@@ -4220,7 +5000,7 @@
     <word>
       <wordId>90</wordId>
       <localWord>their</localWord>
-      <conWord>lo</conWord>
+      <conWord>lo'</conWord>
       <wordTypeId>7</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -4240,14 +5020,54 @@
     <word>
       <wordId>349</wordId>
       <localWord>cheap</localWord>
-      <conWord>lob</conWord>
+      <conWord>lobos</conWord>
       <wordTypeId>4</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Describes something that is low in cost or price relative to its perceived value or quality. It can also refer to something that is inexpensive or affordable.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>468</wordId>
+      <localWord>lord</localWord>
+      <conWord>lord</conWord>
+      <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
 
   &lt;/head&gt;
-  &lt;body&gt;Describes something that is low in cost or price relative to its perceived value or quality. It can also refer to something that is inexpensive or affordable.&lt;/body&gt;
+  &lt;body&gt;A title of nobility or honor given to a man of high rank or authority.&lt;br&gt;&lt;br&gt;From: English (lord)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>85</wordId>
+      <localWord>his, her</localWord>
+      <conWord>lu'</conWord>
+      <wordTypeId>7</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Belonging to or associated with a male person or animal previously mentioned or easily identified.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -4265,7 +5085,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A large, round fruit with a hard green rind, sweet, juicy red or pink flesh, and black seeds.&lt;br&gt;&lt;br&gt;From: Romanian (lubeni&amp;#539;&amp;#259;)&lt;/body&gt;
 &lt;/html&gt;
@@ -4278,16 +5098,16 @@
       <wordEtymologyNotes/>
     </word>
     <word>
-      <wordId>85</wordId>
-      <localWord>his</localWord>
-      <conWord>lui</conWord>
-      <wordTypeId>7</wordTypeId>
+      <wordId>473</wordId>
+      <localWord>wolf</localWord>
+      <conWord>lupin</conWord>
+      <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
-  &lt;body&gt;Belonging to or associated with a male person or animal previously mentioned or easily identified.&lt;/body&gt;
+  &lt;body&gt;A wild carnivorous mammal of the dog family, known for its pack behavior, hunting prowess, and distinctive howl.&lt;br&gt;&lt;br&gt;From: Latin (lupus)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -4318,6 +5138,46 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>437</wordId>
+      <localWord>mud</localWord>
+      <conWord>mad</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Wet, soft earth or earthy matter, typically consisting of a mixture of soil and water.&lt;br&gt;&lt;br&gt;From: English (mud)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>474</wordId>
+      <localWord>tree</localWord>
+      <conWord>maderar</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A tall perennial woody plant with a single main stem or trunk, typically having branches and leaves, and producing seeds or fruit.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>371</wordId>
       <localWord>wood</localWord>
       <conWord>maderie</conWord>
@@ -4328,6 +5188,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;The hard, fibrous material forming the trunk and branches of trees, used for construction and fuel.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>463</wordId>
+      <localWord>carpenter, woodworker</localWord>
+      <conWord>maderor</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A skilled craftsman who works with wood, typically specializing in constructing and repairing wooden structures and furniture.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -4518,6 +5398,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>461</wordId>
+      <localWord>apple tree</localWord>
+      <conWord>merindar</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A deciduous tree of the genus Malus, cultivated for its fruit, known as apples, which are typically round with edible flesh and a core containing seeds.&lt;br&gt;&lt;br&gt;From: Romanian (merind&amp;#259;)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>2</wordId>
       <localWord>apple</localWord>
       <conWord>merindie</conWord>
@@ -4527,7 +5427,47 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;A round fruit with a red, yellow, or green skin, often associated with being a healthy and nutritious snack or ingredient in various recipes.&lt;/body&gt;
+  &lt;body&gt;A round fruit with a red, yellow, or green skin, often associated with being a healthy and nutritious snack or ingredient in various recipes.&lt;br&gt;&lt;br&gt;From: Romanian (merind&amp;#259;)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>420</wordId>
+      <localWord>oak</localWord>
+      <conWord>meșeu</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A large tree of the beech family, known for its strong wood and acorns.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>450</wordId>
+      <localWord>tinker</localWord>
+      <conWord>meșteri</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To repair, adjust, or work with something in an unskilled or experimental manner, often involving small adjustments or improvements.&lt;br&gt;&lt;br&gt;From: Romanian&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -4598,6 +5538,46 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>456</wordId>
+      <localWord>modify</localWord>
+      <conWord>moda</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;To change or alter something in order to improve it, adapt it to a different purpose, or make it more suitable.&lt;br&gt;&lt;br&gt;From: Romanian (modifica)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>455</wordId>
+      <localWord>modified</localWord>
+      <conWord>modat</conWord>
+      <wordTypeId>4</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Altered or adjusted from its original form; changed to suit a particular purpose or situation.&lt;br&gt;&lt;br&gt;From: Romanian (modificat)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>49</wordId>
       <localWord>sea</localWord>
       <conWord>morie</conWord>
@@ -4639,7 +5619,7 @@
     </word>
     <word>
       <wordId>339</wordId>
-      <localWord>thug</localWord>
+      <localWord>thug, robber</localWord>
       <conWord>mugvan</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
@@ -4648,6 +5628,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A violent or aggressive person, often associated with criminal activities or intimidation tactics.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>493</wordId>
+      <localWord>rob</localWord>
+      <conWord>mugvăni</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To take property unlawfully from a person or place by force or threat of force; to steal from.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -4818,6 +5818,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>492</wordId>
+      <localWord>wafer</localWord>
+      <conWord>napotie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A thin, crisp, light cookie or biscuit, often used in desserts or as a base for other confections.&lt;br&gt;&lt;br&gt;From: Romanian (napolitan&amp;#259;)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>316</wordId>
       <localWord>orange</localWord>
       <conWord>narançie</conWord>
@@ -4945,7 +5965,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;The absence or lack of anything; no thing; no existence, value, or significance.&lt;/body&gt;
 &lt;/html&gt;
@@ -5000,7 +6020,7 @@
     <word>
       <wordId>88</wordId>
       <localWord>our</localWord>
-      <conWord>nost</conWord>
+      <conWord>nost'</conWord>
       <wordTypeId>7</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -5045,7 +6065,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;To move through water by using the limbs, fins, or tail, typically as a form of exercise, sport, or survival.&lt;/body&gt;
 &lt;/html&gt;
@@ -5068,6 +6088,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;Used to give a negative response or to express denial or disagreement.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>425</wordId>
+      <localWord>walnut</localWord>
+      <conWord>nucie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;The nut of any tree of the genus Juglans, often used in cooking and baking.&lt;br&gt;&lt;br&gt;From: Romanian (nuc&amp;#259;)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -5138,6 +6178,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>95</wordId>
+      <localWord>or</localWord>
+      <conWord>o'</conWord>
+      <wordTypeId>9</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;The conjunction for indicating a contrast or an alternative to what was previously stated.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>161</wordId>
       <localWord>testicle</localWord>
       <conWord>oac</conWord>
@@ -5178,16 +6238,16 @@
       <wordEtymologyNotes/>
     </word>
     <word>
-      <wordId>105</wordId>
-      <localWord>hello</localWord>
-      <conWord>ola</conWord>
-      <wordTypeId>10</wordTypeId>
+      <wordId>418</wordId>
+      <localWord>olive</localWord>
+      <conWord>olivie</conWord>
+      <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-    
+
   &lt;/head&gt;
-  &lt;body&gt;Used as a greeting or to attract attention.&lt;/body&gt;
+  &lt;body&gt;A small, oval fruit of the olive tree, typically green or black, used for its oil or as food.&lt;br&gt;&lt;br&gt;From: Latin (oliva)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -5208,6 +6268,26 @@
 
   &lt;/head&gt;
   &lt;body&gt;A small, domesticated rodent belonging to the Cavia genus, native to South America.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>424</wordId>
+      <localWord>waiter</localWord>
+      <conWord>ospătru</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A person, typically in a restaurant, who serves food and drinks to customers.&lt;br&gt;&lt;br&gt;From: Romanian (osp&amp;#259;tar)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -5258,6 +6338,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>469</wordId>
+      <localWord>palatine</localWord>
+      <conWord>palatin</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A high-ranking official in certain countries, especially associated with royal or imperial courts; also, a noble title.&lt;br&gt;&lt;br&gt;From: Latin (palatinus)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>398</wordId>
       <localWord>placard, signboard, noticeboard</localWord>
       <conWord>pancardie</conWord>
@@ -5288,6 +6388,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A material made from cellulose pulp, derived mainly from wood, rags, and certain grasses, used for writing, printing, drawing, and wrapping.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>427</wordId>
+      <localWord>footwear</localWord>
+      <conWord>papuc</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;Items worn on the feet, such as shoes, boots, sandals, or slippers, for protection and comfort.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -5445,7 +6565,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;The thin layer of tissue covering the body of a person or animal; also, the outer layer of certain fruits or vegetables.&lt;br&gt;&lt;br&gt;From: Romanian (piele)&lt;/body&gt;
 &lt;/html&gt;
@@ -5485,9 +6605,69 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Parsley: A biennial herb with curly or flat leaves, often used as a garnish or seasoning in cooking.&lt;br&gt;&lt;br&gt;From: Serbocroatian (per&amp;#353;un)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>458</wordId>
+      <localWord>fisherman</localWord>
+      <conWord>pescador</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A person who catches fish, typically as a livelihood or for recreation.&lt;br&gt;&lt;br&gt;From: Spanish (pescador)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>457</wordId>
+      <localWord>fish</localWord>
+      <conWord>pescan</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A cold-blooded aquatic vertebrate animal with gills, fins, and typically scales, usually found in water.&lt;br&gt;&lt;br&gt;From: Spanish (pescado)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>459</wordId>
+      <localWord>fish</localWord>
+      <conWord>pescări</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To catch or attempt to catch fish, typically using a rod, line, or net.&lt;br&gt;&lt;br&gt;From: Spanish (pescar)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -5525,9 +6705,29 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;To cook (food) by dry heat without direct exposure to a flame, typically in an oven or on a hot surface.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>452</wordId>
+      <localWord>pigeon</localWord>
+      <conWord>piğon</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A stout-bodied bird with short legs and a small head, typically found in urban areas, known for its cooing call and often used as a symbol of peace.&lt;br&gt;&lt;br&gt;From: English (pigeon)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -5565,7 +6765,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;Lacking sufficient money to live at a standard considered comfortable or normal in a society; of low quality or a low standard.&lt;/body&gt;
 &lt;/html&gt;
@@ -5585,7 +6785,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;The action of removing the outer layer or skin of something, typically a fruit or vegetable.&lt;/body&gt;
 &lt;/html&gt;
@@ -5658,6 +6858,46 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>419</wordId>
+      <localWord>plank</localWord>
+      <conWord>plancie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A long, flat piece of timber, thicker than a board, used in construction or for flooring.&lt;br&gt;&lt;br&gt;From: English (Plank)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>428</wordId>
+      <localWord>plant</localWord>
+      <conWord>planta</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;To place or set something firmly in a specified position or location, especially in the ground to grow.&lt;br&gt;&lt;br&gt;From: Romanian (planta)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>131</wordId>
       <localWord>can</localWord>
       <conWord>poça</conWord>
@@ -5720,12 +6960,12 @@
     <word>
       <wordId>272</wordId>
       <localWord>bedroom</localWord>
-      <conWord>posteland</conWord>
+      <conWord>postelandie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A room used for sleeping in.&lt;/body&gt;
 &lt;/html&gt;
@@ -5767,7 +7007,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;A narrative or tale, often fictional, that describes a series of events or experiences, typically involving a protagonist and other characters, and that is intended to entertain, inform, or convey a message or moral lesson.&lt;/body&gt;
+  &lt;body&gt;A narrative or tale, often fictional, that describes a series of events or experiences, typically involving a protagonist and other characters, and that is intended to entertain, inform, or convey a message or moral lesson.&lt;br&gt;&lt;br&gt;From: Romanian (poveste)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -5805,9 +7045,9 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
-  &lt;body&gt;The continuous physical force exerted on or against an object by something in contact with it.&lt;/body&gt;
+  &lt;body&gt;The continuous physical force exerted on or against an object by something in contact with it.&lt;br&gt;&lt;br&gt;From: English (pressure)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -5825,9 +7065,9 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
-  &lt;body&gt;A thick woven or felted fabric for covering floors.&lt;/body&gt;
+  &lt;body&gt;A thick woven or felted fabric for covering floors.&lt;br&gt;&lt;br&gt;From: Romanian (pre&amp;#537;)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -5840,12 +7080,12 @@
     <word>
       <wordId>251</wordId>
       <localWord>bad luck, misfortune</localWord>
-      <conWord>prihon</conWord>
+      <conWord>prihanie</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;An unfortunate circumstance or series of events that cause difficulty or hardship.&lt;/body&gt;
 &lt;/html&gt;
@@ -5878,6 +7118,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>467</wordId>
+      <localWord>forgiveness</localWord>
+      <conWord>proșare</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;The act or process of forgiving; ceasing to feel resentment or anger toward someone for an offense, flaw, or mistake.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>228</wordId>
       <localWord>forgiven</localWord>
       <conWord>proșit</conWord>
@@ -5885,7 +7145,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;No longer feeling anger or resentment towards someone for a mistake or offense they committed.&lt;/body&gt;
 &lt;/html&gt;
@@ -5940,7 +7200,7 @@
     <word>
       <wordId>229</wordId>
       <localWord>sinner</localWord>
-      <conWord>puçitor</conWord>
+      <conWord>puços</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
@@ -5959,7 +7219,7 @@
     </word>
     <word>
       <wordId>244</wordId>
-      <localWord>male baby</localWord>
+      <localWord>baby</localWord>
       <conWord>puiț</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
@@ -5967,7 +7227,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;A very young male offspring, especially one that is not yet able to care for itself.&lt;/body&gt;
+  &lt;body&gt;A very young offspring, especially one that is not yet able to care for itself.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -5978,16 +7238,16 @@
       <wordEtymologyNotes/>
     </word>
     <word>
-      <wordId>410</wordId>
-      <localWord>female baby</localWord>
-      <conWord>puiție</conWord>
+      <wordId>496</wordId>
+      <localWord>fluff, puff</localWord>
+      <conWord>puș</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
 
   &lt;/head&gt;
-  &lt;body&gt;A very young female offspring, especially one that is not yet able to care for itself.&lt;/body&gt;
+  &lt;body&gt;Soft, light fibers or down, such as from cotton or feathers.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -5999,15 +7259,15 @@
     </word>
     <word>
       <wordId>191</wordId>
-      <localWord>puffy</localWord>
+      <localWord>fluffy, puffy</localWord>
       <conWord>pușin</conWord>
       <wordTypeId>4</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-    
+
   &lt;/head&gt;
-  &lt;body&gt;Attractive or pretty, especially in a childish, delicate, or charming way.&lt;/body&gt;
+  &lt;body&gt;Soft and light in texture or appearance, like feathers or down; having a light, airy, or puffy quality.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -6058,26 +7318,6 @@
       <wordEtymologyNotes/>
     </word>
     <word>
-      <wordId>95</wordId>
-      <localWord>or</localWord>
-      <conWord>qi</conWord>
-      <wordTypeId>9</wordTypeId>
-      <pronunciation/>
-      <definition>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;The conjunction for indicating a contrast or an alternative to what was previously stated.&lt;/body&gt;
-&lt;/html&gt;
-</definition>
-      <wordProcOverride>F</wordProcOverride>
-      <autoDeclOverride>F</autoDeclOverride>
-      <wordRuleOverride>F</wordRuleOverride>
-      <wordClassCollection/>
-      <wordClassTextValueCollection/>
-      <wordEtymologyNotes/>
-    </word>
-    <word>
       <wordId>373</wordId>
       <localWord>mushroom</localWord>
       <conWord>qpie</conWord>
@@ -6085,7 +7325,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A type of fungus with a typically umbrella-shaped cap and stem, often edible.&lt;br&gt;&lt;br&gt;From: Romanian (ciuperc&amp;#259;)&lt;/body&gt;
 &lt;/html&gt;
@@ -6280,14 +7520,34 @@
     <word>
       <wordId>135</wordId>
       <localWord>return</localWord>
-      <conWord>riturna</conWord>
+      <conWord>returna</conWord>
       <wordTypeId>3</wordTypeId>
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;To come or go back to a previous place or condition, to give, send, or put something back to its original place or owner.&lt;/body&gt;
+  &lt;body&gt;To come or go back to a previous place or condition, to give, send, or put something back to its original place or owner.&lt;br&gt;&lt;br&gt;From: English (return)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>487</wordId>
+      <localWord>usage manual</localWord>
+      <conWord>ridmi</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A book or guide that provides rules, guidelines, and examples for the correct and effective use of something.&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -6305,7 +7565,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A solid mineral material forming part of the surface of Terra and often used in construction.&lt;/body&gt;
 &lt;/html&gt;
@@ -6538,6 +7798,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>444</wordId>
+      <localWord>scold</localWord>
+      <conWord>sfădi</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;To criticize or reprimand someone angrily or harshly for their behavior or actions.&lt;br&gt;&lt;br&gt;From: Romanian (sf&amp;#259;di)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>368</wordId>
       <localWord>beetroot</localWord>
       <conWord>sfeclie</conWord>
@@ -6558,28 +7838,8 @@
       <wordEtymologyNotes/>
     </word>
     <word>
-      <wordId>140</wordId>
-      <localWord>be</localWord>
-      <conWord>sia</conWord>
-      <wordTypeId>3</wordTypeId>
-      <pronunciation/>
-      <definition>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;To exist, to have reality or actuality, to occupy a particular state or condition.&lt;/body&gt;
-&lt;/html&gt;
-</definition>
-      <wordProcOverride>F</wordProcOverride>
-      <autoDeclOverride>F</autoDeclOverride>
-      <wordRuleOverride>F</wordRuleOverride>
-      <wordClassCollection/>
-      <wordClassTextValueCollection/>
-      <wordEtymologyNotes/>
-    </word>
-    <word>
       <wordId>63</wordId>
-      <localWord>male villager</localWord>
+      <localWord>male villager, villager</localWord>
       <conWord>sibian</conWord>
       <wordTypeId>6</wordTypeId>
       <pronunciation/>
@@ -6605,7 +7865,7 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A female person who lives in a village or small community, often associated with rural lifestyles and traditions.&lt;/body&gt;
 &lt;/html&gt;
@@ -6638,6 +7898,46 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>140</wordId>
+      <localWord>be</localWord>
+      <conWord>sie</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;To exist, to have reality or actuality, to occupy a particular state or condition.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>491</wordId>
+      <localWord>sinister</localWord>
+      <conWord>sinihistru</conWord>
+      <wordTypeId>4</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;Giving the impression that something harmful or evil is happening or will happen; ominous or threatening.&lt;br&gt;&lt;br&gt;From: Romanian (sinistru)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>226</wordId>
       <localWord>shame</localWord>
       <conWord>sire</conWord>
@@ -6645,9 +7945,29 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
   &lt;body&gt;A painful feeling of humiliation or distress caused by the consciousness of wrong or foolish behavior.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>435</wordId>
+      <localWord>slab</localWord>
+      <conWord>sleb</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A thick, flat piece or slice of material, such as stone, wood, or concrete, typically used for construction or as a surface.&lt;br&gt;&lt;br&gt;From: English (slab)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -6868,6 +8188,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;The non-physical part of a person that is believed to live on after the body dies, often associated with religious or philosophical beliefs.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>446</wordId>
+      <localWord>spear</localWord>
+      <conWord>spir</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A long weapon with a sharp pointed blade, typically used for thrusting or throwing, historically used for hunting and warfare.&lt;br&gt;&lt;br&gt;From: English (spear)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -7258,6 +8598,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>433</wordId>
+      <localWord>exactly</localWord>
+      <conWord>taman</conWord>
+      <wordTypeId>5</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;In a precise and accurate manner; without any deviation or approximation.&lt;br&gt;&lt;br&gt;From: Romanian (taman)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>18</wordId>
       <localWord>death</localWord>
       <conWord>tanatie</conWord>
@@ -7298,6 +8658,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>485</wordId>
+      <localWord>speak</localWord>
+      <conWord>tăcli</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;To communicate verbally; to utter words or articulate thoughts aloud.&lt;br&gt;&lt;br&gt;From: Romanian (taclale)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>147</wordId>
       <localWord>cut</localWord>
       <conWord>tăia</conWord>
@@ -7328,6 +8708,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;To cease living, to stop breathing and have no heartbeat, to pass away.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>429</wordId>
+      <localWord>everything</localWord>
+      <conWord>tăt</conWord>
+      <wordTypeId>15</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;All things or all aspects of a situation, considered collectively; the entirety of something.&lt;br&gt;&lt;br&gt;From: Romanian (tot)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -7428,6 +8828,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;A preset format or pattern used as a guide for creating consistent and standardized documents, designs, or structures, allowing for easy replication or customization.&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>432</wordId>
+      <localWord>country</localWord>
+      <conWord>terie</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A distinct territorial body or nation; typically, an independent sovereign state with its own government and boundaries.&lt;br&gt;&lt;br&gt;From: Latin (terra), Romanian (&amp;#539;ar&amp;#259;)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -7598,6 +9018,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>445</wordId>
+      <localWord>try</localWord>
+      <conWord>tria</conWord>
+      <wordTypeId>3</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;To attempt or make an effort to do something; to test or put to the test.&lt;br&gt;&lt;br&gt;From: Latin (trialis)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>62</wordId>
       <localWord>trial</localWord>
       <conWord>trial</conWord>
@@ -7718,6 +9158,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>438</wordId>
+      <localWord>mosquito</localWord>
+      <conWord>țânț</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A small flying insect known for its biting and blood-sucking habits, often causing itching and discomfort to humans and animals.&lt;br&gt;&lt;br&gt;From: Romanian (&amp;#539;&amp;#226;n&amp;#539;ar)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>308</wordId>
       <localWord>water fountain, drinking fountain</localWord>
       <conWord>țâșnie</conWord>
@@ -7828,6 +9288,26 @@
     
   &lt;/head&gt;
   &lt;body&gt;The quality or state of being unattractive or unpleasant in appearance.&lt;br&gt;&lt;br&gt;From: Russian (&amp;#1059;&amp;#1088;&amp;#1086;&amp;#1076;, tr: urod)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
+      <wordId>439</wordId>
+      <localWord>bear</localWord>
+      <conWord>ursadon</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;A large, heavy mammal with shaggy fur and a short tail, native to both Eurasia and North America, known for its strength and ability to stand on its hind legs.&lt;br&gt;&lt;br&gt;From: StarCraft animal (ursadon)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -8158,6 +9638,26 @@
       <wordEtymologyNotes/>
     </word>
     <word>
+      <wordId>431</wordId>
+      <localWord>voivodeship</localWord>
+      <conWord>voievodat</conWord>
+      <wordTypeId>6</wordTypeId>
+      <pronunciation/>
+      <definition>&lt;html&gt;
+  &lt;head&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;A a province or administrative division in several countries, particularly in Eastern Europe.&lt;br&gt;&lt;br&gt;From: Romanian (voievodat)&lt;/body&gt;
+&lt;/html&gt;
+</definition>
+      <wordProcOverride>F</wordProcOverride>
+      <autoDeclOverride>F</autoDeclOverride>
+      <wordRuleOverride>F</wordRuleOverride>
+      <wordClassCollection/>
+      <wordClassTextValueCollection/>
+      <wordEtymologyNotes/>
+    </word>
+    <word>
       <wordId>91</wordId>
       <localWord>your</localWord>
       <conWord>vostis</conWord>
@@ -8285,9 +9785,9 @@
       <pronunciation/>
       <definition>&lt;html&gt;
   &lt;head&gt;
-
+    
   &lt;/head&gt;
-  &lt;body&gt;A person or fictional creature in an undead state, typically portrayed as a reanimated corpse.&lt;/body&gt;
+  &lt;body&gt;A person or fictional creature in an undead state, typically portrayed as a reanimated corpse.&lt;br&gt;&lt;br&gt;From: English (zombie)&lt;/body&gt;
 &lt;/html&gt;
 </definition>
       <wordProcOverride>F</wordProcOverride>
@@ -8452,7 +9952,7 @@
       </decGenTrans>
       <decGenTrans>
         <decGenTransRegex>^(.*[^ǎ])$</decGenTransRegex>
-        <decGenTransReplace>$1esc</decGenTransReplace>
+        <decGenTransReplace>$1ez</decGenTransReplace>
       </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>
@@ -8520,7 +10020,7 @@
       </decGenTrans>
       <decGenTrans>
         <decGenTransRegex>^(.*)$</decGenTransRegex>
-        <decGenTransReplace>$1ește</decGenTransReplace>
+        <decGenTransReplace>$1ează</decGenTransReplace>
       </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>
@@ -8776,7 +10276,7 @@
       </decGenTrans>
       <decGenTrans>
         <decGenTransRegex>^(.*)$</decGenTransRegex>
-        <decGenTransReplace>$1ești</decGenTransReplace>
+        <decGenTransReplace>$1ezi</decGenTransReplace>
       </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>
@@ -8816,7 +10316,7 @@
       </decGenTrans>
       <decGenTrans>
         <decGenTransRegex>^(.*)$</decGenTransRegex>
-        <decGenTransReplace>$1esc</decGenTransReplace>
+        <decGenTransReplace>$1ează</decGenTransReplace>
       </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>
@@ -8931,12 +10431,16 @@
     <decGenRule>
       <decGenRuleComb>,2,2,2,</decGenRuleComb>
       <decGenRuleName>Ending: a</decGenRuleName>
-      <decGenRuleRegex>^.*ie$</decGenRuleRegex>
+      <decGenRuleRegex>^.*[il]e$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
       <decGenRuleIndex>1</decGenRuleIndex>
       <decGenTrans>
         <decGenTransRegex>^(.*)(ie)$</decGenTransRegex>
         <decGenTransReplace>$1a</decGenTransReplace>
+      </decGenTrans>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)(le)$</decGenTransRegex>
+        <decGenTransReplace>$1$2a</decGenTransReplace>
       </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>
@@ -8971,7 +10475,7 @@
       <decGenRuleTypeId>6</decGenRuleTypeId>
       <decGenRuleIndex>4</decGenRuleIndex>
       <decGenTrans>
-        <decGenTransRegex>^(.*[^a'])$</decGenTransRegex>
+        <decGenTransRegex>^(.*[^a'])*$</decGenTransRegex>
         <decGenTransReplace>$1u'</decGenTransReplace>
       </decGenTrans>
       <decGenRuleApplyToClasses/>
@@ -9003,12 +10507,16 @@
     <decGenRule>
       <decGenRuleComb>,2,3,2,</decGenRuleComb>
       <decGenRuleName>Ending: a</decGenRuleName>
-      <decGenRuleRegex>^.*ie$</decGenRuleRegex>
+      <decGenRuleRegex>^.*[il]e$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
       <decGenRuleIndex>7</decGenRuleIndex>
       <decGenTrans>
         <decGenTransRegex>^(.*)(ie)$</decGenTransRegex>
         <decGenTransReplace>$1a</decGenTransReplace>
+      </decGenTrans>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)(le)$</decGenTransRegex>
+        <decGenTransReplace>$1$2a</decGenTransReplace>
       </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>
@@ -9070,6 +10578,14 @@
         <decGenTransRegex>^(.*[^is])$</decGenTransRegex>
         <decGenTransReplace>$1ii</decGenTransReplace>
       </decGenTrans>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)cii$</decGenTransRegex>
+        <decGenTransReplace>$1çii</decGenTransReplace>
+      </decGenTrans>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)tii$ </decGenTransRegex>
+        <decGenTransReplace>$1ții</decGenTransReplace>
+      </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>
     <decGenRule>
@@ -9081,6 +10597,14 @@
       <decGenTrans>
         <decGenTransRegex>^(.*[^is])$</decGenTransRegex>
         <decGenTransReplace>$1ii</decGenTransReplace>
+      </decGenTrans>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)cii$</decGenTransRegex>
+        <decGenTransReplace>$1çii</decGenTransReplace>
+      </decGenTrans>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)tii$</decGenTransRegex>
+        <decGenTransReplace>$1ții</decGenTransReplace>
       </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>
@@ -9123,12 +10647,28 @@
     <decGenRule>
       <decGenRuleComb>,3,3,3,</decGenRuleComb>
       <decGenRuleName>Ending: es</decGenRuleName>
-      <decGenRuleRegex>^.*[v]$</decGenRuleRegex>
+      <decGenRuleRegex>^.*[cv]$</decGenRuleRegex>
       <decGenRuleTypeId>6</decGenRuleTypeId>
       <decGenRuleIndex>17</decGenRuleIndex>
       <decGenTrans>
         <decGenTransRegex>^(.*)([v])$</decGenTransRegex>
         <decGenTransReplace>$1$2es</decGenTransReplace>
+      </decGenTrans>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)([c])$</decGenTransRegex>
+        <decGenTransReplace>$1çes</decGenTransReplace>
+      </decGenTrans>
+      <decGenRuleApplyToClasses/>
+    </decGenRule>
+    <decGenRule>
+      <decGenRuleComb>,2,2,2,</decGenRuleComb>
+      <decGenRuleName>Remove duplicated letters</decGenRuleName>
+      <decGenRuleRegex>^.*[u][u]*.*$</decGenRuleRegex>
+      <decGenRuleTypeId>6</decGenRuleTypeId>
+      <decGenRuleIndex>18</decGenRuleIndex>
+      <decGenTrans>
+        <decGenTransRegex>^(.*)[u][u]*(.*)$</decGenTransRegex>
+        <decGenTransReplace>$1u$2</decGenTransReplace>
       </decGenTrans>
       <decGenRuleApplyToClasses/>
     </decGenRule>
