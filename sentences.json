@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "eggs_with_sourcream",
+    "Words": "eggs with sour_cream",
+    "ConstructedLanguageSentence": "oves q smântie",
+    "LocalLanguageSentence": "eggs with sour cream"
+  },
+  {
+    "Id": "horace_has_apples",
+    "Words": "horace has apples_accusative",
+    "ConstructedLanguageSentence": "Hori avore merindas",
+    "LocalLanguageSentence": "horace has apples"
+  },
+  {
+    "Id": "the_church_is_here",
+    "Words": "the_church is here",
+    "ConstructedLanguageSentence": "bisa sie açi",
+    "LocalLanguageSentence": "the church is here"
+  },
+  {
+    "Id": "the_duck_dies_of_hunger",
+    "Words": "the_duck_male dies of hunger",
+    "ConstructedLanguageSentence": "rățu' mure dă fambrie",
+    "LocalLanguageSentence": "the duck dies of hunger"
+  },
+  {
+    "Id": "the_fishermen_are_fishing_in_the_lakes",
+    "Words": "the_fishermen are_fishing in the_lakes",
+    "ConstructedLanguageSentence": "pescadorii pescărează en laçes",
+    "LocalLanguageSentence": "the fishermen are fishing in the lakes"
+  },
+  {
+    "Id": "the_villagers_plant_carrots_in_the_garden",
+    "Words": "the_villagers plant_verb carrots in the_garden",
+    "ConstructedLanguageSentence": "sibianii plantă carotas en jardenie",
+    "LocalLanguageSentence": "the villagers plant carrots in the garden"
+  },
+  {
+    "Id": "the_worker_builds_houses",
+    "Words": "the_worker builds houses_accusative",
+    "ConstructedLanguageSentence": "muncaçu' bilduează casas",
+    "LocalLanguageSentence": "the worker builds houses"
+  },
+  {
+    "Id": "we_buy_muffins_or_watermelons",
+    "Words": "we_buy muffins or watermelons",
+    "ConstructedLanguageSentence": "cumprăm mufinas o' lubas",
+    "LocalLanguageSentence": "we buy muffins or watermelons"
+  }
+]

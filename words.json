@@ -1,0 +1,258 @@
+[
+  {
+    "Id": "apples_accusative",
+    "LocalWord": "apple",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "plural",
+      "Case": "accusative",
+      "Article": "indefinite"
+    }
+  },
+  {
+    "Id": "are_fishing",
+    "LocalWord": "fish",
+    "PartOfSpeechName": "verb",
+    "Dimensions": {
+      "Tense": "present",
+      "Number": "plural",
+      "Persona": "third"
+    }
+  },
+  {
+    "Id": "builds",
+    "LocalWord": "build",
+    "PartOfSpeechName": "verb",
+    "Dimensions": {
+      "Tense": "present",
+      "Number": "singular",
+      "Persona": "third"
+    }
+  },
+  {
+    "Id": "carrots",
+    "LocalWord": "carrot",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "plural",
+      "Case": "accusative",
+      "Article": "indefinite"
+    }
+  },
+  {
+    "Id": "dies",
+    "LocalWord": "die",
+    "PartOfSpeechName": "verb",
+    "Dimensions": {
+      "Tense": "present",
+      "Number": "singular",
+      "Persona": "third"
+    }
+  },
+  {
+    "Id": "eggs",
+    "LocalWord": "egg",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Case": "nominative",
+      "Number": "plural",
+      "Article": "indefinite"
+    }
+  },
+  {
+    "Id": "has",
+    "LocalWord": "have",
+    "PartOfSpeechName": "verb",
+    "Dimensions": {
+      "Tense": "present",
+      "Number": "singular",
+      "Persona": "third"
+    }
+  },
+  {
+    "Id": "here",
+    "LocalWord": "here",
+    "PartOfSpeechName": "adverb",
+    "Dimensions": null
+  },
+  {
+    "Id": "horace",
+    "LocalWord": "Horace",
+    "PartOfSpeechName": "proper noun",
+    "Dimensions": null
+  },
+  {
+    "Id": "hunger",
+    "LocalWord": "hunger",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "singular",
+      "Case": "genitive",
+      "Article": "unmarked"
+    }
+  },
+  {
+    "Id": "houses_accusative",
+    "LocalWord": "house",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "plural",
+      "Case": "accusative",
+      "Article": "indefinite"
+    }
+  },
+  {
+    "Id": "in",
+    "LocalWord": "in",
+    "PartOfSpeechName": "preposition",
+    "Dimensions": null
+  },
+  {
+    "Id": "is",
+    "LocalWord": "be",
+    "PartOfSpeechName": "verb",
+    "Dimensions": {
+      "Tense": "present",
+      "Number": "singular",
+      "Persona": "third"
+    }
+  },
+  {
+    "Id": "muffins",
+    "LocalWord": "muffin",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "plural",
+      "Case": "nominative",
+      "Article": "indefinite"
+    }
+  },
+  {
+    "Id": "of",
+    "LocalWord": "of",
+    "PartOfSpeechName": "preposition",
+    "Dimensions": null
+  },
+  {
+    "Id": "or",
+    "LocalWord": "or",
+    "PartOfSpeechName": "conjunction",
+    "Dimensions": null
+  },
+  {
+    "Id": "plant_verb",
+    "LocalWord": "plant",
+    "PartOfSpeechName": "verb",
+    "Dimensions": {
+      "Tense": "present",
+      "Number": "plural",
+      "Persona": "third"
+    }
+  },
+  {
+    "Id": "sour_cream",
+    "LocalWord": "sour cream",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "singular",
+      "Case": "accusative",
+      "Article": "unmarked"
+    }
+  },
+  {
+    "Id": "the_church",
+    "LocalWord": "church",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "singular",
+      "Case": "accusative",
+      "Article": "definite"
+    }
+  },
+  {
+    "Id": "the_duck_male",
+    "LocalWord": "male duck",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "singular",
+      "Case": "accusative",
+      "Article": "definite"
+    }
+  },
+  {
+    "Id": "the_fishermen",
+    "LocalWord": "fisherman",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "plural",
+      "Case": "nominative",
+      "Article": "definite"
+    }
+  },
+  {
+    "Id": "the_garden",
+    "LocalWord": "garden",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "singular",
+      "Case": "accusative",
+      "Article": "unmarked"
+    }
+  },
+  {
+    "Id": "the_lakes",
+    "LocalWord": "lake",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "plural",
+      "Case": "accusative",
+      "Article": "indefinite"
+    }
+  },
+  {
+    "Id": "the_villagers",
+    "LocalWord": "villager",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "plural",
+      "Case": "nominative",
+      "Article": "definite"
+    }
+  },
+  {
+    "Id": "the_worker",
+    "LocalWord": "worker",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "singular",
+      "Case": "nominative",
+      "Article": "definite"
+    }
+  },
+  {
+    "Id": "watermelons",
+    "LocalWord": "watermelon",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "plural",
+      "Case": "nominative",
+      "Article": "indefinite"
+    }
+  },
+  {
+    "Id": "we_buy",
+    "LocalWord": "buy",
+    "PartOfSpeechName": "verb",
+    "Dimensions": {
+      "Tense": "present",
+      "Number": "plural",
+      "Persona": "first"
+    }
+  },
+  {
+    "Id": "with",
+    "LocalWord": "with",
+    "PartOfSpeechName": "preposition",
+    "Dimensions": null
+  }
+]
