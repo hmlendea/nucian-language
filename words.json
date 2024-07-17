@@ -1,5 +1,11 @@
 [
   {
+    "Id": "and",
+    "LocalWord": "and",
+    "PartOfSpeechName": "conjunction",
+    "Dimensions": null
+  },
+  {
     "Id": "apples_accusative",
     "LocalWord": "apple",
     "PartOfSpeechName": "noun",
@@ -57,6 +63,16 @@
       "Case": "nominative",
       "Number": "plural",
       "Article": "indefinite"
+    }
+  },
+  {
+    "Id": "goes",
+    "LocalWord": "go",
+    "PartOfSpeechName": "verb",
+    "Dimensions": {
+      "Tense": "present",
+      "Number": "singular",
+      "Persona": "third"
     }
   },
   {
@@ -210,6 +226,36 @@
     }
   },
   {
+    "Id": "the_lord",
+    "LocalWord": "lord",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "singular",
+      "Case": "nominative",
+      "Article": "definite"
+    }
+  },
+  {
+    "Id": "the_mountains",
+    "LocalWord": "mountain",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "plural",
+      "Case": "dative",
+      "Article": "unmarked"
+    }
+  },
+  {
+    "Id": "the_sea",
+    "LocalWord": "sea",
+    "PartOfSpeechName": "noun",
+    "Dimensions": {
+      "Number": "singular",
+      "Case": "dative",
+      "Article": "unmarked"
+    }
+  },
+  {
     "Id": "the_villagers",
     "LocalWord": "villager",
     "PartOfSpeechName": "noun",
@@ -228,6 +274,12 @@
       "Case": "nominative",
       "Article": "definite"
     }
+  },
+  {
+    "Id": "to",
+    "LocalWord": "to",
+    "PartOfSpeechName": "preposition",
+    "Dimensions": null
   },
   {
     "Id": "watermelons",

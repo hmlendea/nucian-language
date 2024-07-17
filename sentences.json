@@ -30,6 +30,12 @@
     "LocalLanguageSentence": "the fishermen are fishing in the lakes"
   },
   {
+    "Id": "the_lord_goes_to_the_sea_and_to_the_mountains",
+    "Words": "the_lord goes to the_sea and to the_mountains",
+    "ConstructedLanguageSentence": "lordu' mere la morie et la munt",
+    "LocalLanguageSentence": "the lord goes to the sea and to the mountains"
+  },
+  {
     "Id": "the_villagers_plant_carrots_in_the_garden",
     "Words": "the_villagers plant_verb carrots in the_garden",
     "ConstructedLanguageSentence": "sibianii plantă carotas en jardenie",
