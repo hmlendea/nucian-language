@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v3
+
       - name: Validate
         uses: hmlendea/polyglot-language-validate@v1.0.0
         with:
