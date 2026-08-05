@@ -2,6 +2,7 @@
 |------|-------|-------------|------------|
 |ğenuclie|noun|knee|The joint that connects the thigh bone (femur) to the shin bone (tibia), allowing for movement like bending and straightening of the leg.From: Romanian (genunchi)|
 |ğip|noun|SUV, sport utility vehicle|A type of vehicle designed for off-road and on-road use, typically with four-wheel drive capability and a higher ground clearance than standard cars.From: Romanian slang (gip), American company (Jeep)|
+|ğorğist|noun|contrarian, mentally unsound person|A pejorative term for a person who opposes nearly everything and is perceived as lacking sound judgement.From: Romanian (georgist)|
 |a|infinitive marker|to|Introduces the infinitive form of a verb, indicating the action or state that follows.|
 |abeçeu|noun|store|A retail establishment that sells goods or services, often used to describe a physical location or an online marketplace.|
 |acvie|noun|water|A colorless, transparent, odorless liquid that is essential for most forms of life.|
@@ -61,6 +62,7 @@
 |blura|verb|blur|To make something unclear or indistinct, typically by smudging, smearing, or causing to be out of focus.From: English (blur)|
 |blurat|adjectival|blurry|Not clear or sharply defined; lacking distinctness in outline or detail, often due to being out of focus or smeared.From: English (blurry)|
 |boalie|noun|disease|A disorder of structure or function in a human, animal, or plant, especially one that produces specific symptoms or affects a specific location.From: Romanian (boal&amp;#259;)|
+|boncui|verb|bonk, bump, collide|To collide with or strike someone or something, usually lightly or suddenly.From: meme slang (&amp;quot;bonk&amp;quot;)|
 |bonç|adjectival|good|Morally excellent; virtuous; righteous.|
 |bortie|noun|hole, gap, cavity|An opening, gap, or cavity in a surface or material, often created by piercing, digging, or erosion.From: Romanian (bort&amp;#259;), Dacian origin|
 |bozmegi|verb|swear, curse|To use offensive or vulgar language; to curse or use profanity.From: Hungarian swear (baszd meg)|
@@ -88,6 +90,7 @@
 |caros|adjectival|expensive|Costing a lot of money; having a high price or value.From: Latin (carus)|
 |carotie|noun|carrot|A root vegetable with a long, tapering shape, typically orange in color, although other varieties can be purple, red, yellow, or white.From: English (carrot)|
 |casie|noun|house|A building for human habitation, typically with rooms for living, sleeping, and eating.From: Romanian (cas&amp;#259;)|
+|castrav|noun|cucumber|A long, usually green vegetable with a crisp texture and mild flavour, commonly eaten raw in salads or pickled.From: Romanian (castravete)|
 |caș|conjunction|as|The conjunction for comparing clauses.|
 |catalma|verb|calm down|To become less agitated, anxious, or excited; to regain composure or relaxation after a period of tension.From: Romanian (calma) + Romanian (potoli)|
 |catru|cardinal number|four|Being a numerical value that is equal to the quantity of four units; the fourth cardinal number.|
@@ -106,6 +109,7 @@
 |clonța|verb|scare|To cause fear or alarm in someone or something, typically suddenly and unexpectedly.|
 |clonțat|adjectival|scared|Describes a feeling of fear or apprehension. It denotes a state of being frightened, anxious, or alarmed by something perceived as threatening or dangerous.|
 |coăl|noun|coal|A fossil fuel formed from the remains of ancient plants, that is used as a source of energy.|
+|comcot|noun|kumquat|A small oval citrus fruit with sweet peel and tart flesh, typically eaten whole or used in preserves.From: Heard as &amp;quot;kumquat&amp;quot; in spoken Romanian context|
 |compa|verb|behave|To act or conduct oneself in a specified way, especially in relation to others.|
 |congres|noun|congress|A formal gathering of representatives or delegates for discussion and decision-making, typically in a political context.|
 |cora|verb|run|To move swiftly on foot.From: Spanish (correr)|
@@ -118,14 +122,17 @@
 |cumpra|verb|buy|To acquire something in exchange for money or its equivalent.|
 |curbăt|noun|pumpkin|A large, round or oval fruit with a hard, smooth, typically orange rind and edible flesh.|
 |curice|noun|cabbage|A leafy green vegetable with tightly packed leaves that form a round or elongated head.|
+|cubrie|noun|copper|A reddish-brown metallic element used in wiring, coins, and alloys due to its conductivity and malleability.From: Spanish (cobre)|
 |cușadon|noun|diplomat|An official representing a country abroad, skilled in managing international relations and negotiations.|
 |cuț|noun|dog|A domesticated carnivorous mammal, often kept as a pet or used for hunting, guarding, or herding.|
 |çapie|noun|hat|A covering for the head, typically with a shaped crown and brim.From: French|
 |çau|interjection|hello|Used as a greeting or to attract attention.From: Romanian (ceau)|
 |çel|noun|sky|The region of the atmosphere and outer space seen from the Earth.|
 |çest|noun|chest|A large box or container with a lid, often used for storage.|
+|çeție|noun|fog|A thick cloud of tiny water droplets suspended near the ground, reducing visibility.From: Romanian (ceață)|
 |çinç|cardinal number|five|Being a numerical value that is equal to the quantity of five units; the fifth cardinal number.|
 |çiocie|noun|ciocolată|A sweet food made from ground roasted cocoa beans.|
+|çipolie|noun|onion|A round edible bulb with a pungent taste and smell, used as a vegetable and flavouring ingredient in many dishes.From: Romanian (ceapă)|
 |çopi|verb|chop|To cut something into smaller pieces, typically using a sharp tool such as an axe or a knife.|
 |çupi|verb|pinch|To grip tightly and sharply between finger and thumb, often causing discomfort.From: Romanian (ciupi)|
 |çupit|adjectival|pinched|Tightly squeezed or pressed, often causing discomfort or showing signs of strain.|
@@ -146,6 +153,7 @@
 |dula|verb|birth|To give birth, to bring forth offspring.|
 |dulăzie|noun|birthday|The anniversary of the day on which a person was born, typically celebrated by giving gifts, having a party, or enjoying a special meal.|
 |duo|cardinal number|two|Being a numerical value that is equal to the quantity of two units; the second cardinal number.|
+|drageu|noun|dragee, sugar-coated candy|A small sweet confection, usually sugar-coated and often flavoured or filled.From: Romanian (drajeu)|
 |elitrie|noun|wing|A flat, thin, and typically extended surface that protrudes from the side of an object, such as an aircraft or a bird. Wings are primarily used for generating lift and enabling flight. In the context of birds, wings are also used for gliding, soaring, and maneuvering in the air.|
 |ember|noun|dude, guy, man|A man or boy; a term commonly used in informal situations.|
 |emerald|noun|emerald|A precious green gemstone, a variety of beryl, often used in jewelry.From: English (emerald)|
@@ -163,6 +171,7 @@
 |farfie|noun|plate|A flat, usually round dish used for serving food.|
 |fănçiu|adjectival|fancy|Decorative or elaborate in style, often featuring intricate details or patterns; intended to impress or attract attention; not plain or ordinary.From: English (fancy)|
 |feliç|adjectival|happy|Feeling or showing pleasure or contentment.|
+|fezant|noun|pheasant|A large game bird with a long tail, typically hunted or raised for meat.From: English (pheasant)|
 |fens|noun|fence|A structure typically made of posts and wire or boards, erected to enclose an area, provide security, or mark a boundary.From: English (fence)|
 |fer|noun|iron|A strong, hard, magnetic, silvery-gray metal used in construction and manufacturing.|
 |filie|noun|daughter|A female offspring of a parent or parents.|
@@ -175,6 +184,7 @@
 |flocos|adjectival|woolly|Covered with wool or something that resembles wool; having a thick, soft texture resembling wool.|
 |floși|verb|bloom|To produce flowers or blossom, to come into flower.|
 |foc|noun|fire|A chemical reaction involving the rapid oxidation of a fuel, typically accompanied by heat and light.|
+|focaçie|noun|focaccia|An Italian flat oven-baked bread, usually seasoned with olive oil, salt, and herbs.From: Italian (focaccia)|
 |fodia|verb|eat|To consume food, to take food into the body through the mouth and swallow it.|
 |fodie|noun|food|Any nutritious substance that is eaten, drunk, or otherwise taken into the body to sustain life, provide energy, and promote growth and development.|
 |fola|verb|follow|To come or go after or behind someone or something, to pursue.|
@@ -184,6 +194,7 @@
 |frumie|noun|beauty|A quality or combination of qualities that pleases the senses, often associated with physical appearance but also used to describe art, nature, and other things.|
 |fruzie|noun|cutlet, chop|A thin slice of meat, typically taken from the loin or rib section of an animal such as beef, pork, lamb, or veal. It is often boneless and may be tenderized by pounding to achieve a uniform thickness.Origin: A spelling mistake|
 |gaç|noun|pants|A piece of clothing worn from the waist to the ankles, covering each leg separately.|
+|galinie|noun|hen|An adult female chicken, especially one kept for laying eggs.|
 |gălet|noun|bucket|A typically cylindrical container with a handle, used for carrying liquids or other materials.From: Romanian (g&amp;#259;leat&amp;#259;)|
 |găletar|noun|bucketmaker, bucketeer|A person or tool used to create or make buckets, typically involving shaping and assembling the components.From: Romanian (g&amp;#259;letar)|
 |găta|verb|finish|To bring to an end or complete an activity, task, or process.|
@@ -215,11 +226,13 @@
 |hălăli|verb|waste|To use or expend carelessly, extravagantly, or to no purpose; to fail to utilize or consume efficiently.|
 |hău|adverb|what|Asking for information specifying something.|
 |hârton|noun|cardboard|A stiff, thick paper that is typically used for packaging or for making cards or posters.|
+|herbie|noun|grass|A common green plant with narrow leaves that grows naturally in fields, lawns, and meadows.|
 |hodini|verb|rest|To cease work or movement in order to relax, refresh oneself, or recover strength.|
 |hodinie|noun|rest|The state of ceasing activity to relax, recover, or regain strength and energy.|
 |hodinit|adjectival|rested|Feeling refreshed and energized after sleep or rest.|
 |hodog|noun|hot-dog|A cooked sausage served in a sliced bun, typically garnished with condiments like mustard, ketchup, or onions.From: English (hot-dog)|
 |hodor|noun|doorstop|An object used to hold a door open or to prevent it from swinging shut, typically placed on the floor against the bottom of the door.Origin: Game of Thrones character (Hodor)|
+|homin|noun|human|A human being; a person considered as a member of the species Homo sapiens.From: Latin (homo)|
 |hovăr|noun|friend|A person with whom one has a bond of mutual affection and trust, often someone with whom one spends time and shares interests or experiences.|
 |hovie|noun|painted Easter egg|A painted Easter egg is a hard-boiled or hollowed-out egg that has been decorated with colors and designs, typically to celebrate Easter.From: A mishearing as &amp;quot;hob&amp;#259;&amp;quot; by a friend|
 |hudrie|noun|hole|An opening or cavity in a solid object, often described as a gap, a hollow, or a perforation.|
@@ -246,9 +259,12 @@
 |la|preposition|to|Expressing motion or direction toward a place, person, or thing; used to indicate the recipient or result of an action.From: Romanian (la)|
 |lac|noun|lake|A large body of water surrounded by land, typically freshwater and larger than a pond, often used for recreational activities.From: Romanian (lac)|
 |landie|noun|room|A space used for a particular purpose or activity, or a place where someone can be accommodated.|
+|lavadier|noun|dish drainer, dish drying rack|A kitchen rack or holder used for draining and drying washed dishes and cutlery.|
 |lălăi|verb|dawdle, idle, linger, procrastinate|To waste time by being slow or indecisive.|
+|lățău|noun|fringe|A decorative border of hanging threads, tassels, or narrow strips attached to fabric or an object.|
 |lâvra|verb|deliver|To bring goods, mail, or other items to a person or place.|
 |lâvrat|adjectival|delivered|Brought to a destination or recipient.|
+|leger|adjectival|relaxed, casual|Describes something as relaxed, easygoing, or not formal in style or manner.From: Romanian (lejer)|
 |lentilie|noun|lentil|A high-protein pulse that is dried and then soaked and cooked before eating.From: English|
 |librie|noun|book|A written or printed work consisting of pages glued or sewn together and bound in covers, often used for entertainment, education, or reference.|
 |limen|noun|border|The line or boundary that marks the edge of a country, region, or area; a dividing line.From: Latin (limen)|
@@ -272,6 +288,7 @@
 |mâna|verb|lead|To guide or direct a group of people, an organization, or an activity.|
 |mânat|adjectival|led|Guided or directed by someone.|
 |mânca|verb|eat|To put food in your mouth, chew it, and swallow it in order to give your body the nourishment it needs.|
+|medioloc|noun|middle, centre|The central part, point, or position of something; the area equally distant from opposite sides or ends.From: Latin (medio + locus)|
 |melon|noun|friend|A person whom one knows and with whom one has a bond of mutual affection, typically exclusive of sexual or family relations.From: Sindarin (mellon)|
 |merda|verb|poop|To defecate or to pass feces from the body through the anus.|
 |mere|verb|go, walk|To move from one place to another; to travel or proceed.|
@@ -282,6 +299,7 @@
 |mijet|noun|midget, dwarf|An individual with shorter stature than average.|
 |mio|possessive adjective|mine, my|Indicates ownership or association with something belonging to oneself.|
 |mișcolți|verb|wander, roam, get lost|To move about or travel aimlessly or unsystematically, especially over a wide area, usually by loosing one's way.|
+|mobrie|noun|motorcycle|A two-wheeled motor vehicle designed for road travel, with an engine powering the rear wheel.From: Romanian (&amp;quot;mobră&amp;quot;), referring to the Romanian motorcycle brand Mobra; the name combines &amp;quot;mo&amp;quot; (from motocicletă or motoretă) and &amp;quot;bra&amp;quot; (from Brașov).|
 |moda|verb|modify|To change or alter something in order to improve it, adapt it to a different purpose, or make it more suitable.From: Romanian (modifica)|
 |modat|adjectival|modified|Altered or adjusted from its original form; changed to suit a particular purpose or situation.From: Romanian (modificat)|
 |monastir|possessive adjective|monastery|A building or complex of buildings where monks or nuns live together in a community, typically following religious vows of poverty, chastity, and obedience.From: Latin (monasterium), Romanian (m&amp;#259;n&amp;#259;stire)|
@@ -329,15 +347,19 @@
 |palatin|noun|palatine|A high-ranking official in certain countries, especially associated with royal or imperial courts; also, a noble title.From: Latin (palatinus)|
 |pancardie|noun|placard, signboard, noticeboard|A sign or notice for display in a public place, often bearing information, warnings, or advertisements.From: Romanian (plancart&amp;#259;)|
 |papirie|noun|paper|A material made from cellulose pulp, derived mainly from wood, rags, and certain grasses, used for writing, printing, drawing, and wrapping.|
+|papir|noun|paper|A material made from cellulose pulp, used for writing, printing, and packaging.From: Latin (papyrus)|
 |papuc|noun|footwear|Items worn on the feet, such as shoes, boots, sandals, or slippers, for protection and comfort.|
 |parc|noun|park|A public area of land maintained for recreation or conservation, often used for walking, picnicking, or sports.|
 |pasăr|noun|bird|A warm-blooded vertebrate animal with feathers, wings, and a beak, often associated with flight, singing, and migration.|
+|paton|noun|tuna pate|A spread made from tuna, usually blended with oil, butter, or other ingredients into a smooth paste.From: Romanian (fused from &amp;quot;pateu de ton&amp;quot;)|
 |pă|preposition|on, upon|Indicates a location on a surface or a time of an event.|
 |păli|verb|hit|To strike forcefully with a hand, weapon, or other implement.|
 |păsuș|noun|bridge|A structure spanning and providing passage over a gap or obstacle, often used to connect two land masses or cross a body of water.|
 |pășira|verb|chase away, drive away|To force someone or something to leave a place.|
 |peco|noun|gas station, petrol station|A facility where fuel for vehicles is sold, often including amenities like convenience stores and restrooms.|
 |pele|noun|skin|The thin layer of tissue covering the body of a person or animal; also, the outer layer of certain fruits or vegetables.From: Romanian (piele)|
+|pelasie|noun|prayer|A solemn request or expression addressed to a deity, often in worship, thanksgiving, or supplication.From: English (&amp;quot;please&amp;quot;), through the chain &amp;quot;please&amp;quot; -&amp;gt; &amp;quot;pelase&amp;quot; (typo) -&amp;gt; &amp;quot;pelasă&amp;quot; -&amp;gt; &amp;quot;pelasie&amp;quot;.|
+|peniculie|noun|small brush, toothbrush|A small brush used for cleaning, especially for teeth or other precise tasks.From: Latin (peniculus)|
 |periclie|noun|danger|The state or condition of being exposed to harm, risk, or peril; a situation or circumstance that poses a threat to safety, well-being, or health.|
 |perșun|noun|parsley|Parsley: A biennial herb with curly or flat leaves, often used as a garnish or seasoning in cooking.From: Serbocroatian (per&amp;#353;un)|
 |pescador|noun|fisherman|A person who catches fish, typically as a livelihood or for recreation.From: Spanish (pescador)|
@@ -345,10 +367,12 @@
 |pescări|verb|fish|To catch or attempt to catch fish, typically using a rod, line, or net.From: Spanish (pescar)|
 |peșec|noun|baker|A person who bakes bread, cakes, or pastries professionally.|
 |peși|verb|bake|To cook (food) by dry heat without direct exposure to a flame, typically in an oven or on a hot surface.|
+|peton|noun|pedestrian|A person travelling on foot, especially in an area where vehicles may also be present.From: Romanian (pieton)|
 |piğon|noun|pigeon|A stout-bodied bird with short legs and a small head, typically found in urban areas, known for its cooing call and often used as a symbol of peace.From: English (pigeon)|
 |pica|verb|hate|To feel intense or passionate dislike for someone or something.|
 |pileat|adjectival|poor|Lacking sufficient money to live at a standard considered comfortable or normal in a society; of low quality or a low standard.|
 |pilui|verb|peel|The action of removing the outer layer or skin of something, typically a fruit or vegetable.|
+|pinat|noun|peanut|An edible seed of a leguminous plant, commonly roasted and consumed as a snack or used in cooking.From: English (peanut)|
 |pistol|noun|pistol|A handheld firearm, typically having a chamber that is integral with or permanently aligned to the barrel, allowing for quick firing of a single round.From: Romanian (pistol)|
 |pitie|noun|bread|A staple food made from flour, water, and yeast or other leavening agent, often associated with baking and cooking.|
 |piție|noun|pizza|A savory dish consisting of a usually round, flat base of dough topped with tomato sauce, cheese, and various toppings, baked in an oven.From: Italian (pizza)|
@@ -358,6 +382,7 @@
 |plot|noun|plot|An area of land marked off for a particular purpose, often used for gardening, building, or farming.From: English (plot)|
 |poça|verb|can|To be able to do something, to have the capacity or ability to perform a task or activity.|
 |poçitan|adjectival|ugly|Unpleasant or repulsive in appearance.|
+|portof|noun|wallet|A small flat case used to carry money, cards, and personal identification documents.From: Romanian (portofel)|
 |portie|noun|gate|A movable barrier, usually hinged, that can be opened or closed to control passage through an opening in a fence, wall, or barrier.From: Romanian (poart&amp;#259;)|
 |postel|noun|bed|A piece of furniture for sleeping on.|
 |postelandie|noun|bedroom|A room used for sleeping in.|
@@ -380,6 +405,7 @@
 |puș|noun|fluff, puff|Soft, light fibers or down, such as from cotton or feathers.|
 |pușin|adjectival|fluffy, puffy|Soft and light in texture or appearance, like feathers or down; having a light, airy, or puffy quality.|
 |puțurel|adjectival|little|Small in size, amount, or degree.|
+|puțer|noun|servant|A person employed to perform domestic duties or to provide service to another person or household.|
 |q|preposition|with|Indicates association or accompaniment.|
 |qpie|noun|mushroom|A type of fungus with a typically umbrella-shaped cap and stem, often edible.From: Romanian (ciuperc&amp;#259;)|
 |qta|verb|leave, quit|To leave a location or job; to stop doing something.|
@@ -397,10 +423,12 @@
 |ruga|verb|pray|To address a deity or other spiritual being with solemn requests, thanks, or praise, typically in the form of a prayer; to make a devout request or entreaty.From: Romanian (ruga)|
 |rugie|noun|pray|A solemn request or expression of thanks or praise addressed to a deity or other spiritual being, typically involving devotion, supplication, or worship.From: Romanian (rug&amp;#259;)|
 |rumân|noun|romanian|A person, language, or culture originating from or associated with Romania, a country in southeastern Europe.|
+|ruxac|noun|backpack|A bag worn on the back, typically with shoulder straps, used to carry personal belongings.From: Romanian (rucsac)|
 |sanct|noun|male saint|A male person recognized by a religious authority as having an exceptional degree of holiness, often associated with miracles and intercession.|
 |sanct|adjectival|holy, hallowed, sacred|Dedicated or consecrated to God or a religious purpose.|
 |sancta|verb|bless|To ask for divine favor or protection for someone or something, to confer happiness, prosperity or good fortune upon someone.|
 |sanctie|noun|female saint|A female person recognized by a religious authority as having an exceptional degree of holiness, often associated with miracles and intercession.|
+|saladie|noun|salad|A cold dish of mixed vegetables, often including leafy greens, and commonly served with dressing.From: Romanian (salată)|
 |sane|adverb|sure, of course|Without doubt or hesitation.|
 |sânğe|noun|blood|The red liquid flowing in the bodies of humans and other vertebrate animals.From: Romanian (s&amp;#226;nge)|
 |scize|verb|open|To make something unsealed, unlocked or accessible, to unfold or spread out, to begin operations or activities.|
@@ -414,6 +442,7 @@
 |sibianie|noun|female villager|A female person who lives in a village or small community, often associated with rural lifestyles and traditions.|
 |sibiu|noun|village|A small community or settlement in a rural area, often characterized by a close-knit community and traditional lifestyle.|
 |sie|verb|be|To exist, to have reality or actuality, to occupy a particular state or condition.|
+|silvie|noun|forest|A large area densely covered with trees and undergrowth, forming a natural woodland ecosystem.From: Latin (silva)|
 |sinihistru|adjectival|sinister|Giving the impression that something harmful or evil is happening or will happen; ominous or threatening.From: Romanian (sinistru)|
 |sire|noun|shame|A painful feeling of humiliation or distress caused by the consciousness of wrong or foolish behavior.|
 |sleb|noun|slab|A thick, flat piece or slice of material, such as stone, wood, or concrete, typically used for construction or as a surface.From: English (slab)|
@@ -432,6 +461,7 @@
 |spăriet|adjectival|scared|Feeling or showing fear or nervousness.|
 |spihirit|noun|spirit|The non-physical part of a person that is believed to live on after the body dies, often associated with religious or philosophical beliefs.|
 |spir|noun|spear|A long weapon with a sharp pointed blade, typically used for thrusting or throwing, historically used for hunting and warfare.From: English (spear)|
+|stabul|noun|stable|A building where horses or other livestock are kept and sheltered.From: English (stable)|
 |stovie|noun|stove|An apparatus for cooking or heating that operates by burning fuel or using electricity.From: English (stove)|
 |străçi|verb|shine|To emit or reflect bright light, to be bright and glossy, to excel in a particular area.|
 |străçior|adjectival|shiny|Reflecting light, bright and polished.|
@@ -462,6 +492,7 @@
 |tăt|pronoun|everything|All things or all aspects of a situation, considered collectively; the entirety of something.From: Romanian (tot)|
 |tătuna|adverb|same|Used to indicate that something is identical or unchanged from a previous state or condition. It is often used to refer back to something mentioned earlier in a conversation or text.|
 |târg|noun|marketplace|A public square or other area where goods or services are bought and sold, often used for shopping and commerce.|
+|tegulie|noun|roof tile|A shaped slab, commonly ceramic or concrete, used to cover roofs in overlapping rows to provide weather protection.From: Latin (tegula)|
 |televeu|noun|television|A device that receives signals and displays video and sound, used primarily for entertainment or communication purposes.|
 |temp|noun|time|A measure of the duration between events or moments, often considered a continuous progression forward from the past, through the present, and into the future.|
 |templatie|noun|template|A preset format or pattern used as a guide for creating consistent and standardized documents, designs, or structures, allowing for easy replication or customization.|
@@ -473,6 +504,7 @@
 |torç|noun|torch|A portable light source, typically consisting of a stick with a flammable material at one end, used for illumination.From: English (torch)|
 |tortilie|noun|tortilla|A thin, round flatbread made from corn or wheat flour, commonly used in Mexican cuisine.From: Spanish (Tortilla)|
 |trağe|verb|bring, pull|To cause to come with oneself or to a particular place, to transport or convey something or someone.|
+|trandie|noun|rose|A thorny flowering plant of the genus Rosa, known for its fragrant blooms and ornamental use.From: Romanian (trandafir)|
 |trăi|verb|must, have to|To be necessary or required to do something, to have an obligation or duty to do something.|
 |tri|cardinal number|three|Being a numerical value that is equal to the quantity of three units; the third cardinal number.|
 |tria|verb|try|To attempt or make an effort to do something; to test or put to the test.From: Latin (trialis)|
@@ -488,6 +520,7 @@
 |țiție|noun|cat|A small carnivorous mammal with soft fur, a short snout, and retractable claws, domesticated as a pet or for catching mice.|
 |țuca|verb|kiss|To touch or press with the lips as a sign of affection, greeting, or respect.|
 |urni|verb|move|To change position or location; to go from one place to another.|
+|urbie|noun|city|A large and permanently inhabited urban settlement with administrative, economic, and social infrastructure.From: Latin (urbs)|
 |urod|adjectival|ugly|The quality or state of being unattractive or unpleasant in appearance.From: Russian (&amp;#1059;&amp;#1088;&amp;#1086;&amp;#1076;, tr: urod)|
 |ursadon|noun|bear|A large, heavy mammal with shaggy fur and a short tail, native to both Eurasia and North America, known for its strength and ability to stand on its hind legs.From: StarCraft animal (ursadon)|
 |uza|verb|use|To take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result.|
@@ -513,6 +546,7 @@
 |vulpinie|noun|fox|A carnivorous mammal with a pointed snout, bushy tail, and reddish fur, often associated with cunning and intelligence.|
 |zâgan|noun|enemy|A person or group that is actively opposed or hostile to another, often associated with conflict and war.|
 |zâgan|noun|wrongdoer|A person who has committed a wrongdoing, often used to describe a criminal or someone who has violated a moral or ethical standard.|
+|zerp|noun|snake|A long, legless reptile with a scaled body and no eyelids.From: Romanian (șarpe)|
 |zie|noun|day|The period of light between sunrise and sunset, often used to describe a 24-hour period or a specific calendar date.|
 |zieci|adjectival|daily|Occurring or done each day; happening or done every day.|
 |zombău|noun|zombie|A person or fictional creature in an undead state, typically portrayed as a reanimated corpse.From: English (zombie)
